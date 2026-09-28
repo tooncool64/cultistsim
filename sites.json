@@ -49,6 +49,10 @@
 				[
 					"Covenants & Rules",
 					"harrowlanehoa.org/covenants"
+				],
+				[
+					"Newsletter",
+					"harrowlanehoa.org/newsletter"
 				]
 			]
 		},
@@ -150,7 +154,7 @@
 				"the ten"
 			],
 			"source": "<!-- names removed from this page 06/2004 per Pastor -->\n<!-- white text is for the Horns. do not remove. -->",
-			"body": "Ten men of our church family serve on the Board. Out of humility they are listed by first name only.\n\n  Brother Aldous ... Treasurer\n  Brother Walter ... Harrow Lane neighborhood\n  Brother Nathaniel ... Birch Court neighborhood\n  Brother Samuel ... Pine Hollow Estates\n  Brother Isaac ... Buildings & Grounds\n  Brother Jeremiah ... Vehicles & Transportation\n  Brother Levi ... Property Transfers\n  Brother Gideon ... Member Employment\n  Brother Harold ... Member Housing\n  Brother Amos ... Member Protection\n\nAll Board members serve without compensation.\n\n[color=#fffbe6]Ten horns, ten points of the star. Eight are His. 411 and 413 remain. On the thirty-first the Landlord takes possession.[/color]"
+			"body": "Ten men of our church family serve on the Board. Out of humility they are listed by first name only.\n\n  Brother Aldous ... Treasurer\n  Brother Walter ... Harrow Lane neighborhood\n  Brother Nathaniel ... Birch Court neighborhood\n  Brother Samuel ... Pine Hollow Estates\n  Brother Isaac ... Buildings & Grounds\n  Brother Jeremiah ... Vehicles & Transportation\n  Brother Levi ... Property Transfers\n  Brother Gideon ... Member Employment\n  Brother Harold ... Member Housing\n  Brother Amos ... Member Protection\n\nAll Board members serve without compensation.\n\n[color=#fffbe6]Ten horns, ten points of the star. Eight are His.[/color]"
 		},
 		{
 			"url": "evangelicalsintl.org/directory",
@@ -235,7 +239,7 @@
 			"style": "hour",
 			"title": "Index",
 			"source": "<!-- phpBB 2.0.10 -->\n<!-- guest read access left ON after the upgrade. N.D. to fix. -->",
-			"body": "Welcome, [i]Guest[/i]. You may read but not post.\n\n[[evangelicalsintl.org/forum/watch|Prayer Watch assignments, October]] ... by bookkeeper ... 4 replies\n[[evangelicalsintl.org/forum/horns|On the Ten Horns (for the new brothers)]] ... by horn_i ... 11 replies\n[[evangelicalsintl.org/forum/star|the star]] ... by horn_v ... 6 replies\n[[evangelicalsintl.org/forum/31st|the 31st]] ... by horn_x ... 3 replies\n[[evangelicalsintl.org/forum/hours|question about my tithe of hours]] ... by newbrother_d ... 2 replies\n[[evangelicalsintl.org/forum/deliverance|Pine Hollow]] ... by horn_iv ... 1 reply\n\n[color=#555555]Who is online: 7 members, 1 guest.[/color]"
+			"body": "Welcome, [i]Guest[/i]. You may read but not post.\n\n[[evangelicalsintl.org/forum/watch|Prayer Watch assignments, October]] ... by bookkeeper ... 4 replies\n[[evangelicalsintl.org/forum/horns|On the Ten Horns (for the new brothers)]] ... by horn_i ... 11 replies\n[[evangelicalsintl.org/forum/star|the star]] ... by horn_v ... 6 replies\n[[evangelicalsintl.org/forum/31st|the 31st]] ... by horn_x ... 3 replies\n[[evangelicalsintl.org/forum/hours|question about my tithe of hours]] ... by newbrother_d ... 2 replies\n[[evangelicalsintl.org/forum/deliverance|Pine Hollow]] ... by horn_iv ... 1 reply\n[[evangelicalsintl.org/forum/pantry|re: Brother Paul's request]] ... by horn_i ... 5 replies [color=#555555](archived)[/color]\n\n[color=#555555]Who is online: 7 members, 1 guest.[/color]"
 		},
 		{
 			"url": "evangelicalsintl.org/forum/watch",
@@ -285,7 +289,7 @@
 			"hidden": true,
 			"style": "plain",
 			"title": "Violation Queue (internal)",
-			"body": "413 Harrow Lane ... 4.7 lighting (red lamp, rear yard) ... fine daily until sale. THE LAMP MUST BE OUT BY THE 31ST ... L.G.\n411 Harrow Lane ... 4.2 window coverings ... new owner, reporter ... begin notices ... L.G.\n409 Harrow Lane ... 6.1 vehicle ... tenant's car towed 10/02 ... L.G.\n407 Harrow Lane ... CLOSED, sold to Crane Holdings 08/2004\n405 Harrow Lane ... CLOSED, sold to Crane Holdings 07/2004\n\nWalter: he keeps paying the fines. Birch Court will have to do it the other way.\n\nWalt: the camera login is STILL the factory default. Please change it before the 31st. -N.D."
+			"body": "413 Harrow Lane ... 4.7 lighting (red lamp, rear yard) ... fine daily until sale. THE LAMP MUST BE OUT BY THE 31ST ... L.G.\n411 Harrow Lane ... 4.2 window coverings ... new owner, reporter ... begin notices ... L.G.\n409 Harrow Lane ... 6.1 vehicle ... tenant's car towed 10/02 ... L.G.\n407 Harrow Lane ... CLOSED, sold to Crane Holdings 08/2004\n405 Harrow Lane ... CLOSED, sold to Crane Holdings 07/2004\n\nWalter: he keeps paying the fines. Birch Court will have to do it the other way."
 		},
 		{
 			"url": "birchcourtca.org",
@@ -323,7 +327,7 @@
 				"pine hollow poa",
 				"retreat"
 			],
-			"body": "[b]A Quiet Place to Live[/b]\n\nThe {{Pine Hollow Estates POA|org}} (Property Owners Association) manages 40 wooded homesites and the Pine Hollow Lodge, eighteen miles north of Millbrook.\n\nPresident: {{Samuel Pell|name}}\n\nThe Lodge hosts extended retreats and Christian deliverance counseling for families of Evangelicals International. Cell phones do not work at Pine Hollow. We think of that as a blessing.\n\nThe front gate is private property. Visitors must be invited by a resident."
+			"body": "[b]A Quiet Place to Live[/b]\n\nThe {{Pine Hollow Estates POA|org}} (Property Owners Association) manages 40 wooded homesites and the Pine Hollow Lodge, eighteen miles north of Millbrook.\n\nPresident: {{Samuel Pell|name}}\n\nThe Lodge hosts extended retreats and Christian deliverance counseling for families of Evangelicals International. Cell phones do not work at Pine Hollow. We think of that as a blessing.\n\nThe front gate is private property. Visitors must be invited by a resident.\n\n  - [[pinehollowestates.com/lodge|Lodge Retreat Calendar]]"
 		},
 		{
 			"url": "pinehollowestates.com/members",
@@ -501,7 +505,7 @@
 				"underground",
 				"as-built"
 			],
-			"body": "[b]Layer: Utilities, Harrow Ln 400 block[/b]\n\n  Water main, 8 in., cast iron ...... installed 1961\n  Storm drain ....................... installed 1988\n  Electric .......................... overhead, no buried service\n  Gas ............................... none on record\n  Variance 04-117 connector ......... as-built drawings NOT RECEIVED\n                                      final inspection WAIVED (Chair)\n\n[b]Layer: Historic[/b]\n  412 Harrow Ln: site of Harrow Grange Hall (1911 to 1974). Brick cistern beneath hall, dimensions unrecorded. A 1974 survey notes a brick passage running east from the cistern, extent unknown, sealed.\n\n[color=#666666]GIS data is provided for reference only.[/color]"
+			"body": "[b]Layer: Utilities, Harrow Ln 400 block[/b]\n\n  Water main, 8 in., cast iron ...... installed 1961\n  Storm drain ....................... installed 1988\n  Electric .......................... overhead, no buried service\n  Gas ............................... none on record\n  Variance 04-117 connector ......... as-built drawings NOT RECEIVED\n                                      final inspection WAIVED (Chair)\n\n[b]Layer: Historic[/b]\n  412 Harrow Ln: site of Harrow Grange Hall (1911 to 1974). Brick cistern beneath hall, dimensions unrecorded. 1974 cistern survey: on file, not digitized.\n\n[color=#666666]GIS data is provided for reference only.[/color]"
 		},
 		{
 			"url": "millbrookcounty.gov/police/blotter",
@@ -643,7 +647,7 @@
 				"observatory",
 				"backyard observatory"
 			],
-			"body": "[center][b]PAUL'S BACKYARD OBSERVATORY[/b]\nMillbrook, 47 N\n[color=#666666]You are visitor #01877[/color][/center]\n\nWelcome! I'm a retired science teacher and I've been observing from my backyard on Harrow Lane since 1983. My main scope is a 10-inch Dobsonian in a roll-off-roof shed I built in 1994.\n\nI observe with a red lamp so my eyes stay dark-adapted. Most nights I'm out until three or four.\n\n  - [[home.millnet.com/~prennick/log|Observing Log, Fall 2004]]\n  - [[home.millnet.com/~prennick/links|Links]]\n\n[color=#666666]Clear skies![/color]"
+			"body": "[center][b]PAUL'S BACKYARD OBSERVATORY[/b]\nMillbrook, 47 N\n[color=#666666]You are visitor #01877[/color][/center]\n\nWelcome! I'm a retired science teacher and I've been observing from my backyard on Harrow Lane since 1983. My main scope is a 10-inch Dobsonian in a roll-off-roof shed I built in 1994.\n\nI observe with a red lamp so my eyes stay dark-adapted. Most nights I'm out until three or four.\n\n  - [[home.millnet.com/~prennick/log|Observing Log, Fall 2004]]\n  - [[home.millnet.com/~prennick/log2003|Observing Log, Spring 2003]] [color=#666666](archived)[/color]\n  - [[home.millnet.com/~prennick/links|Links]]\n\n[color=#666666]Clear skies![/color]"
 		},
 		{
 			"url": "home.millnet.com/~prennick/log",
@@ -810,7 +814,7 @@
 				"screenings",
 				"harrow documentary"
 			],
-			"body": "[b]MCC Film Society :: Fall 2004[/b]\nFridays, 7 PM, Lecture Hall B. Free popcorn!\n\n  Sep 17 ... The Conversation (1974)\n  Oct 01 ... Chinatown (1974)\n  Oct 22 ... HARROW (student documentary, dir. Owen Hart, 22 min.)\n             [color=#990000]CANCELLED at the request of the Office of Student Activities.[/color]\n  Nov 05 ... Night of the Hunter (1955)\n\n[color=#666666]Questions? Ask Owen in the media lab.[/color]"
+			"body": "[b]MCC Film Society :: Fall 2004[/b]\nFridays, 7 PM, Lecture Hall B. Free popcorn!\n\n  Sep 17 ... The Conversation (1974)\n  Oct 01 ... Chinatown (1974)\n  Oct 22 ... HARROW (student documentary, dir. Owen Hart, 22 min.)\n             [color=#990000]CANCELLED at the request of the Office of Student Activities.[/color]\n  Nov 05 ... Night of the Hunter (1955)\n\n[color=#666666]Questions? Ask Owen in the media lab. [[mcc.edu/medialab/ohart|Owen's project folder]][/color]"
 		},
 		{
 			"url": "millbrookcounty.gov/assessor/413-harrow",
@@ -860,7 +864,7 @@
 				"epell",
 				"esther's page"
 			],
-			"body": "Hello and welcome to my little corner of the web.\n\nI used to put my canning recipes here. I'll put them back some day.\n\n  - [[home.millnet.com/~epell/ruth|HAVE YOU SEEN MY DAUGHTER RUTH?]]\n\nIf you know anything, anything at all, please write to me at epell@millnet.com.\n\n[color=#666666]Last updated 10/07/2004[/color]"
+			"body": "Hello and welcome to my little corner of the web.\n\nI used to put my canning recipes here. I'll put them back some day.\n\n  - [[home.millnet.com/~epell/ruth|HAVE YOU SEEN MY DAUGHTER RUTH?]]\n\nIf you know anything, anything at all, please write to me at epell@millnet.com.\n\nOn Tuesday nights I go to a circle at [[millbrooklutheran.org|Grace Lutheran]]. It helps.\n\n[color=#666666]Last updated 10/07/2004[/color]"
 		},
 		{
 			"url": "mcc.edu",
@@ -872,7 +876,7 @@
 				"millbrook college",
 				"job fair"
 			],
-			"body": "[center][b]MILLBROOK COMMUNITY COLLEGE[/b]\n[i]Opportunity Starts Here[/i][/center]\n\n[b]Fall 2004 News[/b]\n  - Registration for Winter Quarter opens November 1.\n  - The library will close early on Friday for carpet cleaning.\n  - [b]Thursday Job Fair[/b], Library Room 2B, every week, hosted by our community partner Ashby Staffing Services. Free lunch for students who sign up!\n\n[b]Student Life[/b]\n  - [[mcc.edu/clubs|Student Clubs]]\n  - [[mcc.edu/clubs/film|Film Society Screenings]]\n\n[color=#666666]Office of Student Activities: 555-0190[/color]"
+			"body": "[center][b]MILLBROOK COMMUNITY COLLEGE[/b]\n[i]Opportunity Starts Here[/i][/center]\n\n[b]Fall 2004 News[/b]\n  - Registration for Winter Quarter opens November 1.\n  - The library will close early on Friday for carpet cleaning.\n  - [b]Thursday Job Fair[/b], Library Room 2B, every week, hosted by our community partner Ashby Staffing Services. Free lunch for students who sign up!\n\n[b]Student Life[/b]\n  - [[mcc.edu/clubs|Student Clubs]]\n  - [[mcc.edu/clubs/film|Film Society Screenings]]\n  - [[mcc.edu/lab|Open Computer Lab: Rules & Hours]]\n\n[color=#666666]Office of Student Activities: 555-0190[/color]"
 		},
 		{
 			"url": "millbrookcounty.gov",
@@ -884,7 +888,7 @@
 				"county website",
 				"county departments"
 			],
-			"body": "Welcome to the official web site of Millbrook County.\n\n[b]Departments[/b]\n  - County Recorder: [[millbrookcounty.gov/recorder/liens|Lien & Deed Index]]\n  - County Assessor: [[millbrookcounty.gov/assessor/harrow-lane|Parcel Search]]\n  - Planning: [[millbrookcounty.gov/planning/minutes|Commission Minutes]] | [[millbrookcounty.gov/planning/commissioners|Commissioners]]\n  - GIS: [[millbrookcounty.gov/gis/harrow|Utility Maps]]\n  - Sheriff: [[millbrookcounty.gov/police/blotter|Monthly Blotter]]\n\n[b]County News[/b]\n  - The Board of Supervisors thanks Crane Holdings LLC for its generous donation toward the new Harrow Lane Sheriff's substation.\n  - Leaf pickup begins November 8.\n  - Property tax statements will be mailed October 25.\n\n[color=#666666]Millbrook County is an Equal Opportunity Employer.[/color]"
+			"body": "Welcome to the official web site of Millbrook County.\n\n[b]Departments[/b]\n  - County Recorder: [[millbrookcounty.gov/recorder/liens|Lien & Deed Index]]\n  - County Assessor: [[millbrookcounty.gov/assessor/harrow-lane|Parcel Search]]\n  - Planning: [[millbrookcounty.gov/planning/minutes|Commission Minutes]] | [[millbrookcounty.gov/planning/commissioners|Commissioners]]\n  - GIS: [[millbrookcounty.gov/gis/harrow|Utility Maps]]\n  - Sheriff: [[millbrookcounty.gov/police/blotter|Monthly Blotter]] | [[millbrookcounty.gov/sheriff|Meet Your Deputies]]\n\n[b]County News[/b]\n  - The Board of Supervisors thanks Crane Holdings LLC for its generous donation toward the new Harrow Lane Sheriff's substation.\n  - Leaf pickup begins November 8.\n  - Property tax statements will be mailed October 25.\n\n[color=#666666]Millbrook County is an Equal Opportunity Employer.[/color]"
 		},
 		{
 			"url": "millbrookgripes.com",
@@ -910,7 +914,7 @@
 				"local news",
 				"the ledger"
 			],
-			"body": "[b]School board delays vote on bus routes[/b]\nThe Millbrook School Board postponed a decision on consolidating bus routes until November.\n\n[b]Harvest Festival draws record crowd[/b]\nMore than 3,000 people came to the fairgrounds for pie, hayrides and the pumpkin weigh-off. [[millbrookledger.com/harvest-2004|Full results]]\n\n[b]Harrow Lane utility work approved[/b]\nThe Planning Commission approved a utility connector beneath Harrow Lane. Commission Chair Lydia Greaves called it \"routine infrastructure.\"\n\n[b]From the Archive[/b]\n  - [[millbrookledger.com/archive/1986-daycare|1986: Harrow Lane daycare closed amid 'ritual' claims]]\n  - [[millbrookledger.com/archive/1988-lindqvist|1988: Charges dropped against daycare owner]]\n  - [[millbrookledger.com/archive/1991-apology|1991: An apology to Carol Lindqvist]]\n  - [[millbrookledger.com/archive/1998-crane|1998: Local preacher sentenced in charity fraud]]\n  - [[millbrookledger.com/archive/1999-pantry|1999: Church keeps doors open in pastor's absence]]\n  - [[millbrookledger.com/archive/2001-return|2001: Crane returns to Harrow Lane pulpit]]\n  - [[millbrookledger.com/archive/2002-weddings|2002: Weddings & Engagements]]\n  - [[millbrookledger.com/archive/2003-towing|2003: Residents fume over late-night tows]]\n\n[b]Inside[/b]\n  - [[millbrookledger.com/obituaries|Obituaries]]\n  - [[millbrookledger.com/classifieds|Classifieds]]\n\n[b]Letters to the Editor[/b]\n  - [[millbrookledger.com/letters/2004-09-hoa|Harrow Lane is being bought one fine at a time]]\n\n[color=#666666]Editor: Dana Ruiz. Have a news tip? Call 555-0111.[/color]"
+			"body": "[b]School board delays vote on bus routes[/b]\nThe Millbrook School Board postponed a decision on consolidating bus routes until November.\n\n[b]Harvest Festival draws record crowd[/b]\nMore than 3,000 people came to the fairgrounds for pie, hayrides and the pumpkin weigh-off. [[millbrookledger.com/harvest-2004|Full results]]\n\n[b]Harrow Lane utility work approved[/b]\nThe Planning Commission approved a utility connector beneath Harrow Lane. Commission Chair Lydia Greaves called it \"routine infrastructure.\"\n\n[b]From the Archive[/b]\n  - [[millbrookledger.com/archive/2003-towing|One year ago: Residents fume over late-night tows]]\n  - [[millbrookledger.com/archive|Browse the Ledger archive]] [color=#990000]NEW: 1931 and 1974 stories added from microfilm![/color]\n\n[b]Inside[/b]\n  - [[millbrookledger.com/obituaries|Obituaries]]\n  - [[millbrookledger.com/classifieds|Classifieds]]\n\n[b]Letters to the Editor[/b]\n  - [[millbrookledger.com/letters/2004-09-hoa|Harrow Lane is being bought one fine at a time]]\n\n[color=#666666]Editor: Dana Ruiz. Have a news tip? Call 555-0111.[/color]"
 		},
 		{
 			"url": "millbrooktalk.net",
@@ -922,7 +926,7 @@
 				"local forum",
 				"message board"
 			],
-			"body": "[b]Local Chat[/b]  (Moderator: admin)\n\n  [[millbrooktalk.net/viewtopic-5203|looking for people to interview (student documentary)]] ... reelowen ... [color=#cc0000]Locked[/color]\n  [[millbrooktalk.net/viewtopic-5120|got towed off Harrow Ln at 3am AGAIN]] ... rosa_a ... 2 replies\n  [[millbrooktalk.net/viewtopic-3988|Best pizza in town??]] ... tacoma_steve ... 41 replies\n  [[millbrooktalk.net/viewtopic-4471|anyone else's family join that church on Harrow?]] ... wrenfield_mom ... [color=#cc0000]Locked[/color]\n  [[millbrooktalk.net/viewtopic-5077|Lost dog, black lab, Birch Ct area]] ... barb_t ... 3 replies\n  [[millbrooktalk.net/viewtopic-4630|Anyone else hear a hum at night on Harrow?]] ... nightshift_dave ... [color=#cc0000]Locked[/color]\n\n[color=#555555]Who is online: 12 users, 3 guests. Most users ever online was 57.[/color]"
+			"body": "[b]Local Chat[/b]  (Moderator: admin)\n\n  [[millbrooktalk.net/viewtopic-5203|looking for people to interview (student documentary)]] ... reelowen ... [color=#cc0000]Locked[/color]\n  [[millbrooktalk.net/viewtopic-5150|HALO 2 MIDNIGHT LAUNCH who is going]] ... xXskaterboi91Xx ... 9 replies\n  [[millbrooktalk.net/viewtopic-5120|got towed off Harrow Ln at 3am AGAIN]] ... rosa_a ... 2 replies\n  [[millbrooktalk.net/viewtopic-3988|Best pizza in town??]] ... tacoma_steve ... 41 replies\n  [[millbrooktalk.net/viewtopic-4471|anyone else's family join that church on Harrow?]] ... wrenfield_mom ... [color=#cc0000]Locked[/color]\n  [[millbrooktalk.net/viewtopic-5077|Lost dog, black lab, Birch Ct area]] ... barb_t ... 3 replies\n  [[millbrooktalk.net/viewtopic-5166|HELP purple gorilla on my computer wont go away]] ... barb_t ... 7 replies\n  [[millbrooktalk.net/viewtopic-4630|Anyone else hear a hum at night on Harrow?]] ... nightshift_dave ... [color=#cc0000]Locked[/color]\n\n[color=#555555]Who is online: 12 users, 3 guests. Most users ever online was 57.[/color]"
 		},
 		{
 			"url": "users.journalbox.com",
@@ -934,7 +938,7 @@
 				"blogs",
 				"journals"
 			],
-			"body": "[center]Free online journals! Moods, music, friends-only posts and more.[/center]\n\n[b]Recently updated journals near Millbrook:[/b]\n  - [[users.journalbox.com/hannah_k|~*~ hannah's journal ~*~]] (mood: tired)\n  - [[users.journalbox.com/jonah_m|jonah's journal :: underground]] (mood: ...)\n  - [[users.journalbox.com/xXskaterboi91Xx|xXskaterboi91Xx]] (mood: bored)\n  - [[users.journalbox.com/mcc_emo_kid|mcc_emo_kid]] (mood: listening to Dashboard again)\n\n[center][color=#ff77cc]Get your own JournalBox today![/color][/center]"
+			"body": "[center]Free online journals! Moods, music, friends-only posts and more.[/center]\n\n[b]Recently updated journals near Millbrook:[/b]\n  - [[users.journalbox.com/hannah_k|~*~ hannah's journal ~*~]] (mood: tired)\n  - [[users.journalbox.com/jonah_m|jonah's journal :: underground]] (mood: ...)\n  - [[users.journalbox.com/xXskaterboi91Xx|xXskaterboi91Xx]] (mood: bored)\n  - [[users.journalbox.com/mcc_emo_kid|mcc_emo_kid]] (mood: listening to Dashboard again)\n  - [[users.journalbox.com/pizzagod88|pizzagod88 :: the za zone]] (mood: hungry)\n\n[center][color=#ff77cc]Get your own JournalBox today![/color][/center]"
 		},
 		{
 			"url": "home.millnet.com/~bgunderson",
@@ -949,7 +953,7 @@
 				"crafts",
 				"raffle quilt"
 			],
-			"body": "[center][b]~ Barb's Quilt Corner ~[/b]\n[color=#cc6699]\"Blessed are the piecemakers!\"[/color]\n[font_size=12]Made with Microsoft FrontPage Express[/font_size][/center]\n\nHi! I'm Barbara T. Gunderson (Barb!) and I've been quilting for 31 years. My granddaughter set up this page for me so bear with me!!\n\n[b]Current Project[/b]\nA raffle quilt for the Fall Potluck at the church on Harrow Lane. The ladies gave me the pattern: a big five-pointed star, point DOWN, with a little candle at each point and each place the lines cross. Ten candles. Eight in gold thread and two left blank. I said Lydia, isn't that star upside down? Isn't that one of the signs from Deputy Drury's seminar? She laughed and said I'd understand later. Well OK! It's their raffle.\n\n[b]Finished This Year[/b]\n  - Log Cabin baby quilt for my great-nephew\n  - Double Wedding Ring (took me 2 YEARS, never again!!)\n  - Moose's dog bed, flannel (he prefers the couch)\n\n[b]Tip of the Month[/b]\nAlways prewash your cottons!!! Especially the reds. Red bleeds into everything.\n\n[b]My Links[/b]\n  - [[users.journalbox.com/hannah_k|My granddaughter Hannah's journal thing]] (she is a licensed insurance agent now!!)\n  - [[millbrooktalk.net/viewtopic-5077|MY DOG MOOSE IS LOST]] [color=#009900](FOUND!! Praise God)[/color]\n  - Keepsake Quilting\n\n[center][color=#666666]You are visitor #000219. Please sign my guestbook! It is not working right now.[/color][/center]"
+			"body": "[center][b]~ Barb's Quilt Corner ~[/b]\n[color=#cc6699]\"Blessed are the piecemakers!\"[/color]\n[font_size=12]Made with Microsoft FrontPage Express[/font_size][/center]\n\nHi! I'm Barbara T. Gunderson (Barb!) and I've been quilting for 31 years. My granddaughter set up this page for me so bear with me!!\n\n[b]Current Project[/b]\nA raffle quilt for the Fall Potluck at the church on Harrow Lane. The ladies gave me the pattern: a big five-pointed star, point DOWN, with a little candle at each point and each place the lines cross. Ten candles. Eight in gold thread and two left blank. I said Lydia, isn't that star upside down? Isn't that one of the signs from Deputy Drury's seminar? She laughed and said I'd understand later. Well OK! It's their raffle.\n\n[b]Finished This Year[/b]\n  - Log Cabin baby quilt for my great-nephew\n  - Double Wedding Ring (took me 2 YEARS, never again!!)\n  - Moose's dog bed, flannel (he prefers the couch)\n\n[b]Tip of the Month[/b]\nAlways prewash your cottons!!! Especially the reds. Red bleeds into everything.\n\n[b]My Links[/b]\n  - [[users.journalbox.com/hannah_k|My granddaughter Hannah's journal thing]] (she is a licensed insurance agent now!!)\n  - [[millbrooktalk.net/viewtopic-5077|MY DOG MOOSE IS LOST]] [color=#009900](FOUND!! Praise God)[/color]\n  - Keepsake Quilting\n  - [[home.millnet.com/~bgunderson/forwards|My Favorite Forwards (FUNNY!!)]]\n\n[center][color=#666666]You are visitor #000219. Please sign my guestbook! It is not working right now.[/color][/center]"
 		},
 		{
 			"url": "home.millnet.com/~tsteve",
@@ -965,7 +969,7 @@
 				"hamster dance",
 				"hampster dance"
 			],
-			"body": "[center][color=#990000][b]!!! UNDER CONSTRUCTION !!![/b][/color]\n[color=#999999][image: construction_guy.gif][/color]\n\n[b]STEVE'S TACOMA TRUCK PAGE[/b]\n1998 Toyota Tacoma SR5 4x4 * \"The Beast\"[/center]\n\n[b]Mods[/b]\n  - 3\" lift (did it myself in Rosa's driveway)\n  - 31\" BFGoodrich All-Terrains\n  - Flame decals (hood + doors), $40 at the swap meet\n  - Alpine deck w/ 10\" sub. Rattles the mirror on \"Let's Get It Started.\"\n  - [color=#999999]Coming soon: KC lights, if the HOA doesn't fine me for them lol[/color]\n\n[b]THE TOW STORY (READ THIS)[/b]\nParked on Harrow in front of my girlfriend's place. 3 AM, gone. Coyle's had it. $385 CASH. Next day I went and bought their \"service sticker\" so it won't happen again. $60. Abel didn't even open the hood. He just slapped it on the windshield. I asked what the service was. He said \"The service is you don't get towed.\" Then he said I was \"on the list now\" and laughed. What list??\n\n[b]Fun Stuff[/b]\n  - [color=#0000ff][u]CLICK HERE FOR THE HAMSTER DANCE!!![/u][/color]\n  - My [[millbrooktalk.net/viewtopic-3988|pizza rankings]] (Luigi's is #1, I will fight you)\n  - Pics of the Beast [color=#999999](scanner broken)[/color]\n\n[center][color=#666666]Truck pics coming soon!! Best viewed with your eyes.\nYou are visitor #00057[/color][/center]"
+			"body": "[center][color=#990000][b]!!! UNDER CONSTRUCTION !!![/b][/color]\n[color=#999999][image: construction_guy.gif][/color]\n\n[b]STEVE'S TACOMA TRUCK PAGE[/b]\n1998 Toyota Tacoma SR5 4x4 * \"The Beast\"[/center]\n\n[b]Mods[/b]\n  - 3\" lift (did it myself in Rosa's driveway)\n  - 31\" BFGoodrich All-Terrains\n  - Flame decals (hood + doors), $40 at the swap meet\n  - Alpine deck w/ 10\" sub. Rattles the mirror on \"Let's Get It Started.\"\n  - [color=#999999]Coming soon: KC lights, if the HOA doesn't fine me for them lol[/color]\n\n[b]THE TOW STORY (READ THIS)[/b]\nParked on Harrow in front of my girlfriend's place. 3 AM, gone. Coyle's had it. $385 CASH. Next day I went and bought their \"service sticker\" so it won't happen again. $60. Abel didn't even open the hood. He just slapped it on the windshield. I asked what the service was. He said \"The service is you don't get towed.\" Then he said I was \"on the list now\" and laughed. What list??\n\n[b]Fun Stuff[/b]\n  - [[home.millnet.com/~tsteve/hampster|CLICK HERE FOR THE HAMSTER DANCE!!!]]\n  - My [[millbrooktalk.net/viewtopic-3988|pizza rankings]] (Luigi's is #1, I will fight you)\n  - Pics of the Beast [color=#999999](scanner broken)[/color]\n\n[center][color=#666666]Truck pics coming soon!! Best viewed with your eyes.\nYou are visitor #00057[/color][/center]"
 		},
 		{
 			"url": "home.millnet.com/~wgreaves",
@@ -981,7 +985,7 @@
 				"walt",
 				"wgreaves"
 			],
-			"body": "[center][b]WALT'S HARROW & WESTERN RAILROAD[/b]\nHO Scale * Est. 1988 * Proud member of the NMRA\n[color=#990000]NEW PICS ADDED 10/03![/color] [color=#999999](pics not loading? try hitting Refresh)[/color][/center]\n\nWelcome fellow railfans! My layout is a 1:87 recreation of Millbrook as it looked in 1961, right down to the old Grange Hall on Harrow Lane with its brick chimney.\n\n[b]Recent Work[/b]\n  - Weathered the grain elevator. Chalk pastels work great!\n  - Built a tunnel portal under Harrow Lane, running from the Grange Hall across to the odd-numbered side. Pastor suggested it at fellowship and I have to say it really completes the street. There was never a railroad under Harrow, of course. Artistic license!\n  - Lydia wants a little man at a desk in the window of 411, with the light on. She says it's more realistic. Ha ha!\n  - Painted the back yard of 413 dark. Didn't like how it looked lit.\n\n[b]Roster[/b]\n  - Athearn SD9, Harrow & Western #412\n  - 2 Bachmann cabooses (1 needs a coupler)\n  - 10 brass lanterns for the station platform, 1/87 scale. 8 installed.\n  - Gary's old Lionel set, which I will get to someday. Miss you Dad.\n\n[b]For Sale/Trade[/b]\nAthearn blue box boxcars, $5 ea. E-mail me. Cash or money order.\n\n[color=#666666]Lydia says the layout is taking over the basement. She's right!\nYou are visitor #000388[/color]"
+			"body": "[center][b]WALT'S HARROW & WESTERN RAILROAD[/b]\nHO Scale * Est. 1988 * Proud member of the NMRA\n[color=#990000]NEW PICS ADDED 10/03![/color] [color=#999999](pics not loading? try hitting Refresh)[/color][/center]\n\nWelcome fellow railfans! My layout is a 1:87 recreation of Millbrook as it looked in 1961, right down to the old Grange Hall on Harrow Lane with its brick chimney.\n\n[b]Recent Work[/b]\n  - Weathered the grain elevator. Chalk pastels work great!\n  - Built a tunnel portal under Harrow Lane, running from the Grange Hall across to the odd-numbered side. Pastor suggested it at fellowship and I have to say it really completes the street. There was never a railroad under Harrow, of course. Artistic license!\n  - Lydia wants a little man at a desk in the window of 411, with the light on. She says it's more realistic. Ha ha!\n  - Painted the back yard of 413 dark. Didn't like how it looked lit.\n  - Also set up the new camera box for the Association. Lydia keeps after me to change the password from whatever it came with. I will! After Halloween. There are too many passwords in this house already.\n\n[b]Roster[/b]\n  - Athearn SD9, Harrow & Western #412\n  - 2 Bachmann cabooses (1 needs a coupler)\n  - 10 brass lanterns for the station platform, 1/87 scale. 8 installed.\n  - Gary's old Lionel set, which I will get to someday. Miss you Dad.\n\n[b]For Sale/Trade[/b]\nAthearn blue box boxcars, $5 ea. E-mail me. Cash or money order.\n\n[color=#666666]Lydia says the layout is taking over the basement. She's right!\nYou are visitor #000388[/color]"
 		},
 		{
 			"url": "home.millnet.com/~jfinch",
@@ -1324,7 +1328,7 @@
 				"millers",
 				"dale kirsch"
 			],
-			"body": "[center][b]MILLBROOK HIGH SCHOOL ALUMNI[/b]\nGo Millers! [color=#999999][image: miller_mascot.gif][/color][/center]\n\n[b]Teacher Hall of Fame[/b]\nThis year's honoree: [b]Mr. Paul Rennick[/b], Earth Science, 1978 to 2002. Remembered for his Friday night star parties, his red flashlight, and for making every class balance the lab supply budget out loud \"so nobody ever has to wonder where it went.\" Nominated by 41 former students.\n\n[b]Class of 1989: 15th Reunion[/b]\nThanks to all who came! Special thanks to Tammy from the KMLB Morning Zoo for DJing. Still missing: Dale Kirsch. He RSVP'd yes back in June and nobody has heard from him since. Dale, we saved you a plate.\n\n[b]Class of 2003: Where Are They Now?[/b]\n  - Jonah Mercer ... working in the family business! Still holds the Millers record for tackles.\n  - Priya Nandakumar ... MCC, then UW!\n  - Ruth Pell ... [color=#999999]no update[/color]\n\n[b]Class of 2004 Superlatives[/b]\n  Most Likely to Succeed ... Hannah Kettering\n  Class Clown ... Tyler Voss\n  Best Hair ... Owen Hart\n\n[center][color=#666666]Update your info! E-mail alumni@millbrookhigh.k12.wa.us[/color][/center]"
+			"body": "[center][b]MILLBROOK HIGH SCHOOL ALUMNI[/b]\nGo Millers! [color=#999999][image: miller_mascot.gif][/color][/center]\n\n[b]Teacher Hall of Fame[/b]\nThis year's honoree: [b]Mr. Paul Rennick[/b], Earth Science, 1978 to 2002. Remembered for his Friday night star parties, his red flashlight, and for making every class balance the lab supply budget out loud \"so nobody ever has to wonder where it went.\" Nominated by 41 former students.\n\n[b]Class of 1989: 15th Reunion[/b]\nThanks to all who came! Special thanks to Tammy from the KMLB Morning Zoo for DJing. Still missing: Dale Kirsch. He RSVP'd yes back in June and nobody has heard from him since. Dale, we saved you a plate. (Somebody found his [[users.journalbox.com/dkirsch71|old JournalBox]], but it hasn't been updated since August.)\n\n[b]Class of 2003: Where Are They Now?[/b]\n  - Jonah Mercer ... working in the family business! Still holds the Millers record for tackles.\n  - Priya Nandakumar ... MCC, then UW!\n  - Ruth Pell ... [color=#999999]no update[/color]\n\n[b]Class of 2004 Superlatives[/b]\n  Most Likely to Succeed ... Hannah Kettering\n  Class Clown ... [[friendnest.com/tylervoss|Tyler Voss]]\n  Best Hair ... Owen Hart\n\n[center][color=#666666]Update your info! E-mail alumni@millbrookhigh.k12.wa.us[/color][/center]"
 		},
 		{
 			"url": "kmlb.com",
@@ -1341,7 +1345,7 @@
 				"songs",
 				"radio station"
 			],
-			"body": "[center][b][color=#0033cc]98.7 KMLB[/color][/b]\nMillbrook's Hit Music Station!\n[color=#999999][font_size=12]Now playing: kmlb_jingle.mid (press Stop in your browser to turn off the music)[/font_size][/color][/center]\n\n[b]THE KMLB HOT 10 (week of Oct 11)[/b]\n  1. Usher & Alicia Keys ... My Boo\n  2. Destiny's Child ... Lose My Breath\n  3. Maroon 5 ... She Will Be Loved\n  4. Ciara ... Goodies\n  5. Green Day ... American Idiot\n  6. Gwen Stefani ... What You Waiting For?\n  7. U2 ... Vertigo\n  8. Switchfoot ... Dare You to Move\n  9. Black Eyed Peas ... Let's Get It Started\n  10. Hoobastank ... The Reason\n\n[b]WIN IT![/b]\nBe caller 9 when you hear the KMLB Cash Cow moo and win a copy of HALO 2 on launch day, Nov 9! Request line: 555-0198.\n\n[b]Our Lineup[/b]\n  5 to 10 AM ... The Morning Zoo with Big Rick & Tammy\n  10 AM to 3 PM ... Lunchtime Requests\n  3 to 7 PM ... Drive Time with DJ Marcus\n  7 PM to Midnight ... Love Songs After Dark\n  Midnight to 5 AM ... Quiet Hours: soft inspirational music, sponsored by Kettering Insurance Agency. [i]\"Because tomorrow is not promised.\"[/i]\n\n[color=#990000][b]A note from station management:[/b] KMLB does NOT play records backwards, on air or otherwise. We have received 200+ copies of a church tape saying otherwise. Please stop mailing them to us.[/color]\n\n[b]Quiet Hours Dedications[/b]\n  - \"To my husband on the night shift. Drive safe. -- K.\"\n  - \"To Grandpa W., for keeping the light on all those years.\"\n  - [color=#999999]\"To R., wherever you are resting. Your mother misses you.\" (removed at the sponsor's request)[/color]\n\n[center][color=#666666]Sign our guestbook! Tell us your favorite Morning Zoo prank![/color][/center]"
+			"body": "[center][b][color=#0033cc]98.7 KMLB[/color][/b]\nMillbrook's Hit Music Station!\n[color=#999999][font_size=12]Now playing: kmlb_jingle.mid (press Stop in your browser to turn off the music)[/font_size][/color][/center]\n\n[b]THE KMLB HOT 10 (week of Oct 11)[/b]\n  1. Usher & Alicia Keys ... My Boo\n  2. Destiny's Child ... Lose My Breath\n  3. Maroon 5 ... She Will Be Loved\n  4. Ciara ... Goodies\n  5. Green Day ... American Idiot\n  6. Gwen Stefani ... What You Waiting For?\n  7. U2 ... Vertigo\n  8. Switchfoot ... Dare You to Move\n  9. Black Eyed Peas ... Let's Get It Started\n  10. Hoobastank ... The Reason\n\n[b]WIN IT![/b]\nBe caller 9 when you hear the KMLB Cash Cow moo and win a copy of HALO 2 on launch day, Nov 9! Request line: 555-0198.\n\n[b]Our Lineup[/b]\n  5 to 10 AM ... [[kmlb.com/morningzoo|The Morning Zoo with Big Rick & Tammy]]\n  10 AM to 3 PM ... Lunchtime Requests\n  3 to 7 PM ... Drive Time with DJ Marcus\n  7 PM to Midnight ... Love Songs After Dark\n  Midnight to 5 AM ... Quiet Hours: soft inspirational music, sponsored by Kettering Insurance Agency. [i]\"Because tomorrow is not promised.\"[/i]\n\n[color=#990000][b]A note from station management:[/b] KMLB does NOT play records backwards, on air or otherwise. We have received 200+ copies of a church tape saying otherwise. Please stop mailing them to us.[/color]\n\n[b]Quiet Hours Dedications[/b]\n  - \"To my husband on the night shift. Drive safe. -- K.\"\n  - \"To Grandpa W., for keeping the light on all those years.\"\n  - [color=#999999]\"To R., wherever you are resting. Your mother misses you.\" (removed at the sponsor's request)[/color]\n\n[center][color=#666666]Sign our guestbook! Tell us your favorite Morning Zoo prank![/color][/center]"
 		},
 		{
 			"url": "millbrookledger.com/classifieds",
@@ -1360,7 +1364,7 @@
 				"beanie babies",
 				"garage sale"
 			],
-			"body": "[b]FOR SALE[/b]\n  - Beanie Babies, 140+, all with tags, incl. Princess the bear. Serious offers only. $2,000 OBO.\n  - Nintendo 64 w/ 4 controllers, GoldenEye, Mario Kart. $60.\n  - Y2K supplies, lightly used. See [[home.millnet.com/~y2kron|Ron's page]].\n  - 50 AOL CDs. Free. Please. Take them.\n  - Tamagotchi, still alive (barely). $5.\n  - Athearn HO boxcars, $5 ea. Call Walt.\n\n[b]ESTATE SALE[/b]\n  18 Birch Ct. Entire contents of the home of M. Tate, in storage since spring. China, quilts, furniture, 40 years of National Geographic. All proceeds benefit Evangelicals International. Conducted by Crane Holdings LLC. Sat 10/23, 8 AM. Family members need not inquire.\n\n[b]HELP WANTED[/b]\n  - Night equipment operators. Mercer Construction. Close quarters. Church family preferred.\n  - Warehouse, full time, no experience needed, HOUSING PROVIDED. Ashby Staffing Services. Ask for Thomas at MCC on Thursdays.\n  - Pizza delivery drivers. Papa Z's. Must have own car. No Harrow Lane deliveries (sorry).\n\n[b]LOST & FOUND[/b]\n  - FOUND: black lab, red collar. [color=#009900]Reunited! Thanks Millbrook![/color]\n  - LOST: blue Game Boy Advance SP at the Harvest Festival hay maze. Has Pokemon Sapphire in it. Reward!!\n\n[b]PERSONALS[/b]\n  - SWM, 34, likes fishing, NASCAR and long walks to the Dee's pie case. Seeking SWF for same.\n  - To the girl in the parked car on Harrow Lane: you're welcome to come in for coffee sometime. The porch light is on. -- P.\n\n[color=#666666]Place an ad: 555-0111. $1 per line.[/color]"
+			"body": "[b]FOR SALE[/b]\n  - Beanie Babies, 140+, all with tags, incl. Princess the bear. Serious offers only. $2,000 OBO.\n  - Nintendo 64 w/ 4 controllers, GoldenEye, Mario Kart. $60.\n  - Y2K supplies, lightly used. See [[home.millnet.com/~y2kron|Ron's page]].\n  - 50 AOL CDs. Free. Please. Take them.\n  - Tamagotchi, still alive (barely). $5.\n  - Athearn HO boxcars, $5 ea. Call Walt.\n\n[b]ESTATE SALE[/b]\n  18 Birch Ct. Entire contents of the home of M. Tate, in storage since spring. China, quilts, furniture, 40 years of National Geographic. All proceeds benefit Evangelicals International. Conducted by Crane Holdings LLC. Sat 10/23, 8 AM. Family members need not inquire.\n\n[b]HELP WANTED[/b]\n  - Night equipment operators. Mercer Construction. Close quarters. Church family preferred.\n  - Warehouse, full time, no experience needed, HOUSING PROVIDED. Ashby Staffing Services. Ask for Thomas at MCC on Thursdays.\n  - Pizza delivery drivers. [[papazs.com|Papa Z's]]. Must have own car. No Harrow Lane deliveries (sorry).\n\n[b]LOST & FOUND[/b]\n  - FOUND: black lab, red collar. [color=#009900]Reunited! Thanks Millbrook![/color]\n  - LOST: blue Game Boy Advance SP at the Harvest Festival hay maze. Has Pokemon Sapphire in it. Reward!!\n\n[b]PERSONALS[/b]\n  - SWM, 34, likes fishing, NASCAR and long walks to the Dee's pie case. Seeking SWF for same.\n  - To the girl in the parked car on Harrow Lane: you're welcome to come in for coffee sometime. The porch light is on. -- P.\n\n[color=#666666]Place an ad: 555-0111. $1 per line.[/color]"
 		},
 		{
 			"url": "millbrookledger.com/obituaries",
@@ -1375,7 +1379,7 @@
 				"wendell oyler",
 				"died"
 			],
-			"body": "[b]Wendell James Oyler[/b], 94\nWendell Oyler, the last surviving member of Harrow Grange No. 212, died October 10 at Millbrook Care Center. Born on a farm on Harrow Lane in 1910, he worked forty years for the county roads department. He was preceded in death by his wife Irene and his brother Clarence, a local historian. He is survived by a grandson, Ron, of Millbrook.\nServices will be private. In lieu of flowers, the family asks that the lamps be left lit.\n\n[b]Dorothy Anne Lund[/b], 88\nDorothy Lund died peacefully at home October 7. A founding member of the Millbrook Tuesday Bridge Club, she won the county championship in 1963, 1971 and 1988, and never let anyone forget it. Memorial gifts to the Millbrook Public Library.\n\n[b]Gerald \"Gary\" Pruitt[/b], 71\nGary Pruitt carried mail in Millbrook for 31 years, most of them on the Harrow Lane route. He liked to say he could tell every house on Harrow by its porch light. He is survived by his daughter, Lydia Greaves, and by his model trains, which he left to his son-in-law Walter. Services Saturday at Evangelicals International, 412 Harrow Lane.\n\n[color=#666666]To submit an obituary, call 555-0111. There is no charge.[/color]"
+			"body": "[b]Wendell James Oyler[/b], 94\nWendell Oyler, the last surviving member of Harrow Grange No. 212, died October 10 at [[millbrookcarecenter.com|Millbrook Care Center]]. Born on a farm on Harrow Lane in 1910, he worked forty years for the county roads department. He was preceded in death by his wife Irene and his brother Clarence, a local historian. He is survived by a grandson, Ron, of Millbrook.\nServices will be private. In lieu of flowers, the family asks that the lamps be left lit.\n\n[b]Dorothy Anne Lund[/b], 88\nDorothy Lund died peacefully at home October 7. A founding member of the Millbrook Tuesday Bridge Club, she won the county championship in 1963, 1971 and 1988, and never let anyone forget it. Memorial gifts to the Millbrook Public Library.\n\n[b]Gerald \"Gary\" Pruitt[/b], 71\nGary Pruitt carried mail in Millbrook for 31 years, most of them on the Harrow Lane route. He liked to say he could tell every house on Harrow by its porch light. He is survived by his daughter, Lydia Greaves, and by his model trains, which he left to his son-in-law Walter. Services Saturday at Evangelicals International, 412 Harrow Lane.\n\n[color=#666666]To submit an obituary, call 555-0111. There is no charge.[/color]"
 		},
 		{
 			"url": "millbrookledger.com/harvest-2004",
@@ -1422,7 +1426,7 @@
 				"free web space",
 				"homepage hosting"
 			],
-			"body": "[center][b][color=#006699]WebHaven[/color][/b]\n20 MB free! No pop-ups! (Some pop-ups.)[/center]\n\n[b]Featured Member Pages[/b]\n  - [[members.webhaven.com/millbrookhistory|Harrow Grange No. 212: A History]]\n  - [[members.webhaven.com/blessedhearth|Blessed Hearth Homeschool]]\n  - [[members.webhaven.com/tribforce_fan|Tribulation Force Fan Page]]\n\n[color=#666666]Build your page in minutes with our easy PageMaker Wizard![/color]"
+			"body": "[center][b][color=#006699]WebHaven[/color][/b]\n20 MB free! No pop-ups! (Some pop-ups.)[/center]\n\n[b]Featured Member Pages[/b]\n  - [[members.webhaven.com/millbrookhistory|Harrow Grange No. 212: A History]]\n  - [[members.webhaven.com/blessedhearth|Blessed Hearth Homeschool]]\n  - [[members.webhaven.com/tribforce_fan|Tribulation Force Fan Page]]\n  - [[members.webhaven.com/mvole|Miriam's Memory Keeping Corner]]\n  - [[members.webhaven.com/legolasluvr|~*~ LEGOLAS 4 EVER ~*~]]\n\n[color=#666666]Build your page in minutes with our easy PageMaker Wizard![/color]"
 		},
 		{
 			"url": "pnwrides.com",
@@ -1445,7 +1449,7 @@
 				"online auctions",
 				"auction site"
 			],
-			"body": "[center][b][color=#cc0000]Bid[/color][color=#0033cc]Haus[/color][/b]\nMillions of items. Bid now![/center]\n\n[b]Ending Soon near Millbrook, WA[/b]\n  - Beanie Babies lot, 140+ ... $412.00 (3 bids)\n  - [[bidhaus.com/item-2208131|Antique Grange Lantern, RED GLASS, c. 1911]] ... [color=#990000]ENDED[/color]\n  - Nintendo 64 bundle ... $41.00\n\n[color=#666666]Pay with BidPal! Buyer protection on eligible items.[/color]"
+			"body": "[center][b][color=#cc0000]Bid[/color][color=#0033cc]Haus[/color][/b]\nMillions of items. Bid now![/center]\n\n[b]Ending Soon near Millbrook, WA[/b]\n  - [[bidhaus.com/item-2207744|Beanie Babies lot, 140+ w/ PRINCESS]] ... $412.00 (3 bids)\n  - [[bidhaus.com/item-2208131|Antique Grange Lantern, RED GLASS, c. 1911]] ... [color=#990000]ENDED[/color]\n  - Nintendo 64 bundle ... $41.00\n\n[color=#666666]Pay with BidPal! Buyer protection on eligible items.[/color]"
 		},
 		{
 			"url": "clearskyclock.net",
@@ -1569,7 +1573,7 @@
 				"things to do halloween"
 			],
 			"source": "<!-- 10/31: last group through by 11:00. Horns only after. Lower hall doors LOCKED from 11:30. -->",
-			"body": "[center][b][color=#990000]JUDGEMENT HOUSE 2004[/color][/b]\nOctober 29, 30 & 31 * 7 to 11 PM * 412 Harrow Lane\n[i]\"Halloween is the Devil's night. Spend it with us.\"[/i][/center]\n\nOur 18th year! Walk through the rooms and SEE where the choices of today's youth lead:\n  Room 1 ... The Party (drinking, rock music)\n  Room 2 ... The Crash\n  Room 3 ... The Game (a Dungeons & Dragons session gone too far)\n  Room 4 ... The Ritual (not recommended for children under 12)\n  Room 5 ... Hell\n  Room 6 ... The Choice\n\nTickets $5 at the door. Youth groups of 10 or more FREE. Last group through at 11:00 PM.\n\n[b]Volunteers needed![/b] Robes and candles provided. See Sister Lydia.\n\nOn the night of the 31st, after the last group, the Board will hold a private service of dedication. Families are asked to go home and keep their lights off.\n\n[color=#666666]Please park on the street. The back lot is closed for construction.[/color]"
+			"body": "[center][b][color=#990000]JUDGEMENT HOUSE 2004[/color][/b]\nOctober 29, 30 & 31 * 7 to 11 PM * 412 Harrow Lane\n[i]\"Halloween is the Devil's night. Spend it with us.\"[/i][/center]\n\nOur 18th year! Walk through the rooms and SEE where the choices of today's youth lead:\n  Room 1 ... The Party (drinking, rock music)\n  Room 2 ... The Crash\n  Room 3 ... The Game (a Dungeons & Dragons session gone too far)\n  Room 4 ... The Ritual (not recommended for children under 12)\n  Room 5 ... Hell\n  Room 6 ... The Choice\n\nTickets $5 at the door. Youth groups of 10 or more FREE. Last group through at 11:00 PM.\n\n[b]Volunteers needed![/b] Robes and candles provided. See Sister Lydia, or read the [[evangelicalsintl.org/judgement/volunteers|Volunteer Info page]].\n\nOn the night of the 31st, after the last group, the Board will hold a private service of dedication. Families are asked to go home and keep their lights off.\n\n[color=#666666]Please park on the street. The back lot is closed for construction.[/color]"
 		},
 		{
 			"url": "evangelicalsintl.org/forum/horns",
@@ -1646,6 +1650,433 @@
 				"we got it wrong"
 			],
 			"body": "Five years ago this month, this newspaper ran eleven front-page stories about \"satanic ritual abuse\" at a Harrow Lane daycare. We quoted a sheriff's deputy, a Sunday school teacher and a pastor. We did not quote a single piece of evidence, because there was none.\n\nCarol Lindqvist lost her business, her house and her good name. The people who accused her lost nothing. One of them bought her house.\n\nWe did not ask who benefited. We should have. We owe Ms. Lindqvist an apology, and we are making it here, too late to matter.\n\n-- The Editors"
+		},
+		{
+			"url": "evangelicalsintl.org/images",
+			"hidden": true,
+			"style": "plain",
+			"title": "Index of /images",
+			"source": "<!-- Apache/1.3.29 (Unix) FrontPage/5.0.2.2623 -->\n<!-- directory listing: N.D. said he turned this off. -->",
+			"body": "[b]Index of /images[/b]\n\n  Name                        Last modified         Size\n  [DIR] Parent Directory\n  [IMG] banner_judgement04.gif   28-Sep-2004 22:10    41k\n  [IMG] board_2001.jpg           17-May-2001 09:02   112k\n  [IMG] board_2004.jpg           22-Jun-2004 23:40     0k\n  [IMG] counter_digits.gif       03-Mar-1999 14:00     2k\n  [IMG] dove_animated.gif        03-Mar-1999 14:01    18k\n  [IMG] flames_divider.gif       03-Mar-1999 14:01     9k\n  [IMG] lamp_01.jpg              14-Apr-2002 03:15    31k\n  [IMG] lamp_02.jpg              14-Apr-2002 03:15    29k\n  [IMG] lamp_03.jpg              14-Apr-2002 03:15    30k\n  [IMG] lamp_04.jpg              02-Nov-2003 03:15    28k\n  [IMG] lamp_05.jpg              29-Mar-2004 03:15    33k\n  [IMG] lamp_06.jpg              30-May-2004 03:15    31k\n  [IMG] lamp_07.jpg              12-Jul-2004 03:15    30k\n  [IMG] lamp_08.jpg              20-Aug-2004 03:15    32k\n  [IMG] lamp_09.jpg              31-Oct-2004 03:15     0k\n  [IMG] lamp_10.jpg              31-Oct-2004 03:15     0k\n  [IMG] potluck_fall04_01.jpg    02-Oct-2004 18:22    88k\n  [IMG] potluck_fall04_02.jpg    02-Oct-2004 18:22    91k\n  [IMG] room4_final.jpg          11-Oct-2004 01:04    64k\n  [IMG] star_pointdown.gif       21-Jun-2004 00:00     4k\n  [IMG] y2k_compliant.gif        03-Mar-1999 14:02     3k\n  [TXT] WS_FTP.LOG               13-Oct-2004 02:58     1k\n\n[color=#666666]Apache/1.3.29 Server at evangelicalsintl.org Port 80[/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/cgi-bin",
+			"hidden": true,
+			"style": "plain",
+			"title": "403 Forbidden",
+			"source": "<!-- guestbook.pl: hold for review any entry containing Lindqvist, Pell, Ruth, tunnel, 1986, 1998. some are still getting through. -N.D. -->",
+			"body": "[b]Forbidden[/b]\n\nYou don't have permission to access /cgi-bin/ on this server.\n\nAdditionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request.\n\n[color=#666666]Apache/1.3.29 Server at evangelicalsintl.org Port 80[/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/forum/pantry",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "re: Brother Paul's request",
+			"body": "[color=#555555]Old Business (archived) :: March 2003[/color]\n\n[b]horn_i[/b] wrote:\nAt the Thursday meeting Brother Paul asked, again, to see the Pantry books for 1996 and 1997. He says the Board has \"a duty to the congregation.\" He brought the Ledger story from 1999 with his own quote circled.\n\n[b]horn_vii[/b] wrote:\nThe county released the evidence boxes in 2001. They went back to the witness.\n\n[b]bookkeeper[/b] wrote:\nThe witness has them. The witness is sitting at this table. There are no Pantry books.\n\n[b]horn_ii[/b] wrote:\nHe also asked who Crane Holdings is. In front of the new brothers.\n\n[b]E.C.[/b] wrote:\nPaul kept my pulpit warm while I was away, and I am grateful. Deactivate him. Take him off the Board and put him on the Watch.\n\n[b]bookkeeper[/b] wrote:\nDone. His account is closed as of tonight. 413 is on the schedule as \"not yet.\""
+		},
+		{
+			"url": "evangelicalsintl.org/judgement/volunteers",
+			"nav": "church",
+			"style": "church",
+			"title": "Judgement House 2004: Volunteer Info",
+			"search": [
+				"judgement house volunteers",
+				"judgment house volunteers",
+				"volunteer",
+				"volunteers",
+				"robes"
+			],
+			"source": "<!-- printed for Lydia 10/12. the other list is NOT on this server. -->",
+			"body": "[center][b][color=#990000]JUDGEMENT HOUSE 2004: VOLUNTEER INFO[/color][/b]\nThank you for serving! 18 years and hundreds of souls saved![/center]\n\n[b]Shifts[/b]\n  Early shift ... 6:00 to 9:00 PM\n  Late shift .... 9:00 to 11:00 PM\n  [color=#990000]There is no third shift. Please do not ask about the third shift.[/color]\n\n[b]Assignments[/b]\n  Ticket Table ........ Hannah K. (all three nights!)\n  Room 1 (The Party) .. MCC Harvest Fellowship\n  Room 2 (The Crash) .. Coyle Auto (thanks for the car, Brother Jeremiah!)\n  Room 3 (The Game) ... youth group boys\n  Room 4 (The Ritual) . Sister Lydia's ladies\n  Room 5 (Hell) ....... fog machine volunteers (bring earplugs)\n  Room 6 (The Choice) . prayer counselors\n  Parking ............. Brother Abel. Please do NOT argue with Brother Abel about parking.\n\n[b]Costume & Robe Rules[/b]\n  - Robes, candles and masks are provided. Please do not bring your own.\n  - Return robes to Sister Lydia at the side door by 11:15 PM and take them home to wash. They should smell like fabric softener, not like the basement.\n  - Do NOT return robes downstairs. The lower hall is closed for construction.\n  - No Halloween costumes. We had a Harry Potter last year. We are still praying about it.\n\n[b]Snacks[/b]\nBarb G. is bringing her famous scotcheroos. Joan F. is bringing deviled eggs. Please, nobody else bring deviled eggs.\n\n[color=#fffbe6]411 and 413 remain. On the thirty-first the Landlord takes possession.[/color]"
+		},
+		{
+			"url": "mcc.edu/medialab/ohart",
+			"style": "plain",
+			"title": "MCC Media Lab :: Student Project Folders :: ohart",
+			"search": [
+				"harrow documentary",
+				"owen hart documentary",
+				"media lab",
+				"interview log",
+				"rough cut"
+			],
+			"body": "[b]MCC Media Lab :: Student Project Space[/b]\n[color=#999999]/students/ohart/HARROW/notes.txt[/color]\n\n[color=#990000]This account has been suspended pending review by the Office of Student Activities. Files are read-only.[/color]\n\n[b]HARROW (working title), 22 min.[/b]\nRough cut notes + interview log. DO NOT DELETE.\n\n  [b]Tape 1[/b] ... Rosa A., tenant, 409 Harrow. \"They towed me at 3 AM in front of my own house.\" (00:04:10) Great clip. Face blurred.\n  [b]Tape 2[/b] ... Esther P., in her kitchen. Shows the trespass warning. Can't use the part where she cries. Or maybe I should.\n  [b]Tape 3[/b] ... Phone call to Spokane. C.L. would not go on camera, audio only. \"They didn't want my daycare. They wanted my house.\" (00:11:02)\n  [b]Tape 4[/b] ... P.R., retired teacher. Shot in his backyard by the red lamp only, almost too dark. \"Miriam Hale never threw away a piece of paper in her life. She told the county there was one ledger. There were always two. Ask her which one she got back.\" (00:16:40)\n  [b]Tape 5[/b] ... B-roll, Harrow Ln, 3:15 AM. The mic picked up a low hum at 3:15:00 exactly. Played it on the big speakers in the lab: there's something under the hum, like a voice. Priya says it's the mic. Priya is probably right.\n  [b]Tape 6[/b] ... Tried to interview Thomas A. at the Harvest Fellowship table. He smiled the whole time and said nothing. Then he asked me where I live.\n\n[b]To do[/b]\n  - Pull the '97 pantry flyer off the WebTime archive (done)\n  - Ask the Ledger who's writing the Harrow stories now. Somebody at 411?\n  - Make a dub for Jess just in case (done, it's in her sock drawer lol)\n  - Return the astronomy club's 8-inch Dob before they send Bill after me"
+		},
+		{
+			"url": "millbrookledger.com/archive",
+			"style": "news",
+			"title": "The Ledger Archive",
+			"search": [
+				"ledger archive",
+				"newspaper archive",
+				"old articles",
+				"back issues",
+				"microfilm",
+				"archive search"
+			],
+			"body": "[b]The Millbrook Ledger Archive[/b]\nStories from 1985 to today are online. Older stories are being added from microfilm as our volunteers have time. (Thank you, Millbrook Historical Society!)\n\n[b]Recently Added from Microfilm[/b]\n  - [[millbrookledger.com/archive/1931-lamps|Nov 1931: Harrow Lane lamps dark on Hallowe'en]]\n  - [[millbrookledger.com/archive/1974-grange|Jun 1974: Harrow Grange holds its last meeting]]\n\n[b]Editors' Picks[/b]\n  1991 ... [[millbrookledger.com/archive/1991-apology|Editorial: We owe Carol Lindqvist an apology]]\n  1998 ... [[millbrookledger.com/archive/1998-crane|Local preacher sentenced in charity fraud]]\n  1999 ... [[millbrookledger.com/archive/1999-pantry|Harrow Lane church keeps doors open]]\n  2001 ... [[millbrookledger.com/archive/2001-return|Crane returns to Harrow Lane pulpit]]\n  2003 ... [[millbrookledger.com/archive/2003-towing|Residents fume over late-night tows]]\n\n[color=#666666]Can't find it? Try searching. Wedding announcements, obituaries and older news stories are searchable but not listed here.[/color]"
+		},
+		{
+			"url": "millbrookledger.com/archive/1931-lamps",
+			"style": "news",
+			"title": "Harrow Lane lamps dark on Hallowe'en; Grange officers silent (November 1931)",
+			"search": [
+				"1931",
+				"hallowe'en 1931",
+				"halloween 1931",
+				"grange lamps",
+				"grange officers",
+				"harrow lamps",
+				"keepers",
+				"wendell oyler"
+			],
+			"body": "[color=#666666][font_size=12]From the Millbrook Ledger, Tuesday, November 3, 1931. Transcribed from microfilm by the Millbrook Historical Society.[/font_size][/color]\n\nResidents of the Harrow Lane district report that the ten lamps kept by the officers of Harrow Grange No. 212 were not lit on Saturday night last, Hallowe'en, for the first time in memory.\n\nSeveral farm families on the lane say they were woken after three o'clock in the morning by what one described as \"a sound like the whole valley drawing breath.\"\n\nMr. {{Wendell Oyler|name}}, 21, the youngest of the Grange's Keepers, would say only that it was \"Grange business\" and that his own lamp \"was lit, whatever the others did.\"\n\nFour officers of the Grange, Messrs. E. Pruitt, H. Strand, J. Coyle and T. Drury, have declined to speak with this paper. Mr. Drury has since left the county.\n\nThe Grange has cancelled its Thanksgiving dance."
+		},
+		{
+			"url": "millbrookledger.com/archive/1974-grange",
+			"style": "news",
+			"title": "Harrow Grange holds its last meeting (June 1974)",
+			"search": [
+				"1974",
+				"grange closes",
+				"grange hall sale",
+				"last grange meeting",
+				"cistern",
+				"brick passage",
+				"grange hall"
+			],
+			"body": "Harrow Grange No. 212 held its final meeting Friday night, sixty-three years to the day after its charter. Eleven members attended.\n\nBy a vote of 11 to 0, the members agreed to pay out of their own pockets to brick over the old cistern beneath the hall before the building is sold. A county surveyor who inspected the cistern last month reported a brick passage running east from it, under Harrow Lane, \"of considerable age and unknown extent.\" The members asked that the passage be sealed as well.\n\n\"Some things you keep a lid on,\" said longtime member Wendell Oyler, 64. He declined to explain.\n\nThe hall will be listed for sale this summer. The brass lamps of the Grange officers, a local curiosity, will be divided among the members' families."
+		},
+		{
+			"url": "members.webhaven.com/mvole",
+			"style": "plain",
+			"title": "Miriam's Memory Keeping Corner",
+			"search": [
+				"scrapbook",
+				"scrapbooking",
+				"creative memories",
+				"memory keeping",
+				"crop night",
+				"miriam vole",
+				"miriam",
+				"stickers"
+			],
+			"body": "[center][b][color=#cc6699]~ Miriam's Memory Keeping Corner ~[/color][/b]\n[i]\"Every page tells a story!\"[/i]\n[color=#999999][image: scissors_animated.gif][/color][/center]\n\nHello fellow croppers! I have been scrapbooking since before it was cool. I'm a bookkeeper by trade, so you can imagine how organized my albums are. Ha!\n\n[b]My Albums[/b]\n  - \"Our Wedding\" (2002) ... 64 pages, deckle edges, pressed roses. [[millbrookledger.com/archive/2002-weddings|Our announcement in the Ledger!]]\n  - \"Fellowship Potlucks 1999 to 2004\" ... 3 volumes and counting\n  - \"Pine Hollow Summers\" ... [color=#999999]private[/color]\n  - \"1997\" ... I don't show this one. Some years you keep for yourself.\n\n[b]Miriam's Rules of Memory Keeping[/b]\n  1. Acid-free EVERYTHING.\n  2. Journal on every page, in pen. Pencil is for people who plan to change their story.\n  3. Never throw a page away. Take it out of the album if you must, but keep it.\n  4. Always make two. One for the shelf, and one for somewhere safe.\n\n[b]Crop Night[/b]\nSecond Friday of the month at my house. Bring your own adhesive! My husband will be in his office doing somebody's taxes, so we can be as loud as we like.\n\n[color=#999999]Sorry, my guestbook is closed. Someone left some very unkind things about the past, and I would rather not have them on my page.[/color]\n\n[center][color=#666666]You are visitor #000045. Last updated 09/2004.[/color][/center]"
+		},
+		{
+			"url": "users.journalbox.com/dkirsch71",
+			"style": "journal",
+			"title": "dale's journal",
+			"search": [
+				"dale kirsch",
+				"dkirsch71",
+				"dale",
+				"dale's journal",
+				"kirsch"
+			],
+			"body": "[b]08/16/2004[/b]  mood: [i]nervous[/i]\ncalled the state labor board on my lunch break. a lady named Pat took my info and said shed call me back. i gave her Brother Harold's number because the house phone is in his name. i hope thats ok.\n\n[b]07/22/2004[/b]  mood: [i]tired[/i]\n50 hrs again. Brother Gideon says the wage assignment is \"like a tithe but for your time.\" i asked to see a pay stub and he said the program doesnt use stubs. Sister Joan came for rent sunday and looked in my closet. i dont know what she was looking for.\n\n[b]06/30/2004[/b]  mood: [i]grateful[/i]\nfirst week at the warehouse!! the guys are nice. housing is a duplex on Birch Ct and they even had sheets on the bed. no more sleeping in the Buick. somebody finally gave me a chance. thank you Lord.\n\n[b]06/08/2004[/b]  mood: [i]hopeful[/i]  music: Creed\nmet a kid named Thomas at the MCC job fair (free lunch lol). he said his dads company can find me work AND a place to live. he invited me to church. i havent been to church since my mom died but ok. why not.\n\n[b]06/02/2004[/b]  mood: [i]excited[/i]\nRSVP'd YES to the class of 89 reunion!!! 15 years. cant wait to see everybody. gonna bring pics of the Buick. (the Buick is also where i live right now. dont tell them that part)\n\n[color=#999999]0 comments[/color]\n[color=#666666][font_size=12]This journal has not been updated in 60 days. [Report inactive journal][/font_size][/color]"
+		},
+		{
+			"url": "pinehollowestates.com/lodge",
+			"style": "hoa",
+			"title": "Pine Hollow Lodge: Retreat Calendar",
+			"search": [
+				"pine hollow lodge",
+				"lodge",
+				"retreat calendar",
+				"youth retreat",
+				"retreats",
+				"deliverance counseling"
+			],
+			"body": "[b]Pine Hollow Lodge :: Fall 2004 Retreat Calendar[/b]\n\n  Oct 1 to 3 ....... Couples' Retreat: \"Two Shall Become One Household\"\n  Oct 8 to 10 ...... Men's Retreat (Board families only)\n  Oct 22 to 24 ..... Women's Crop & Pray (bring your albums! hosted by Sister Miriam)\n  Oct 29 to Nov 1 .. [color=#999999]Lodge closed. All staff and residents to Millbrook for Judgement House.[/color]\n  Nov 12 to 14 ..... Youth Retreat: \"Unplugged!\" (NO cell phones, NO Game Boys, NO exceptions)\n\n[b]What to Bring[/b]\nBible, warm clothes, a flashlight. Please leave phones, pagers and personal stereos in the basket at the gate. You will not need them.\n\n[b]The Deliverance Wing[/b]\nOur new wing (built by Mercer Construction!) has three quiet rooms for extended deliverance counseling with Sister Joan. Stays are open-ended. Families are kept informed by letter.\n\n[color=#666666]Directions: Take Route 9 north 18 miles. Turn at the unmarked gravel road after the big stump. If you reach the county line, you have gone too far. Gate code: ask Brother Samuel.[/color]"
+		},
+		{
+			"url": "millbrooklutheran.org",
+			"style": "church",
+			"title": "Grace Lutheran Church, Millbrook",
+			"search": [
+				"lutheran",
+				"grace lutheran",
+				"lutheran church",
+				"pizza night",
+				"support group",
+				"other churches",
+				"trunk or treat",
+				"pastor anne"
+			],
+			"body": "[center][b]GRACE LUTHERAN CHURCH[/b]\n220 Oak Street * Millbrook\n\"All are welcome. We mean it.\"[/center]\n\n[b]This Month at Grace[/b]\n  - [b]Pizza Night[/b], 3rd Friday, Fellowship Hall. $3 a slice, all proceeds to the food bank. (Barb, thank you for the plug on MillbrookTalk!)\n  - Blessing of the Animals, Oct 3. Record turnout: 22 dogs, 9 cats, one very calm ferret, and a goat.\n  - Trunk-or-Treat, Oct 31, 5 to 7 PM in our parking lot. Costumes welcome! Yes, even witches.\n\n[b]Tuesday Night Circle[/b]\nA confidential support group for people who have left high-demand churches, and for their families. 7 PM, Room 3. Coffee, no pressure, no sermon. Several of our regulars are from the Harrow Lane area. You are not crazy, and you are not alone.\n\n[b]From Pastor Anne[/b]\n\"People keep asking me whether I'm worried about Satanists in Millbrook. I'm more worried about lawn fines. Come to pizza night.\"\n\n[center][color=#666666]We are not in any web ring. We just have a web page. Hi.[/color][/center]"
+		},
+		{
+			"url": "millbrookcarecenter.com",
+			"style": "plain",
+			"title": "Millbrook Care Center :: Fall 2004 Newsletter",
+			"search": [
+				"care center",
+				"millbrook care center",
+				"nursing home",
+				"assisted living",
+				"care home",
+				"bingo"
+			],
+			"body": "[center][b]MILLBROOK CARE CENTER[/b]\nSkilled Nursing * Assisted Living * Since 1968\n[color=#999999][image: rocking_chair.gif][/color][/center]\n\n[b]Fall Newsletter, October 2004[/b]\n\n[b]Bingo Update[/b]\nBingo is Monday, Wednesday and Friday at 2 PM. Congratulations to Mrs. Hilda Brandt, who won 11 times in September and has been asked, kindly, to share.\n\n[b]In Memory[/b]\nWe said goodbye this month to Mr. Wendell Oyler, our oldest resident. Wendell was known on the second floor for three things: his terrible puns, his card tricks, and his one firm rule that the light over his door stay on all night. Our night staff always honored it.\n\nOn the evening of October 9 a visitor signed in to see Wendell, a pleasant young man who wrote \"the Grange\" in the sign-in book. Wendell did not know him and asked him to leave, which was not like him. The night nurse found Wendell's hall light switched off at 3:15 AM. The bulb was fine. We don't know who turned it off. Wendell passed the next morning.\n\n[b]Volunteers Wanted[/b]\nRead to a resident! Play checkers! Our residents LOVE visitors. (Please sign in at the front desk. Every visitor, every time.)\n\n[b]Welcome to Our New Chaplain Volunteers[/b]\nMembers of Evangelicals International have kindly offered to lead a Sunday hymn sing. Thank you!\n\n[color=#666666]Visiting hours 9 AM to 8 PM. 555-0150.[/color]"
+		},
+		{
+			"url": "home.millnet.com/~prennick/log2003",
+			"style": "journal",
+			"title": "Observing Log, Spring 2003 (archived)",
+			"body": "[color=#666666]Archived. I leave these up so I remember what the sky was doing while everything else was going on.[/color]\n\n[b]03/04[/b]  Seeing 3/5. Saturn near the Moon. Couldn't concentrate. Board meeting Thursday.\n\n[b]03/06[/b]  No observing. Asked the Board again for the Pantry books from '96 and '97. I was the one who told the Ledger every can was counted. If there was a second book, I need to know. Miriam wouldn't look at me. Aldous answered for her. Elias thanked me for my service like I was already gone.\n\n[b]03/07[/b]  My forum password doesn't work. Neither does my key to the fellowship hall.\n\n[b]03/15[/b]  Seeing 4/5. M44 in the 10-inch, first clear night in weeks. Someone was parked across the street with the dome light on until I went inside.\n\n[b]03/30[/b]  Clear. Out until four. Somebody called the Sheriff about \"a red light in the rear yard.\" Dan Drury drove up the street, saw it was me, and didn't get out of the car. We used to sit together in the second pew."
+		},
+		{
+			"url": "millbrookcounty.gov/sheriff",
+			"style": "gov",
+			"title": "Millbrook County Sheriff's Office: Meet Your Deputies",
+			"search": [
+				"deputies",
+				"deputy",
+				"sheriff office",
+				"sheriff deputies",
+				"deputy drury",
+				"k-9",
+				"substation",
+				"sheriff substation"
+			],
+			"body": "[b]Millbrook County Sheriff's Office[/b]\nSheriff: Frank Olsen\n\n[b]Meet Your Deputies[/b]\n  Dep. Daniel Drury ... 26 years of service. Certified Occult Crimes Investigator (1985). Assigned: Harrow Lane, Birch Court, Pine Hollow. Hobbies: fishing, teaching.\n  Dep. Maria Esposito ... 6 years. Assigned: Downtown & Route 9. Hobbies: softball, \"writing reports that somebody actually files.\"\n  Dep. Kyle Brandt ... 2 years. Assigned: Night patrol. Hobbies: Halo, apparently.\n  K-9 Officer Duke ... German shepherd, 5 years. Assigned: wherever there is a sandwich. [color=#999999]Note: Duke will not get out of the car on Harrow Lane. We are looking into it.[/color]\n\n[b]Harrow Lane Substation[/b]\nThanks to a generous donation from Crane Holdings LLC, the new Harrow Lane Sheriff's Substation will open November 1, 2004, at 406 Harrow Lane. Dep. Drury will be its first commanding officer.\n\n[b]Submit a Tip[/b]\nCall 555-0100, or fill out a tip card at any Evangelicals International Prayer Watch table. [color=#999999](Prayer Watch tip cards are forwarded directly to Dep. Drury.)[/color]"
+		},
+		{
+			"url": "harrowlanehoa.org/newsletter",
+			"nav": "harrowhoa",
+			"style": "hoa",
+			"title": "The Harrow Herald: Fall 2004",
+			"search": [
+				"hoa newsletter",
+				"harrow herald",
+				"newsletter",
+				"lawn gnomes",
+				"yard of the month",
+				"flamingos"
+			],
+			"body": "[center][b]THE HARROW HERALD[/b]\nOfficial Newsletter of the Harrow Lane Homeowners Association * Fall 2004[/center]\n\n[b]From the President's Desk[/b]\nNeighbors, what a year! Two more properties have changed hands, and both are now fully compliant. That is the power of community.\n\n[b]Yard of the Month[/b]\nOctober: 403 Harrow Ln (the Strands). Crisp edges, no leaves, no visible light after 10. Beautiful!\nAlso receiving votes: 405, 406 and 407, all Crane Holdings properties, which are always immaculate even though nobody seems to live in them. Wonderful stewardship!\n\n[b]Reminder: Lawn Ornaments (Sec. 7.3)[/b]\nLawn gnomes are limited to one (1) per yard, must be under 14 inches, and must face the street. Pink flamingos are not permitted in any number. To whoever put 40 flamingos on the Greaves lawn on the night of 09/30: we know it was a Millers football player. The Board has a long memory.\n\n[b]Halloween Guidelines[/b]\n  - Trick-or-treating ends at 8 PM.\n  - Jack-o'-lanterns must be put out by 10 PM (Sec. 4.7 applies to candles).\n  - Judgement House parking will fill Harrow Lane Oct 29 to 31. Please be patient with our church neighbors.\n  - On the night of the 31st, residents are asked to close all window coverings (Sec. 4.2) and stay indoors after 11 PM. This is for your safety.\n\n[b]Welcome, New Neighbor![/b]\nTo the new owner at 411: welcome! Please review Sec. 4.2 at your earliest convenience. Several neighbors have mentioned your window.\n\n[color=#666666]Questions? Contact Secretary Lydia Greaves. Please do not contact the Association after 10 PM.[/color]"
+		},
+		{
+			"url": "millbrooktalk.net/viewtopic-5150",
+			"style": "forum",
+			"title": "MillbrookTalk :: HALO 2 MIDNIGHT LAUNCH who is going",
+			"search": [
+				"halo 2 launch",
+				"midnight launch",
+				"gamestation",
+				"preorder",
+				"pre-order",
+				"video game store",
+				"xbox live"
+			],
+			"body": "[b]xXskaterboi91Xx[/b]  Posted: Wed Oct 13, 2004 4:02 pm\nGAMESTATION AT THE MALL IS DOING A MIDNIGHT LAUNCH NOV 9 WHO IS GOING!!!!! i need a ride\n\n[b]pizzagod88[/b]  Posted: Wed Oct 13, 2004 4:10 pm\nalready preordered the limited edition. the METAL BOX one. dont be jealous\n\n[b]xXskaterboi91Xx[/b]  Posted: Wed Oct 13, 2004 4:11 pm\nim so jealous\n\n[b]tacoma_steve[/b]  Posted: Wed Oct 13, 2004 5:30 pm\nill be there. the Beast will be in the lot. look for the flames\n\n[b]barb_t[/b]  Posted: Wed Oct 13, 2004 6:45 pm\nIs this the one where you are the robot man in green? My grandson wants it. Is it violent? He is 13.\n\n[b]pizzagod88[/b]  Posted: Wed Oct 13, 2004 6:47 pm\nbarb its fine. its aliens. aliens dont count\n\n[b]xXskaterboi91Xx[/b]  Posted: Wed Oct 13, 2004 6:50 pm\nlisten to pizzagod barb\n\n[b]nightshift_dave[/b]  Posted: Thu Oct 14, 2004 3:40 am\nI'll be off shift by then. Might go just to be somewhere with the lights on.\n\n[b]reelowen[/b]  Posted: Thu Oct 14, 2004 11:02 am\nbringing the camcorder. \"the last normal night in millbrook.\" kidding. mostly.\n\n[b]pizzagod88[/b]  Posted: Thu Oct 14, 2004 11:10 am\nYOU CAN DUAL WIELD IN THIS ONE. DUAL. WIELD."
+		},
+		{
+			"url": "millbrooktalk.net/viewtopic-5166",
+			"style": "forum",
+			"title": "MillbrookTalk :: HELP purple gorilla on my computer wont go away",
+			"search": [
+				"computer help",
+				"virus",
+				"bonzibuddy",
+				"bonzi buddy",
+				"purple gorilla",
+				"spyware",
+				"pop-ups",
+				"popups",
+				"spybot"
+			],
+			"body": "[b]barb_t[/b]  Posted: Mon Oct 11, 2004 10:12 am\nHELP. There is a purple gorilla on my computer. He talks. He says he is my \"friend\" and wants to tell me a joke. I did not ask for a joke. How do I make him go away? My granddaughter is at work.\n\n[b]pizzagod88[/b]  Posted: Mon Oct 11, 2004 10:20 am\nbarb thats bonzibuddy. its spyware. you have to uninstall it\n\n[b]barb_t[/b]  Posted: Mon Oct 11, 2004 10:31 am\nHe just sang me a song. It was \"Daisy Bell.\" I'm frightened.\n\n[b]tacoma_steve[/b]  Posted: Mon Oct 11, 2004 10:45 am\nget spybot search & destroy. and ad-aware. and STOP clicking the \"you are the 1,000,000th visitor\" boxes barb\n\n[b]barb_t[/b]  Posted: Mon Oct 11, 2004 11:02 am\nBut I WAS the 1,000,000th visitor. It said so.\n\n[b]mcc_emo_kid[/b]  Posted: Mon Oct 11, 2004 11:15 am\nthis thread is the only good thing that has happened to me all week\n\n[b]barb_t[/b]  Posted: Mon Oct 11, 2004 1:40 pm\nUPDATE: My grandson came over and got rid of him!! He also found 311 other \"programs\" including a Weather Bug and something called \"Gator.\" My computer is so fast now!!! Everyone come see my quilt page, it loads in under a minute!!\n\n[b]plumber_mike[/b]  Posted: Mon Oct 11, 2004 1:52 pm\nproud of you barb\n\n[color=#555555]Topic is marked RESOLVED.[/color]"
+		},
+		{
+			"url": "users.journalbox.com/pizzagod88",
+			"style": "journal",
+			"title": "pizzagod88 :: the za zone",
+			"search": [
+				"pizzagod88",
+				"pizzagod",
+				"away messages",
+				"aim",
+				"away message",
+				"buddy list",
+				"pizza rankings",
+				"ninja gaiden"
+			],
+			"body": "[b]10/14/2004[/b]  mood: [i]hungry[/i]  music: Usher, \"Yeah!\"\n[b]OFFICIAL MILLBROOK PIZZA RANKINGS (FINAL) (FOR REAL THIS TIME)[/b]\n  1. Papa Z's\n  2. the Lutheran pizza night (barb was right. do NOT tell barb)\n  3. Dee's pizza burger (not a pizza. still #3)\n  4. Luigi's (sorry steve)\n  5. bagel bites (sorry skaterboi)\n  ?. the potluck at the church on harrow. pizza was fine but a lady asked me if i live with my parents and if they own or rent. at a POTLUCK\n\n[b]10/09/2004[/b]  mood: [i]accomplished[/i]\nbeat ninja gaiden. have not seen the sun in 4 days. also i made a quiz: [[quizbox.com/quiz-88213|which dee's pie are you]]\n\n[b]10/03/2004[/b]  mood: [i]nostalgic[/i]\n[b]my best AIM away messages (a collection)[/b]\n  - \"brb pizza\"\n  - \"not here. or AM i. (brb pizza)\"\n  - \"~*~sleeping~*~ (call my cell) (i dont have a cell)\"\n  - \"at work. if this is my manager, i am definitely at work\"\n  - \"gone to papa z's. if im not back in 1 hour, avenge me\"\n\n[b]09/28/2004[/b]  mood: [i]annoyed[/i]\ntyler made a flash movie and it got daily 4th place and now he wont shut up about it. [[flashpit.com/portal-24130|here]]. (ok the tow truck dragon is pretty good)\n\n[color=#999999]7 comments[/color]"
+		},
+		{
+			"url": "quizbox.com/quiz-88213",
+			"style": "plain",
+			"title": "QuizBox :: Which Dee's Diner Pie Are You?",
+			"search": [
+				"quiz",
+				"quizzes",
+				"quizbox",
+				"personality quiz",
+				"which pie are you",
+				"online quiz",
+				"survey"
+			],
+			"body": "[center][b][color=#cc0066]QuizBox[/color][/b]\nTake a quiz! Make a quiz! Post your results on your journal![/center]\n\n[b]Which Dee's Diner Pie Are You?[/b]\ncreated by pizzagod88 * taken 1,337 times * rating: 4.2\n\n[b]Your result:[/b]\n[center][b]PEANUT BUTTER PIE[/b][/center]\nYou are secret. You are rich. You are the pie Dee pretends doesn't exist. The people who know about you would fight for you. The people who don't are missing out, and that's their problem. (38% of quiz takers)\n\n[b]Other results[/b]\n  Apple ... reliable, wholesome, wins the county fair every year and knows it. (41%)\n  Cherry ... a little dramatic. Red bleeds into everything. (14%)\n  Lemon Meringue ... all fluff on top, surprisingly sour underneath. (6%)\n  Meatloaf ... that's not a pie. Why did you pick those answers? (1%)\n\n[b]Post this on your journal![/b]\n[color=#999999]<a href=\"http://quizbox.com/quiz-88213\"><img src=\"pbpie.gif\"></a>[/color]\n\n[b]Comments[/b]\n[b]xXskaterboi91Xx:[/b] i got meatloaf :(\n[b]mcc_emo_kid:[/b] lemon meringue. accurate. dont talk to me\n[b]pizzagod88:[/b] meatloaf is the rarest result. be proud\n[b]hannah_k:[/b] apple!!! just like sister lydia lol"
+		},
+		{
+			"url": "home.millnet.com/~bgunderson/forwards",
+			"style": "plain",
+			"title": "Barb's Favorite Forwards!!",
+			"search": [
+				"forwards",
+				"fwd",
+				"fw",
+				"chain letter",
+				"chain email",
+				"email forwards",
+				"bill gates",
+				"hoax",
+				"funny emails"
+			],
+			"body": "[center][b]~ Barb's Favorite Forwards ~[/b]\n[color=#cc6699]These came in my e-mail and they were too good not to share!![/color][/center]\n\n[b]FW: FW: FW: FW: Bill Gates is giving away $$$[/b]\nMicrosoft is testing a new e-mail tracking program and Bill Gates will pay you $245 for every person you forward this to!!! My neighbor's nephew is a lawyer and he got $4,000!!! [color=#999999](Hannah says this is not real. We'll see who's laughing, Hannah.)[/color]\n\n[b]FW: FW: WARNING!!! Do NOT flash your headlights!!![/b]\nGang members are driving with their lights off. If you flash your lights at them they will follow you home!!! This was confirmed by a police officer!! [color=#999999](Deputy Drury said at seminar that it is \"very possible.\")[/color]\n\n[b]FW: Cute!! Kittens in a basket[/b]\n[color=#999999][image: kittens.jpg ... image not loading][/color]\n\n[b]FW: FW: FW: Prayer Chain, PLEASE DON'T BREAK IT[/b]\nSend this to 10 people in 10 minutes and something wonderful will happen at 10 o'clock tonight. A woman in Ohio broke the chain and lost her house!!! [color=#999999](This one came from Sister Lydia. It had ten addresses on it, all church ladies, and two of them were blank.)[/color]\n\n[b]FW: FW: You know you're from Millbrook when...[/b]\n  - You've been towed and you weren't even parked.\n  - You give directions using \"where the old Grange was.\"\n  - Dee's special has been meatloaf longer than your kid has been alive.\n  - Your HOA has an opinion about your mailbox.\n  - You've heard The Hum and decided it's the water main.\n\n[b]FW: Footprints in the Sand[/b]\nYou know the one!!! Still makes me cry every time.\n\n[center][color=#666666][[home.millnet.com/~bgunderson|Back to Barb's Quilt Corner]][/color][/center]"
+		},
+		{
+			"url": "bidhaus.com/item-2207744",
+			"style": "plain",
+			"title": "BidHaus :: HUGE Beanie Babies Lot 140+ w/ PRINCESS BEAR!! RETIRED!! (Item #2207744)",
+			"search": [
+				"beanie babies",
+				"beanie baby",
+				"princess bear",
+				"princess diana bear",
+				"beanies",
+				"collectibles auction"
+			],
+			"body": "[b]HUGE Beanie Babies Lot, 140+, ALL W/ TAGS, incl. PRINCESS the bear!!! RETIRED!!! INVESTMENT!!![/b]\n\nCurrent bid: US $412.00 (3 bids)\nSeller: [b]beaniequeen_wa[/b] (212) [color=#009900]99.1% positive[/color]\nTime left: 2 days 4 hours\nItem location: Millbrook, WA\n\n[b]Description[/b]\nSelling my ENTIRE collection. I have been collecting since 1996 and I kept every tag protector. My husband says the \"Beanie bubble has popped.\" My husband does not know what he is talking about. These will be worth MILLIONS someday and you will thank me.\n\nIncludes: Princess (purple bear, 1997, PVC pellets!!), Peanut the elephant, Legs the frog, Chocolate the moose, 2 Spots, 3 Garcias (the Grateful Dead bear, not my thing but RARE) and 130+ more. Full list by e-mail.\n\n[b]Why I'm selling:[/b] My husband got a job through a staffing agency, and now we \"don't have to worry about money.\" I have not seen any money. So.\n\n[b]Questions & Answers[/b]\n  Q: is the princess the one with the tag error? -- ty_hunter\n  A: I don't know what that means but YES.\n\n  Q: will you take $50 for the whole lot -- dubs_n_dubs\n  A: Absolutely not. How dare you.\n\nShipping: $30. BidPal or money order ONLY."
+		},
+		{
+			"url": "members.webhaven.com/legolasluvr",
+			"style": "plain",
+			"title": "~*~ LEGOLAS 4 EVER ~*~ an Orlando Bloom shrine",
+			"search": [
+				"orlando bloom",
+				"legolas",
+				"lord of the rings",
+				"lotr",
+				"shrine",
+				"fan page",
+				"pirates of the caribbean",
+				"return of the king"
+			],
+			"body": "[center][color=#9933cc][b]~*~ LEGOLAS 4 EVER ~*~[/b][/color]\n[color=#cc66ff]an Orlando Bloom shrine by Kayleigh * est. 2002[/color]\n[color=#999999][image: sparkles.gif] [image: legolas_blinkie.gif] [image: sparkles.gif][/color][/center]\n\n[b]~ OMG NEWS ~[/b]\n  - Return of the King EXTENDED EDITION comes out in DECEMBER!!! 50 extra minutes!!! Some of which are Legolas!!!\n  - Orli is in a movie about knights next year. I will see it 8 times.\n  - I have now watched Pirates of the Caribbean 14 times. Will Turner is ALSO a 10/10.\n\n[b]~ Why Legolas Is The Best ~[/b]\n  1. The shield surfing\n  2. The oliphaunt thing\n  3. \"A red sun rises. Blood has been spilled this night.\" (CHILLS)\n  4. His hair is better than my hair and I have accepted this\n\n[b]~ Sign My Guestbook ~[/b]\n[b]bloom_babe_03:[/b] OMG ur shrine is SO pretty!!! link exchange??\n[b]aragorn_is_hotter:[/b] aragorn is hotter\n[b]kayleigh (webmistress):[/b] BANNED\n[b]hannah_k:[/b] kayleigh!!! its me from youth group!!! i didnt know u had a site!!! is this why u stopped coming? my mom says ur family goes to the lutheran one now. i miss u\n[b]kayleigh (webmistress):[/b] hannah i cant really talk about church stuff on here. but you can always come to pizza night. i mean it. <3\n\n[center][color=#999999][font_size=12]Best viewed at 1024x768 in Internet Explorer. No stealing my graphics!!! I WILL know.[/font_size][/color]\n[color=#cc66ff]Legolas Webring: [Prev] [Random] [Next][/color][/center]"
+		},
+		{
+			"url": "friendnest.com/tylervoss",
+			"style": "plain",
+			"title": "Friendnest :: Tyler Voss",
+			"search": [
+				"friendnest",
+				"friendster",
+				"tyler voss",
+				"tyler",
+				"social network",
+				"testimonials",
+				"profile"
+			],
+			"body": "[center][b][color=#3366cc]friendnest[/color][/b]\n[color=#999999]connect with your friends, and their friends![/color][/center]\n\n[b]Tyler Voss[/b], 18, Male, Millbrook WA\n[color=#999999][image: tyler_default.jpg][/color]\nStatus: Single\nHere for: Friends, Activity Partners, the girl from Lost (call me)\nInterests: Napoleon Dynamite, Dave Chappelle, Hawaiian pizza, my band [[soundhaus.com/seismometer|SEISMOMETER]], being hilarious\nFavorite Movies: Anchorman (60% of the time it works every time), Dodgeball, Napoleon Dynamite\nFavorite Music: Blink-182, Jay-Z, the Ninja Turtles theme\nWho I Want to Meet: whoever keeps putting lawn gnomes on the Coyles' roof. it isnt me. i want to shake your hand\n\n[b]Tyler's Friends (212)[/b]\n  Owen H. * Priya N. * pizzagod88 * Jake R. * Kayleigh S. * Jess M. * Hannah K. [color=#999999](pending)[/color]\n\n[b]Testimonials[/b]\n[b]Owen H.:[/b] tyler voss made me laugh so hard in chemistry i dropped a beaker and we both got detention. would drop beaker again\n[b]Priya N.:[/b] Tyler is the most annoying person I have ever met and I would take a bullet for him. Don't tell him.\n[b]pizzagod88:[/b] this man ate 9 slices at papa z's and then asked to see a menu\n[b]Jake R.:[/b] WATCH TYLERS FLASH MOVIE!!! [[flashpit.com/portal-24130|HOA ATTACKS!!!]]\n\n[color=#999999][font_size=12]Friendnest is in BETA. Pages may load slowly. Pages may not load.[/font_size][/color]"
+		},
+		{
+			"url": "flashpit.com/portal-24130",
+			"style": "plain",
+			"title": "FlashPit Portal :: HOA ATTACKS!!! (by tvoss_productions)",
+			"search": [
+				"flash",
+				"flash movie",
+				"flash cartoon",
+				"flash animation",
+				"flashpit",
+				"animation",
+				"hoa attacks",
+				"cartoon"
+			],
+			"body": "[center][b][color=#ff6600]FlashPit[/color][/b] :: Everything, by Everyone\n[color=#999999][loading.swf ... 99%][/color][/center]\n\n[b]HOA ATTACKS!!![/b]\nby [b]tvoss_productions[/b] * Movie * 1.2 MB * Submitted 09/19/2004\nScore: [b]3.41 / 5.00[/b] (Daily 4th Place!)\nGenre: Comedy - Original\n\n[b]Author Comments[/b]\nmy first flash!!! a giant robot HOA lady stomps around town fining people for their grass and then a tow truck with 22 inch rims turns into a dragon. based on true events (the tow truck). music is \"Rock Lobster.\" made in Flash MX in 3 weeks instead of doing my calc homework. vote 5 or ur a noob\n\n[b]Reviews[/b]\n[b]pizzagod88[/b] [5/5]: THE TOW TRUCK DRAGON. i am crying\n[b]stickdeath_fan[/b] [2/5]: needs more exploding stick guys. also the robot lady's arm glitches at 0:42\n[b]abel_rollback[/b] [1/5]: not funny. and delete this\n[b]tvoss_productions[/b] [author response]: lol ok abel\n[b]anonymous[/b] [5/5]: The part at the end where all the house lights on the street go out except two. How did you know to do that?\n[b]tvoss_productions[/b] [author response]: ??? i didnt animate that. theres no end part. it just loops back to the title\n\n[color=#999999]Flash Player 7 required. Get it free![/color]"
+		},
+		{
+			"url": "soundhaus.com/seismometer",
+			"style": "plain",
+			"title": "SoundHaus :: SEISMOMETER (Millbrook, WA)",
+			"search": [
+				"band",
+				"bands",
+				"local band",
+				"local bands",
+				"seismometer",
+				"emo band",
+				"mp3",
+				"mp3s",
+				"soundhaus",
+				"shows"
+			],
+			"body": "[center][b]SEISMOMETER[/b]\nIndie / Emo / \"Post-Rock\" (Priya insists)\nMillbrook, WA[/center]\n\n[b]Members[/b]\n  Jess ...... vocals, lyrics, sadness\n  Priya N. .. guitar, being right about things\n  Tyler V. .. drums, vibes\n  Owen H. ... bass (learning)\n\n[b]MP3s[/b]\n  1. The Static Between Stations ........... 3:41 ... [color=#999999]plays: 88[/color]\n  2. Your HOA Can't Fine My Heart ........... 2:17 ... [color=#999999]plays: 212[/color]\n  3. Night Owl Plan ($14.95/mo) ............. 4:02 ... [color=#999999]plays: 41[/color]\n  4. 315 (field recording, Harrow Ln) ....... 6:00 ... [color=#999999]plays: 315[/color]\n\n[b]About Track 4[/b]\nWe set Owen's camcorder mic on the curb on Harrow at 3 AM and recorded until 3:21. We were going to loop the hum under a song. We did not add anything. Please stop e-mailing us asking what the voice is saying. We don't know. Priya thinks it's saying a house number.\n\n[b]Shows[/b]\n  Oct 22 ... MCC Lecture Hall B, opening for the HARROW screening [color=#990000]CANCELLED[/color]\n  Oct 29 ... Priya's garage (bring a folding chair)\n  Nov 9 .... GameStation parking lot before the Halo 2 launch (not officially)\n\n[b]Band Journal[/b]\nTyler figured out how to play the Hamster Dance on the drum machine. We have agreed never to speak of this.\n\n[color=#999999]Add us on Myspace! (What's a Myspace? -- Jess)[/color]"
+		},
+		{
+			"url": "kmlb.com/morningzoo",
+			"style": "plain",
+			"title": "98.7 KMLB :: The Morning Zoo with Big Rick & Tammy",
+			"search": [
+				"morning zoo",
+				"big rick",
+				"tammy",
+				"prank call",
+				"prank calls",
+				"morning show",
+				"phone tap",
+				"psychic"
+			],
+			"body": "[center][b][color=#0033cc]THE MORNING ZOO[/color][/b]\nwith Big Rick & Tammy * weekdays 5 to 10 AM\n[color=#999999][image: zoo_animals_dancing.gif][/color][/center]\n\n[b]PHONE TAP HALL OF FAME[/b]\n  - Big Rick calls Dee's Diner and asks for the meatloaf \"that isn't from 2001.\" Dee hangs up in 4 seconds. (Our record!)\n  - Tammy calls MillNet tech support pretending to be her own grandma. Gets talked into the Night Owl plan. Keeps it.\n  - Big Rick calls Coyle Towing to ask what a \"service sticker\" services. 11 seconds of silence. Then a man says, \"Which street are you on?\" We did not air the rest.\n  - Tammy calls the Harrow Lane HOA to report \"a neighbor with a really nice lawn.\" They asked for the address. They sounded really excited.\n\n[b]THIS WEEK ON THE ZOO[/b]\n  Mon ... Worst Halloween Costume Stories\n  Tue ... \"Would You Rather\" with the Millers football team\n  Wed ... Cash Cow Moo (win HALO 2!)\n  Thu ... Big Rick tries a new diet (again)\n  Fri ... Psychic Friday with Madame Lorraine\n\n[b]Psychic Friday Recap (10/08)[/b]\nMadame Lorraine told Caller 4 that \"a house with a red light is standing between you and a door.\" Caller 4 hung up. Tammy says it was the best Psychic Friday ever. Big Rick says Madame Lorraine is his aunt and lives in Olympia.\n\n[center][color=#666666][[kmlb.com|Back to KMLB]][/color][/center]"
+		},
+		{
+			"url": "mcc.edu/lab",
+			"style": "plain",
+			"title": "MCC Open Computer Lab: Rules & Hours",
+			"search": [
+				"computer lab",
+				"lab rules",
+				"kazaa",
+				"limewire",
+				"runescape",
+				"neopets",
+				"printing",
+				"mcc lab"
+			],
+			"body": "[b]MCC OPEN COMPUTER LAB[/b]\nLibrary, 1st floor * 24 Dell PCs with Windows XP! * 2 iMacs (please stop asking which ones are the iMacs, they are the ones shaped like lamps)\n\n[b]Hours[/b]\nMon to Thu 8 AM to 10 PM * Fri 8 to 5 * Sat 10 to 4 * Closed Sunday\n\n[b]Rules[/b]\n  1. No Kazaa, LimeWire, Morpheus or \"Napster, but the free one.\" We can see you. We have ALWAYS been able to see you.\n  2. No RuneScape. This means you, table 6.\n  3. No games of any kind, including Solitaire, Minesweeper and \"just checking on my Neopets.\"\n  4. Printing is 10 cents a page. The printer is not broken. You sent it to the printer in the Science Building.\n  5. Save your work to a floppy or a USB drive. The C: drive is wiped every night.\n  6. The Hamster Dance does not need to be at full volume. It never did.\n\n[b]Room 2B[/b]\nLibrary Room 2B is reserved every Thursday by Harvest Fellowship / Ashby Staffing for the job fair. Ashby staff have asked to use lab computers to fill out student applications for them. We said no. They asked who says no. We said the lab.\n\n[b]Lost & Found[/b]\n3 floppies (one labeled \"HARROW rough cut DO NOT ERASE\"), 1 Discman, 1 retainer (gross).\n\n[color=#666666]Lab Supervisor: Mr. Kowalski, ext. 212[/color]"
+		},
+		{
+			"url": "home.millnet.com/~tsteve/hampster",
+			"style": "plain",
+			"title": "!!! THE HAMSTER DANCE !!! (Steve's Version)",
+			"search": [
+				"dancing hamsters",
+				"hamsters",
+				"hampsterdance",
+				"hamster dance song"
+			],
+			"body": "[center][color=#ff00ff][b]!!! WELCOME TO THE HAMSTER DANCE !!![/b][/color]\n[color=#999999][image: hamster1.gif] [image: hamster2.gif] [image: hamster3.gif] [image: hamster4.gif] [image: hamster1.gif] [image: hamster2.gif]\n[image: hamster3.gif] [image: hamster4.gif] [image: hamster1.gif] [image: hamster2.gif] [image: hamster3.gif] [image: hamster4.gif][/color]\n[font_size=12]Now playing: hampsterdance.wav (on loop)[/font_size][/center]\n\ndee da da da doo, doo dee da da da doo\n\nI copied this from the original because the original loads slow on dial-up and I needed it faster. You're welcome, Millbrook.\n\n[b]Fun Facts[/b]\n  - I had this page open for 6 hours straight while waiting for my lift kit to ship.\n  - Rosa says if I play it one more time she is moving to Tacoma.\n  - It sounds different at 3 in the morning. Slower. Like the hamsters are tired. I asked Rick at MillNet about it and he said \"don't play it at 3 in the morning\" and hung up.\n\n[center][[home.millnet.com/~tsteve|<< Back to The Beast]]\n[color=#999999]You are hamster visitor #000411[/color][/center]"
+		},
+		{
+			"url": "papazs.com",
+			"style": "plain",
+			"title": "Papa Z's Pizza :: Open Late!",
+			"search": [
+				"papa z's",
+				"papa zs",
+				"papa z",
+				"pizza place",
+				"late night food",
+				"open late",
+				"pizza coupon",
+				"coupons",
+				"delivery menu"
+			],
+			"body": "[center][b][color=#cc0000]PAPA Z'S PIZZA[/color][/b]\n\"The Only Pizza Open After Midnight (Because Somebody Has To Be)\"\nOpen 11 AM to 3 AM * 555-0172[/center]\n\n[b]ONLINE COUPON!!! (print this page)[/b]\n[center][color=#009900][b]LARGE 1-TOPPING $7.99[/b]\nmention the website!! code: INTERNET[/color][/center]\n\n[b]Menu[/b]\n  Cheese ................................... $8.99\n  Pepperoni ................................ $9.99\n  The Hawaiian (it's good, stop arguing) ... $11.99\n  The Zinger (jalapeno, pepperoni, more jalapeno) ... $11.99\n  Cheesy Bread ............................. $3.99\n  2-Liter .................................. $1.99\n\n[b]Delivery Area[/b]\nWe deliver anywhere in Millbrook within 5 miles, EXCEPT:\n  - Harrow Lane (400 block)\n  - Birch Court\n  - Pine Hollow Road (they won't open the gate for the driver anyway)\nPlease don't call and ask why. Kevin will just say \"HOA stuff,\" and he's right.\n\n[b]Now Hiring![/b]\nDrivers wanted. Must have a car, license and insurance, and not be scared of dogs. (Just kidding. The dogs on Birch Court won't come near the car.)\n\n[center][color=#999999]Pizza Burger questions: go to Dee's. We know. We KNOW.[/color][/center]"
 		}
 	]
 }
