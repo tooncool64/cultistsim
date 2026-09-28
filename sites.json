@@ -1,0 +1,1651 @@
+{
+	"navs": {
+		"church": {
+			"banner": "~ Evangelicals International ~",
+			"tagline": "The Mother Church * 412 Harrow Lane * Millbrook * Est. 1977",
+			"links": [
+				[
+					"Home",
+					"evangelicalsintl.org"
+				],
+				[
+					"About Us",
+					"evangelicalsintl.org/about"
+				],
+				[
+					"Our Board",
+					"evangelicalsintl.org/board"
+				],
+				[
+					"Family Businesses",
+					"evangelicalsintl.org/directory"
+				],
+				[
+					"Spiritual Warfare",
+					"evangelicalsintl.org/warfare"
+				],
+				[
+					"Judgement House!",
+					"evangelicalsintl.org/judgement"
+				],
+				[
+					"Guestbook",
+					"evangelicalsintl.org/guestbook"
+				],
+				[
+					"Links",
+					"evangelicalsintl.org/links"
+				]
+			]
+		},
+		"harrowhoa": {
+			"banner": "Harrow Lane Homeowners Association",
+			"tagline": "Protecting Property Values Since 1999",
+			"links": [
+				[
+					"Home",
+					"harrowlanehoa.org"
+				],
+				[
+					"Covenants & Rules",
+					"harrowlanehoa.org/covenants"
+				]
+			]
+		},
+		"hour": {
+			"banner": "THE LOWER HALL",
+			"tagline": "members' board  ::  guest access: ON",
+			"links": [
+				[
+					"Index",
+					"evangelicalsintl.org/forum"
+				],
+				[
+					"Prayer Watch",
+					"evangelicalsintl.org/forum/watch"
+				],
+				[
+					"On the Ten Horns",
+					"evangelicalsintl.org/forum/horns"
+				],
+				[
+					"The Star",
+					"evangelicalsintl.org/forum/star"
+				],
+				[
+					"The 31st",
+					"evangelicalsintl.org/forum/31st"
+				],
+				[
+					"Tithe of hours?",
+					"evangelicalsintl.org/forum/hours"
+				],
+				[
+					"Pine Hollow",
+					"evangelicalsintl.org/forum/deliverance"
+				]
+			]
+		}
+	},
+	"probe_paths": [
+		"admin",
+		"cgi-bin",
+		"_vti_bin",
+		"images",
+		"forum",
+		"members",
+		"backup",
+		"liens",
+		"old",
+		"robots.txt",
+		"stats",
+		"cams",
+		"warfare",
+		"tracts",
+		"judgement"
+	],
+	"pages": [
+		{
+			"url": "evangelicalsintl.org",
+			"nav": "church",
+			"style": "church",
+			"title": "Welcome to Our Online Home!",
+			"search": [
+				"evangelicals",
+				"evangelicals international",
+				"church",
+				"harrow lane",
+				"millbrook church",
+				"412 harrow lane",
+				"judgement house",
+				"hell house"
+			],
+			"source": "<!-- Created with Microsoft FrontPage 2000 -->\n<!-- hit counter: counter.cgi?id=evi -->\n<!-- members: the board has moved to /forum/ (ask Brother Nathaniel for the password) -->",
+			"body": "[center][color=#990000][b]*** JUDGEMENT HOUSE 2004: October 29, 30 & 31! [[evangelicalsintl.org/judgement|Get your tickets]] ***[/b][/color]\n[color=#990000]Fall Fellowship Potluck is Saturday![/color]\n\nYou are visitor number [b]004127[/b] since March 1999![/center]\n\nWelcome, friend! Evangelicals International was founded in 1977 by our Senior Pastor, {{Elias Crane|name}}, in a living room on Harrow Lane. Today we are a family of more than 600 members, worshipping at the Mother Church at 412 Harrow Lane.\n\n[b]Service Times[/b]\nSunday Worship ... 10:00 AM\nWednesday Fellowship ... 7:00 PM\nNeighborhood Prayer Watch ... nightly, members only\n\nWe believe a church family should also be a family in business, in housing, and in every part of life. Please support the [[evangelicalsintl.org/directory|businesses of our church family]]!\n\nIs the enemy working in YOUR neighborhood? Learn the warning signs with our [[evangelicalsintl.org/warfare|Spiritual Warfare Ministry]].\n\n[center][color=#666666][font_size=12]Best viewed in Internet Explorer 5.0 or higher at 800x600.\nThis site is Y2K compliant![/font_size][/color][/center]"
+		},
+		{
+			"url": "evangelicalsintl.org/about",
+			"nav": "church",
+			"style": "church",
+			"title": "About Us",
+			"search": [
+				"mother church",
+				"pastor",
+				"elias crane",
+				"about evangelicals"
+			],
+			"source": "<!-- TODO: take down the old Watch schedule per N.D.\n<!-- do NOT mention Lindqvist. ever. --> -->\n<!-- do NOT mention the 1998 case. say 'trial' only. -->",
+			"body": "Evangelicals International is a non-denominational congregation and a registered non-profit religious corporation. Our Senior Pastor has shepherded this family for twenty-seven years.\n\nSince 1985 our [[evangelicalsintl.org/warfare|Spiritual Warfare Ministry]] has stood between Millbrook's families and the enemy.\n\nIn 1998 our Pastor endured a season of trial, and our family stood with him. We came through it stronger.\n\nOur church owns no property. All of our buildings are generously provided by {{Crane Holdings LLC|org}}, a private company, at no cost to our members.\n\nThe church is governed by a [[evangelicalsintl.org/board|Board of Directors]] of ten men, who serve without pay."
+		},
+		{
+			"url": "evangelicalsintl.org/board",
+			"nav": "church",
+			"style": "church",
+			"title": "Our Board of Directors",
+			"search": [
+				"board of directors",
+				"board",
+				"elders",
+				"directors",
+				"the ten"
+			],
+			"source": "<!-- names removed from this page 06/2004 per Pastor -->\n<!-- white text is for the Horns. do not remove. -->",
+			"body": "Ten men of our church family serve on the Board. Out of humility they are listed by first name only.\n\n  Brother Aldous ... Treasurer\n  Brother Walter ... Harrow Lane neighborhood\n  Brother Nathaniel ... Birch Court neighborhood\n  Brother Samuel ... Pine Hollow Estates\n  Brother Isaac ... Buildings & Grounds\n  Brother Jeremiah ... Vehicles & Transportation\n  Brother Levi ... Property Transfers\n  Brother Gideon ... Member Employment\n  Brother Harold ... Member Housing\n  Brother Amos ... Member Protection\n\nAll Board members serve without compensation.\n\n[color=#fffbe6]Ten horns, ten points of the star. Eight are His. 411 and 413 remain. On the thirty-first the Landlord takes possession.[/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/directory",
+			"nav": "church",
+			"style": "church",
+			"title": "Church Family Business Directory",
+			"search": [
+				"business directory",
+				"church businesses",
+				"family businesses",
+				"directory"
+			],
+			"source": "<!-- HOA collections route through Strand, never through the church -->",
+			"body": "[center][b]Support Our Church Family![/b][/center]\nMembers are [u]expected[/u] to use church family businesses for all of their needs. Show your membership card for a 10% family discount!\n\n[b]{{Mercer Construction|org}}[/b] ... remodeling, excavation, commercial. Ask for Brother Isaac.\n[b]{{Coyle Auto Repair & Towing|org}}[/b] ... repairs & 24-hour towing. Ask for Brother Jeremiah.\n[b]{{Strand Title & Escrow|org}}[/b] ... closings, deeds, notary. Ask for Brother Levi.\n[b]{{Ashby Staffing Services|org}}[/b] ... we find you work! New members welcome. Ask for Brother Gideon.\n[b]{{Finch Property Management|org}}[/b] ... affordable housing for church families. Ask for Brother Harold.\n[b]{{Kettering Insurance Agency|org}}[/b] ... life, auto, home. Ask for Brother Amos.\n[b]{{Vole & Associates CPA|org}}[/b] ... taxes and bookkeeping. Ask for Brother Aldous.\n\nOur neighborhood associations are listed on our [[evangelicalsintl.org/links|Links]] page."
+		},
+		{
+			"url": "evangelicalsintl.org/guestbook",
+			"nav": "church",
+			"style": "church",
+			"title": "Sign Our Guestbook!",
+			"search": [
+				"guestbook",
+				"evangelicals guestbook"
+			],
+			"body": "[b]Name:[/b] Barb T.   [b]Date:[/b] 09/30/2004\nWhat a beautiful church family! The potluck was wonderful. God bless!\n\n[b]Name:[/b] Pastor Jim, Coeur d'Alene   [b]Date:[/b] 09/22/2004\nBrought our youth group to your Judgement House last year. Six salvations in one night! The ritual room was SO realistic. Where do you find those robes?\n\n[b]Name:[/b] E.   [b]Date:[/b] 09/12/2004\nIs my daughter Ruth still at Pine Hollow? Please just have her call her mother.\n\n[b]Name:[/b] concerned neighbor   [b]Date:[/b] 08/28/2004\nWho is running an excavator behind your building at 2 in the morning??\n\n[b]Name:[/b] Carol L.   [b]Date:[/b] 08/14/2004\nYou know what you did in 1986. Your people still drive past my sister's house in Spokane. I did nothing. I did NOTHING.\n\n[center][color=#666666][Sign the Guestbook] [View Older Entries][/color][/center]"
+		},
+		{
+			"url": "evangelicalsintl.org/links",
+			"nav": "church",
+			"style": "church",
+			"title": "Links",
+			"search": [
+				"links",
+				"neighborhood associations"
+			],
+			"body": "[b]Our Neighborhood Associations[/b]\nMany of our families live in communities served by these fine associations:\n  - [[harrowlanehoa.org|Harrow Lane Homeowners Association]]\n  - [[birchcourtca.org|Birch Court Community Association]]\n  - [[pinehollowestates.com|Pine Hollow Estates]]\n\n[b]Other Links[/b]\n  - Bible Gateway\n  - [[christianwebring.org|Christian Web Ring]] [color=#666666][Prev] [Random] [Next][/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/robots.txt",
+			"hidden": true,
+			"style": "plain",
+			"title": "robots.txt",
+			"body": "User-agent: *\nDisallow: /forum/\nDisallow: /cgi-bin/\nDisallow: /backup/\nDisallow: /old/"
+		},
+		{
+			"url": "evangelicalsintl.org/stats",
+			"hidden": true,
+			"style": "plain",
+			"title": "Usage Statistics for evangelicalsintl.org",
+			"source": "<!-- Generated by Webalizer Version 2.01 -->",
+			"body": "[b]Usage Statistics for evangelicalsintl.org[/b]\nSummary Period: September 2004\n\n[b]Top 12 of 58 Total Search Strings[/b]\n  1   evangelicals international potluck ............ 41\n  2   millbrook church ............................... 33\n  3   elias crane 1998 ............................... 19\n  4   harrow lane hoa dues ........................... 14\n  5   ashby staffing paycheck ........................ 9\n  6   pine hollow gate code .......................... 7\n  7   is evangelicals international satanic ......... 6\n  8   wage assignment is it legal .................... 5\n  9   ruth pell ...................................... 4\n  10  harrow lane tunnel ............................. 3\n  11  hoa lien lawyer millbrook ...................... 3\n  12  carol lindqvist innocent ....................... 1\n\n[b]Top 6 of 22 Total Referrers[/b]\n  1   (direct request) ............................... 3,112\n  2   millbrooktalk.net/viewtopic-4471 ............... 88\n  3   christianwebring.org ........................... 40\n  4   millbrookgripes.com/ashby-staffing ............. 17\n  5   home.millnet.com/~prennick/links.htm ........... 6\n  6   archive.webtime.org ............................ 2\n\n[b]Top Entry Pages[/b]\n  1   /forum/ ........................................ 1,904\n  2   / .............................................. 1,011\n  3   /judgement ..................................... 802\n  4   /forum/watch ................................... 360"
+		},
+		{
+			"url": "evangelicalsintl.org/old",
+			"hidden": true,
+			"style": "plain",
+			"title": "watch_2003.htm",
+			"source": "<!-- moved here from /forum/ 01/2004. -->",
+			"body": "[b]PRAYER WATCH SCHEDULE, 2003[/b]\n[color=#999999](volunteer copy)[/color]\n\n  14 Birch Ct ...... the lamp stays on. Note it.\n  18 Birch Ct ...... the widow is alone. Visit with casseroles. Note who else visits.\n  405 Harrow ....... sons moved out of state. Note when they call.\n  407 Harrow ....... behind on dues since March. Note the mail.\n  409 Harrow ....... rental. Note the tenant.\n  411 Harrow ....... for sale. Note who buys it.\n  413 Harrow ....... the Chair. not yet.\n\nStand where you are told. Say nothing. Write down what you see.\n\n[color=#999999]-- bookkeeper[/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/members",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "Memberlist",
+			"source": "<!-- phpBB 2.0.10 : memberlist.php -->",
+			"body": "[b]Username[/b] ... [b]Joined[/b] ... [b]Posts[/b] ... [b]Location[/b] ... [b]Occupation[/b]\n\nbookkeeper ....... Apr 2002 ... 612 ... Harrow Ln ....... the books\nhorn_i ........... Apr 2002 ... 88 .... Harrow Ln ....... the ledger\nhorn_ii .......... Apr 2002 ... 140 ... 400 block ....... the rules\nhorn_iii ......... Apr 2002 ... 97 .... Birch Ct ........ the rules\nhorn_iv .......... Apr 2002 ... 51 .... Pine Hollow ..... deliverance\nhorn_v ........... Apr 2002 ... 33 .... the dig ......... the ground\nhorn_vi .......... May 2002 ... 29 .... the lot ......... the road\nhorn_vii ......... May 2002 ... 64 .... the office ...... the stamp\nhorn_viii ........ Jan 2003 ... 45 .... the floor ....... the hands\nhorn_ix .......... Jan 2003 ... 58 .... the rents ....... the roofs\nhorn_x ........... Mar 2003 ... 102 ... the agency ...... the policy\nnewbrother_d ..... Jun 2004 ... 3 ..... warehouse ....... \nhannah_k ......... Jul 2004 ... 1 ..... the car ......... licensed!! prayer watch!!\np_rennick ........ Apr 2002 ... 211 ... [i]account deactivated 03/2003[/i]\n\n[color=#555555]Total registered users: 14[/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/backup",
+			"hidden": true,
+			"style": "plain",
+			"title": "phpbb_backup_0914.sql (partial)",
+			"source": "<!-- directory listing enabled -->",
+			"body": "-- phpBB 2.0.x SQL dump, 14 Sep 2004 -- TRUNCATED --\n\nINSERT INTO phpbb_users VALUES (21, 'newbrother_d', 'dkirsch71@hotmail.com', 1086566400, 3, 'warehouse');\nINSERT INTO phpbb_users VALUES (13, 'p_rennick', 'prennick@millnet.com', 1018137600, 211, 'INACTIVE');\n\n-- phpbb_posts_text (soft-deleted)\nINSERT INTO phpbb_posts_text VALUES (1407, 'newbrother_d', 'i called the labor board today. a lady is going to call me back. i just want to know where my checks go');\nINSERT INTO phpbb_posts_text VALUES (1408, 'horn_viii', 'Brother D. will be taking a retreat. Sister Joan has room for him in deliverance.');\n\n-- phpbb_privmsgs\nINSERT INTO phpbb_privmsgs VALUES (3301, 'bookkeeper', 'E.C.', 'SENT', 'The pantry ledger is burned, as you asked.');\nINSERT INTO phpbb_privmsgs VALUES (3302, 'E.C.', 'bookkeeper', 'SENT', 'Good. Then there was only ever one book.');\nINSERT INTO phpbb_privmsgs VALUES (3340, 'bookkeeper', 'p_rennick', 'DRAFT', 'You kept the church while he was away. I did not burn the copy. If you want 411 and 413 to stay off the star, ');\n\n-- END OF FILE (unexpected)"
+		},
+		{
+			"url": "evangelicalsintl.org/forum",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "Index",
+			"source": "<!-- phpBB 2.0.10 -->\n<!-- guest read access left ON after the upgrade. N.D. to fix. -->",
+			"body": "Welcome, [i]Guest[/i]. You may read but not post.\n\n[[evangelicalsintl.org/forum/watch|Prayer Watch assignments, October]] ... by bookkeeper ... 4 replies\n[[evangelicalsintl.org/forum/horns|On the Ten Horns (for the new brothers)]] ... by horn_i ... 11 replies\n[[evangelicalsintl.org/forum/star|the star]] ... by horn_v ... 6 replies\n[[evangelicalsintl.org/forum/31st|the 31st]] ... by horn_x ... 3 replies\n[[evangelicalsintl.org/forum/hours|question about my tithe of hours]] ... by newbrother_d ... 2 replies\n[[evangelicalsintl.org/forum/deliverance|Pine Hollow]] ... by horn_iv ... 1 reply\n\n[color=#555555]Who is online: 7 members, 1 guest.[/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/forum/watch",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "Prayer Watch assignments, October",
+			"body": "[b]bookkeeper[/b] wrote:\nOctober assignments for the Prayer Watch are below. As always, the volunteers believe they are watching for the occult. Let them. They are diligent, and their notes are useful.\n\n  403 Harrow ... Strand household (ours)\n  405 Harrow ... ours since July\n  407 Harrow ... ours since August\n  409 Harrow ... the tenant is being encouraged\n  411 Harrow ... the new one. Writes for the Ledger. His screen burns past three. The sisters have already reported him as \"possible occult activity.\" Note what he reads.\n  413 Harrow ... the old Chair. The red lamp. Note it.\n\n[b]horn_ii[/b] wrote:\n413 has refused the Association three times. Birch Court has filed on his other house.\n\n[b]horn_iii[/b] wrote:\nMy brother has the Watch reports on 411. Two more and he can call it a pattern.\n\n[b]bookkeeper[/b] wrote:\nThen it is only a matter of paperwork. It is always only a matter of paperwork."
+		},
+		{
+			"url": "evangelicalsintl.org/forum/hours",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "question about my tithe of hours",
+			"body": "[b]newbrother_d[/b] wrote:\nBrother Gideon placed me at the distribution warehouse in June. I work 50 hours a week. I have not seen a paycheck. Brother Harold says my rent is taken care of and Sister Joan says my groceries are taken care of. Is this what the tithe of hours means?\n\n[b]bookkeeper[/b] wrote:\nYour hours are given. Your needs are met. Do not ask again in the open.\n\n[b]horn_viii[/b] wrote:\nThread locked."
+		},
+		{
+			"url": "harrowlanehoa.org",
+			"nav": "harrowhoa",
+			"style": "hoa",
+			"title": "Welcome, Neighbors!",
+			"search": [
+				"harrow lane hoa",
+				"harrow lane homeowners association",
+				"homeowners association",
+				"hoa",
+				"harrow lane association"
+			],
+			"source": "<!-- violation queue is under /admin. L.G. -->",
+			"body": "The {{Harrow Lane Homeowners Association|org}} was formed in 1999 to keep Harrow Lane a beautiful, orderly place to live. Membership is mandatory for all property owners per the recorded covenants.\n\n[b]Board of the Association[/b]\nPresident: {{Walter Greaves|name}}\nSecretary: {{Lydia Greaves|name}}\nTreasurer: A. Vole\n\n[b]Dues[/b] are $1,200/quarter. Late fees accrue daily. Unpaid balances will be referred for collection and lien.\n\nPlease read our [[harrowlanehoa.org/covenants|Covenants & Rules]]. Ignorance of the rules is not a defense."
+		},
+		{
+			"url": "harrowlanehoa.org/covenants",
+			"nav": "harrowhoa",
+			"style": "hoa",
+			"title": "Covenants & Rules (amended 2004)",
+			"search": [
+				"covenants",
+				"hoa rules",
+				"harrow lane rules"
+			],
+			"body": "[b]Section 4.2[/b] Window coverings on any window facing 412 Harrow Lane shall be fully closed between 10:00 PM and 6:00 AM.\n\n[b]Section 4.7[/b] No exterior or interior light shall be visible from 412 Harrow Lane after 10:00 PM. Fine: $150 per day.\n\n[b]Section 6.1[/b] Vehicles parked on Harrow Lane overnight must display a current service sticker from an Association-approved vendor. Approved vendor: Coyle Auto Repair & Towing. Non-compliant vehicles will be towed at the owner's expense.\n\n[b]Section 9.3[/b] The Association may accept, on behalf of any owner in default, an offer to purchase from an approved buyer. Approved buyer: Crane Holdings LLC."
+		},
+		{
+			"url": "harrowlanehoa.org/admin",
+			"hidden": true,
+			"style": "plain",
+			"title": "Violation Queue (internal)",
+			"body": "413 Harrow Lane ... 4.7 lighting (red lamp, rear yard) ... fine daily until sale. THE LAMP MUST BE OUT BY THE 31ST ... L.G.\n411 Harrow Lane ... 4.2 window coverings ... new owner, reporter ... begin notices ... L.G.\n409 Harrow Lane ... 6.1 vehicle ... tenant's car towed 10/02 ... L.G.\n407 Harrow Lane ... CLOSED, sold to Crane Holdings 08/2004\n405 Harrow Lane ... CLOSED, sold to Crane Holdings 07/2004\n\nWalter: he keeps paying the fines. Birch Court will have to do it the other way.\n\nWalt: the camera login is STILL the factory default. Please change it before the 31st. -N.D."
+		},
+		{
+			"url": "birchcourtca.org",
+			"style": "hoa",
+			"title": "Birch Court Community Association",
+			"search": [
+				"birch court",
+				"birch court community association",
+				"birch court hoa",
+				"12 birch court"
+			],
+			"body": "Welcome to the online home of the {{Birch Court Community Association|org}}!\n\nPresident: {{Nathaniel Drury|name}}\nManagement: Finch Property Management\nCollections: handled by Strand Title & Escrow\n\n[b]2004 Year in Review[/b]\n  - 7 liens filed for unpaid assessments\n  - 4 properties transferred to new owners\n  - 0 complaints upheld\n\n[b]Reminder:[/b] Assessments not paid within 30 days are subject to lien and, where permitted by law, foreclosure."
+		},
+		{
+			"url": "birchcourtca.org/liens",
+			"hidden": true,
+			"style": "plain",
+			"title": "liens.xls (exported)",
+			"body": "12 Birch Ct ... fines $4,850 ... notice of intent sent ... lien to be filed 10/20 ... served by Dan\n14 Birch Ct ... foreclosed 05/2004 ... deeded to Crane Holdings\n18 Birch Ct ... foreclosed 03/2004 ... deeded to Crane Holdings\n\nNate: same as always. Levi records it, Naomi stamps it."
+		},
+		{
+			"url": "birchcourtca.org/admin",
+			"hidden": true,
+			"style": "plain",
+			"title": "notice_12birch.doc (draft)",
+			"body": "[b]NOTICE OF INTENT TO FILE LIEN[/b]\n\nTo: {{Paul Rennick|name}}, owner of record, 12 Birch Court\nMailing address: 413 Harrow Lane, Millbrook\n\nThe Birch Court Community Association finds the following assessments and fines unpaid:\n\n  Fence stain, non-approved color (Sec. 3.4) ......... $1,200\n  Mailbox, non-approved style (Sec. 3.9) ............. $450\n  Lawn height exceeding 3 inches, 32 days (Sec. 5.1) . $3,200\n\n  TOTAL DUE .......................................... $4,850\n\nIf payment is not received within 30 days, the Association will record a lien and may pursue foreclosure.\n\nService by: Dep. D. Drury (off duty)\n\n[color=#999999]-- he'll pay this one too. doesn't matter. Aldous has the S&L side. N.[/color]"
+		},
+		{
+			"url": "pinehollowestates.com",
+			"style": "hoa",
+			"title": "Pine Hollow Estates",
+			"search": [
+				"pine hollow",
+				"pine hollow estates",
+				"pine hollow poa",
+				"retreat"
+			],
+			"body": "[b]A Quiet Place to Live[/b]\n\nThe {{Pine Hollow Estates POA|org}} (Property Owners Association) manages 40 wooded homesites and the Pine Hollow Lodge, eighteen miles north of Millbrook.\n\nPresident: {{Samuel Pell|name}}\n\nThe Lodge hosts extended retreats and Christian deliverance counseling for families of Evangelicals International. Cell phones do not work at Pine Hollow. We think of that as a blessing.\n\nThe front gate is private property. Visitors must be invited by a resident."
+		},
+		{
+			"url": "pinehollowestates.com/members",
+			"hidden": true,
+			"style": "plain",
+			"title": "Resident Roster (members only)",
+			"body": "[b]PINE HOLLOW ESTATES :: RESIDENT ROSTER :: FALL 2004[/b]\n\nLots 1 to 22 ........ see paper file\nLot 23 .............. S. Pell\nLots 24 to 40 ....... Crane Holdings LLC (retreat housing)\n\n[b]The Lodge[/b]\n  Rooms 1 to 6 ...... weekend families\n  Room 7 ............ open\n  Room 8 ............ M. Tate (since 11/2003)\n  Room 9 ............ R. Pell (since 06/2004)\n  Room 10 ........... D. Kirsch (since 09/2004)\n\nRooms 8 to 10 are the deliverance wing (Sister Joan). No visitors. Letters go through the office. Staff: do not use first names.\n\nGate code changes on the first Sunday of each month. Ask Brother Samuel."
+		},
+		{
+			"url": "bizsearch.sos.gov/crane-holdings",
+			"style": "gov",
+			"title": "Business Entity Detail: CRANE HOLDINGS LLC",
+			"search": [
+				"crane holdings",
+				"crane holdings llc",
+				"business search",
+				"secretary of state"
+			],
+			"body": "Entity Name: {{Crane Holdings LLC|org}}\nEntity Type: Limited Liability Company\nStatus: ACTIVE\nPrincipal Office: 412 Harrow Lane, Millbrook\nManager: {{Elias Crane|name}}\nRegistered Agent: Strand Title & Escrow\n\nReal property held (county records): 61 parcels\nAcquired in 2004: 19 parcels, most through HOA default or foreclosure"
+		},
+		{
+			"url": "bizsearch.sos.gov/mercer-construction",
+			"style": "gov",
+			"title": "Business Entity Detail: MERCER CONSTRUCTION INC",
+			"search": [
+				"mercer",
+				"mercer construction",
+				"construction"
+			],
+			"body": "Entity Name: MERCER CONSTRUCTION INC\nStatus: ACTIVE\nPresident: {{Isaac Mercer|name}}\nSecretary: J. Mercer\n\nCounty contracts, 2003 to 2004: 9 (road repair, sewer, utility)\nLargest client: Crane Holdings LLC"
+		},
+		{
+			"url": "bizsearch.sos.gov/coyle-auto",
+			"style": "gov",
+			"title": "Business Entity Detail: COYLE AUTO REPAIR & TOWING",
+			"search": [
+				"coyle",
+				"coyle auto",
+				"coyle towing",
+				"towing",
+				"auto repair",
+				"tow"
+			],
+			"body": "Entity Name: COYLE AUTO REPAIR & TOWING\nStatus: ACTIVE\nOwner: {{Jeremiah Coyle|name}}\nLicensed tow operators: J. Coyle, A. Coyle\n\nTowing contracts on file: Harrow Lane HOA, Birch Court Community Association, Pine Hollow Estates POA"
+		},
+		{
+			"url": "bizsearch.sos.gov/strand-title",
+			"style": "gov",
+			"title": "Business Entity Detail: STRAND TITLE & ESCROW",
+			"search": [
+				"strand",
+				"strand title",
+				"title company",
+				"escrow",
+				"notary"
+			],
+			"body": "Entity Name: STRAND TITLE & ESCROW\nStatus: ACTIVE\nPresident: {{Levi Strand|name}}\nNotary Public on staff: {{Naomi Strand|name}}\n\nRegistered agent for: Crane Holdings LLC; Birch Court Community Association"
+		},
+		{
+			"url": "bizsearch.sos.gov/ashby-staffing",
+			"style": "gov",
+			"title": "Business Entity Detail: ASHBY STAFFING SERVICES",
+			"search": [
+				"ashby",
+				"ashby staffing",
+				"staffing",
+				"temp agency",
+				"jobs"
+			],
+			"body": "Entity Name: ASHBY STAFFING SERVICES\nStatus: ACTIVE\nPresident: {{Gideon Ashby|name}}\n\nNote: Complaint on file with the state Labor Board (wage assignment), filed 08/2004. Status: withdrawn by complainant, 09/2004."
+		},
+		{
+			"url": "bizsearch.sos.gov/finch-pm",
+			"style": "gov",
+			"title": "Business Entity Detail: FINCH PROPERTY MANAGEMENT",
+			"search": [
+				"finch",
+				"finch property",
+				"finch property management",
+				"property management",
+				"rentals"
+			],
+			"body": "Entity Name: FINCH PROPERTY MANAGEMENT\nStatus: ACTIVE\nPrincipal: {{Harold Finch|name}}\n\nManages: 58 residential units, all owned by Crane Holdings LLC"
+		},
+		{
+			"url": "bizsearch.sos.gov/kettering-insurance",
+			"style": "gov",
+			"title": "Business Entity Detail: KETTERING INSURANCE AGENCY",
+			"search": [
+				"kettering",
+				"kettering insurance",
+				"insurance",
+				"life insurance"
+			],
+			"body": "Entity Name: KETTERING INSURANCE AGENCY\nStatus: ACTIVE\nPrincipal: {{Amos Kettering|name}}\nLicensed agents: Amos Kettering; Hannah Kettering (licensed 07/2004)"
+		},
+		{
+			"url": "bizsearch.sos.gov/vole-cpa",
+			"style": "gov",
+			"title": "Business Entity Detail: VOLE & ASSOCIATES CPA",
+			"search": [
+				"vole",
+				"vole cpa",
+				"vole & associates",
+				"accountant",
+				"cpa"
+			],
+			"body": "Entity Name: VOLE & ASSOCIATES CPA\nStatus: ACTIVE\nPresident: {{Aldous Vole|name}}\nSecretary: M. Vole\n\nClients disclosed in state filing: Crane Holdings LLC; Harrow Lane HOA; Birch Court Community Association; Pine Hollow Estates POA; Millbrook Savings & Loan (audit)"
+		},
+		{
+			"url": "millbrookcounty.gov/recorder/liens",
+			"style": "gov",
+			"title": "Millbrook County Recorder: Lien & Deed Index, 2004",
+			"search": [
+				"lien",
+				"liens",
+				"recorder",
+				"deed",
+				"deeds",
+				"foreclosure",
+				"county recorder"
+			],
+			"body": "Showing 1 to 7 of 31 records\n\n03/14  LIEN     18 Birch Ct     Claimant: Birch Court Community Association   Served: Dep. {{Daniel Drury|name}}\n03/29  DEED     18 Birch Ct     Grantee: Crane Holdings LLC   Notary: N. Strand\n05/02  LIEN     14 Birch Ct     Claimant: Birch Court Community Association   Served: Dep. D. Drury\n05/30  DEED     14 Birch Ct     Grantee: Crane Holdings LLC   Notary: N. Strand\n07/12  DEED     405 Harrow Ln   Grantee: Crane Holdings LLC   Notary: N. Strand\n08/20  DEED     407 Harrow Ln   Grantee: Crane Holdings LLC   Notary: N. Strand\n09/27  ASSIGN   413 Harrow Ln   Mortgage assigned by Millbrook Savings & Loan to Crane Holdings LLC   Notary: N. Strand"
+		},
+		{
+			"url": "millbrookcounty.gov/assessor/harrow-lane",
+			"style": "gov",
+			"title": "Millbrook County Assessor: Parcel Search Results",
+			"search": [
+				"assessor",
+				"parcel",
+				"parcels",
+				"property owner",
+				"property records",
+				"who owns",
+				"harrow lane parcels"
+			],
+			"body": "Search: street = HARROW LN   Results: 11\n\nParcel     Address          Owner of Record                 Last Transfer\n14-0403    403 Harrow Ln    Strand, Levi & Naomi            1994\n14-0404    404 Harrow Ln    Coyle, Jeremiah                 1991\n14-0405    405 Harrow Ln    Crane Holdings LLC              07/2004\n14-0406    406 Harrow Ln    Crane Holdings LLC              2002\n14-0407    407 Harrow Ln    Crane Holdings LLC              08/2004\n14-0408    408 Harrow Ln    Kettering, Amos & Ruth A.       1996\n14-0409    409 Harrow Ln    Rennick, Paul                   1999\n14-0410    410 Harrow Ln    Greaves, Walter & Lydia         1988\n14-0411    411 Harrow Ln    (owner name suppressed on request)    03/2003\n14-0412    412 Harrow Ln    Crane Holdings LLC              1977\n14-0413    [[millbrookcounty.gov/assessor/413-harrow|413 Harrow Ln]]    Rennick, Paul                   1983\n\n[color=#666666]Records current as of 10/01/2004.[/color]"
+		},
+		{
+			"url": "millbrookcounty.gov/planning/minutes",
+			"style": "gov",
+			"title": "Planning Commission Minutes, August 12, 2004",
+			"search": [
+				"planning commission",
+				"minutes",
+				"tunnel",
+				"utility tunnel",
+				"variance"
+			],
+			"body": "Item 4. Variance 04-117, Mercer Construction, for a \"utility connector\" beneath Harrow Lane between 412 Harrow Lane and parcels owned by Crane Holdings LLC.\n\nPublic comment: one resident asked why a church needs a tunnel. The applicant stated it is for \"electrical and fellowship purposes.\"\n\nApproved 4 to 1. See [[millbrookcounty.gov/planning/commissioners|roster]]."
+		},
+		{
+			"url": "millbrookcounty.gov/planning/commissioners",
+			"style": "gov",
+			"title": "Planning Commission: Current Members",
+			"search": [
+				"planning commissioners",
+				"commissioners",
+				"commission members",
+				"planning commission members"
+			],
+			"body": "The Millbrook County Planning Commission consists of five members appointed by the Board of Supervisors.\n\n  {{Lydia Greaves|name}}, Chair ........ term expires 2006\n  Deborah Coyle ........................ term expires 2005\n  Joan Finch ........................... term expires 2007\n  {{Miriam Vole|name}} ................. term expires 2007\n  Alice Brandt ......................... term expires 2005\n\nThe Commission meets the second Thursday of each month. Meetings are open to the public."
+		},
+		{
+			"url": "millbrookcounty.gov/gis/harrow",
+			"style": "gov",
+			"title": "County GIS: Utility Layer, Harrow Ln 400 Block",
+			"search": [
+				"gis",
+				"utility map",
+				"utilities",
+				"harrow lane utilities",
+				"cistern",
+				"underground",
+				"as-built"
+			],
+			"body": "[b]Layer: Utilities, Harrow Ln 400 block[/b]\n\n  Water main, 8 in., cast iron ...... installed 1961\n  Storm drain ....................... installed 1988\n  Electric .......................... overhead, no buried service\n  Gas ............................... none on record\n  Variance 04-117 connector ......... as-built drawings NOT RECEIVED\n                                      final inspection WAIVED (Chair)\n\n[b]Layer: Historic[/b]\n  412 Harrow Ln: site of Harrow Grange Hall (1911 to 1974). Brick cistern beneath hall, dimensions unrecorded. A 1974 survey notes a brick passage running east from the cistern, extent unknown, sealed.\n\n[color=#666666]GIS data is provided for reference only.[/color]"
+		},
+		{
+			"url": "millbrookcounty.gov/police/blotter",
+			"style": "gov",
+			"title": "Millbrook County Sheriff: Blotter, Sept to Oct 2004",
+			"search": [
+				"police",
+				"sheriff",
+				"blotter",
+				"noise complaint",
+				"excavator",
+				"trespass"
+			],
+			"body": "09/12  2:40 AM   Harrow Ln        Noise complaint. Excavator operating behind 412 Harrow Ln. Operator: {{Jonah Mercer|name}}, 19. No action taken.\n09/19  11:15 PM  Birch Ct         Report of men photographing a house. Unfounded.\n09/21  7:40 AM   Birch Ct         Resident reports cat found dead in yard, \"arranged.\" Dep. D. Drury advises occult activity likely. Referred to church Spiritual Warfare hotline.\n09/24  3:30 AM   Harrow Ln        Resident reports a person standing on his lawn. Gone on arrival.\n10/02  3:05 AM   Harrow Ln        Vehicle towed (HOA request). No report taken.\n10/06  4:10 PM   Pine Hollow Rd   Trespass complaint, Pine Hollow Estates POA. Subject: E. Pell, 47. Warning issued. Dep. D. Drury.\n10/09  3:15 AM   Harrow Ln        Resident reports vibration, possible earthquake. No seismic activity recorded."
+		},
+		{
+			"url": "millbrookledger.com/archive/1998-crane",
+			"style": "news",
+			"title": "Local preacher sentenced in charity fraud (June 1998)",
+			"search": [
+				"elias crane",
+				"crane",
+				"fraud",
+				"1998",
+				"food pantry",
+				"hale"
+			],
+			"body": "Elias Crane, 44, pastor of a small Harrow Lane congregation, was sentenced Tuesday to three years for diverting $212,000 in donations from the {{Harrow Lane Food Pantry|org}} into accounts he controlled.\n\nThe pantry's bookkeeper, {{Miriam Hale|name}}, testified against Crane in exchange for immunity. Prosecutors said Hale's handwritten ledgers were the heart of the case.\n\nOutside the courthouse, Crane told reporters: \"The Lord keeps better books than the county.\""
+		},
+		{
+			"url": "millbrookledger.com/archive/2003-towing",
+			"style": "news",
+			"title": "Residents fume over late-night tows (November 2003)",
+			"search": [
+				"towing complaints",
+				"tow",
+				"towed",
+				"coyle",
+				"late night tow"
+			],
+			"body": "Harrow Lane residents say their cars are being towed at 3 and 4 in the morning for missing \"service stickers\" required by their homeowners association.\n\nThe tows are performed by Coyle Auto Repair & Towing. Driver {{Abel Coyle|name}} declined to comment. Fees to recover a vehicle start at $385, cash only."
+		},
+		{
+			"url": "millbrookledger.com/archive/1999-pantry",
+			"style": "news",
+			"title": "Harrow Lane church keeps doors open in pastor's absence (April 1999)",
+			"search": [
+				"harrow lane food pantry",
+				"pantry reopens",
+				"1999",
+				"interim",
+				"acting pastor"
+			],
+			"body": "Ten months after its pastor went to prison, the congregation at 412 Harrow Lane is still meeting every Sunday, and its food pantry reopened last week.\n\n{{Paul Rennick|name}}, 44, a science teacher at Millbrook High School and a member since 1985, has led services since Elias Crane's sentencing. He says the pantry now publishes its books every quarter.\n\n\"Every can is counted,\" Rennick said. \"Every dollar is on paper where anyone can see it.\"\n\nAsked whether Crane would be welcomed back, Rennick said that was a question for the congregation."
+		},
+		{
+			"url": "millbrookledger.com/archive/2001-return",
+			"style": "news",
+			"title": "Crane returns to Harrow Lane pulpit (August 2001)",
+			"search": [
+				"crane released",
+				"crane returns",
+				"2001",
+				"pulpit",
+				"evangelicals international 2001"
+			],
+			"body": "Elias Crane preached Sunday for the first time since his release from state prison, to a crowd that spilled onto Harrow Lane.\n\nThe congregation, now calling itself Evangelicals International, says it has nearly tripled in size since 1998. A new board of directors has been named.\n\nBoard chair Paul Rennick, who led the church during Crane's sentence, said he would stay on the board \"as long as the books stay open.\" Crane did not take questions."
+		},
+		{
+			"url": "millbrookledger.com/archive/2002-weddings",
+			"style": "news",
+			"title": "Weddings & Engagements (May 2002)",
+			"search": [
+				"weddings",
+				"wedding announcement",
+				"engagements",
+				"married",
+				"vole wedding"
+			],
+			"body": "[b]Vole and Hale[/b]\nMiriam Hale and {{Aldous Vole|name}} were married Saturday at Evangelicals International, 412 Harrow Lane. The Rev. Elias Crane officiated.\n\nThe bride is a bookkeeper. The groom is a certified public accountant and president of Vole & Associates. A reception followed at the Pine Hollow Lodge.\n\n[b]Ketchum and Delgado[/b]\nSarah Ketchum and Luis Delgado were married at St. Brendan's. The couple will live in Tacoma."
+		},
+		{
+			"url": "millbrookledger.com/letters/2004-09-hoa",
+			"style": "news",
+			"title": "Letters: Harrow Lane is being bought one fine at a time (September 2004)",
+			"search": [
+				"letter to the editor",
+				"letters",
+				"hoa fines",
+				"harrow lane fines",
+				"red lamp"
+			],
+			"body": "To the editor:\n\nI have lived at 413 Harrow Lane for twenty-one years. This summer my homeowners association began fining me $150 a day for a light. The light is a red observing lamp in my backyard, and it is the dimmest light on the street.\n\nMy tenant's car was towed at three in the morning from in front of her own home. My other house has been cited for a fence, a mailbox and my grass. I have received three offers to buy all of it. They came from the same company, and that company is at the end of my street.\n\nI am paying the fines. I will keep paying them. I know how these men work. I used to sit at their table.\n\nPaul Rennick\nHarrow Lane"
+		},
+		{
+			"url": "archive.webtime.org",
+			"style": "plain",
+			"title": "WebTime Archive :: Search Results",
+			"search": [
+				"archive",
+				"webtime",
+				"wayback",
+				"old version",
+				"cached",
+				"old website",
+				"archived"
+			],
+			"body": "[b]WebTime Archive[/b]  -  browse the web as it was\n\n[b]Captures for evangelicalsintl.org[/b]\n  [[archive.webtime.org/1999/evangelicalsintl.org/about|Apr 02, 1999  /about]]\n  [[archive.webtime.org/2001/evangelicalsintl.org/board|May 17, 2001  /board]]\n  Jun 22, 2004  /board   [color=#999999](matches current)[/color]\n  /forum/   [color=#999999]excluded by site owner (robots.txt)[/color]\n\n[b]Captures for harrowlanepantry.org[/b]\n  [[archive.webtime.org/1997/harrowlanepantry.org|Nov 30, 1997  /]]\n  [color=#999999]Domain expired 1998.[/color]\n\n[b]Captures for home.millnet.com/~prennick[/b]\n  [color=#999999]Not yet archived.[/color]"
+		},
+		{
+			"url": "archive.webtime.org/1997/harrowlanepantry.org",
+			"style": "church",
+			"title": "Harrow Lane Food Pantry",
+			"body": "[center][color=#666666][font_size=12]WebTime Archive :: captured Nov 30, 1997[/font_size][/color][/center]\n\n[center][b]HARROW LANE FOOD PANTRY[/b]\nA ministry of the church at 412 Harrow Lane[/center]\n\nThis Thanksgiving we fed 340 families! Thank you, Millbrook!\n\n[b]Give[/b]\nChecks payable to Harrow Lane Food Pantry, c/o Pastor E. Crane.\n\n[b]Volunteers[/b]\n  Pastor Elias Crane ... Director\n  Miriam Hale .......... Books & Receipts\n  Paul Rennick ......... Saturday Distribution\n  Aldous Vole .......... Annual Audit\n\n[color=#666666]Page last updated 11/28/97. You are visitor #00212.[/color]"
+		},
+		{
+			"url": "archive.webtime.org/1999/evangelicalsintl.org/about",
+			"style": "church",
+			"title": "About Us",
+			"body": "[center][color=#666666][font_size=12]WebTime Archive :: captured Apr 02, 1999[/font_size][/color][/center]\n\nWelcome to the new home page of our church family at 412 Harrow Lane!\n\nWhile Pastor Crane is away, our services are led by Brother {{Paul Rennick|name}}. Please keep our Pastor in your prayers.\n\nOur Food Pantry has REOPENED! Our books are posted every quarter on the bulletin board in the fellowship hall. Anyone may read them.\n\n[b]Coming soon:[/b] a place on this web site for members to talk to one another!"
+		},
+		{
+			"url": "archive.webtime.org/2001/evangelicalsintl.org/board",
+			"style": "church",
+			"title": "Our Board of Directors",
+			"body": "[center][color=#666666][font_size=12]WebTime Archive :: captured May 17, 2001 :: some images not archived[/font_size][/color][/center]\n\nOur new Board of Directors will serve our family as we welcome our Pastor home this summer!\n\n  Paul Rennick ....... Chair\n  Aldous Vole ........ Treasurer\n  Walter Greaves ..... Harrow Lane neighborhood\n  Nathaniel Drury .... Birch Court neighborhood\n  Samuel Pell ........ Pine Hollow\n  Isaac Mercer ....... Buildings & Grounds\n  Jeremiah Coyle ..... Vehicles\n  Levi Strand ........ Property\n\n[color=#999999][image not archived: board_photo.jpg][/color]"
+		},
+		{
+			"url": "home.millnet.com/~prennick",
+			"style": "journal",
+			"title": "Paul's Backyard Observatory",
+			"search": [
+				"rennick",
+				"paul rennick",
+				"prennick",
+				"astronomy",
+				"telescope",
+				"stargazing",
+				"observatory",
+				"backyard observatory"
+			],
+			"body": "[center][b]PAUL'S BACKYARD OBSERVATORY[/b]\nMillbrook, 47 N\n[color=#666666]You are visitor #01877[/color][/center]\n\nWelcome! I'm a retired science teacher and I've been observing from my backyard on Harrow Lane since 1983. My main scope is a 10-inch Dobsonian in a roll-off-roof shed I built in 1994.\n\nI observe with a red lamp so my eyes stay dark-adapted. Most nights I'm out until three or four.\n\n  - [[home.millnet.com/~prennick/log|Observing Log, Fall 2004]]\n  - [[home.millnet.com/~prennick/links|Links]]\n\n[color=#666666]Clear skies![/color]"
+		},
+		{
+			"url": "home.millnet.com/~prennick/log",
+			"style": "journal",
+			"title": "Observing Log, Fall 2004",
+			"body": "[b]09/12[/b]  Seeing 2/5. Excavator running behind 412 again at 2 AM. Called the Sheriff. Nobody came that I saw.\n\n[b]09/24[/b]  Seeing 4/5. M31 beautiful. At 3:10 a man was standing on my lawn about ten feet from the shed. Didn't speak. Didn't move. I went inside and called. By the time Drury's cruiser came up the street he was gone. Drury didn't get out of the car.\n\n[b]09/30[/b]  Clouded out. Fine notice number 61 came today, for the red lamp. Paid it.\n\n[b]10/02[/b]  They towed Rosa's car. Gave her the $385. She asked if she should move. I said that's her choice. She said, whose?\n\n[b]10/08[/b]  Seeing 3/5, but the image kept shaking. Something is coming up through the pier. 3:15 exactly. It isn't traffic. There's no traffic on Harrow at 3:15.\n\n[b]10/11[/b]  The Kettering girl is back in the parked car across the street with a notebook. Couldn't be more than eighteen. She waved. I waved back. I wonder if they tell her what the notebook is for.\n\n[b]10/12[/b]  The young man next door at 411 was up at three again, blue screen in his back window. Turns out he writes for the Ledger. Told him to read my letter. Told him to start with the pantry.\n\n[b]10/13[/b]  Letter from my bank. My mortgage was sold. I know who bought it. I wish Miriam had kept her copy."
+		},
+		{
+			"url": "home.millnet.com/~prennick/links",
+			"style": "journal",
+			"title": "Links",
+			"body": "[b]Astronomy[/b]\n  - [[millbrookastro.org|Millbrook Amateur Astronomers]]\n  - [[clearskyclock.net/millbrook|Clear Sky Clock: Millbrook]]\n  - Sky & Telescope\n\n[b]Other[/b]\n  - [[evangelicalsintl.org|Evangelicals International]]  (I served there from 1985 to 2003. Pray for them.)\n  - [[millbrookhigh.k12.wa.us/alumni|Millbrook High School Alumni]]"
+		},
+		{
+			"url": "millbrooksl.com",
+			"style": "plain",
+			"title": "Millbrook Savings & Loan",
+			"search": [
+				"millbrook savings",
+				"millbrook savings & loan",
+				"savings and loan",
+				"mortgage",
+				"bank",
+				"home loan"
+			],
+			"body": "[center][b]MILLBROOK SAVINGS & LOAN[/b]\nYour Neighbors Since 1962[/center]\n\n[b]Notice to Borrowers[/b]\nEffective October 1, 2004, servicing of certain residential mortgages has been transferred. Affected borrowers have been notified by mail.\n\n[b]Board of Directors[/b]\n  Thomas Greer, Chairman\n  Walter Greaves\n  Robert Linden\n  Aldous Vole, CPA (Audit Committee)\n\n[b]Community Partners[/b]\nWe are proud to support Evangelicals International and Crane Holdings LLC in their work to revitalize Millbrook's neighborhoods.\n\n[color=#666666]Member FDIC. Equal Housing Lender.[/color]"
+		},
+		{
+			"url": "users.journalbox.com/hannah_k",
+			"style": "journal",
+			"title": "~*~ hannah's journal ~*~",
+			"search": [
+				"hannah",
+				"journalbox",
+				"hannah journal",
+				"youngest agent",
+				"licensing exam"
+			],
+			"body": "[b]07/19/2004[/b]  mood: [i]accomplished[/i]  music: Switchfoot\nPASSED MY LICENSING EXAM!!!! dad says im the youngest licensed agent in the county. i get my own desk at the agency and everything!!! {{Hannah Kettering|name}}, licensed agent, lol\n\n[b]08/30/2004[/b]  mood: [i]nervous[/i]\nwrote my first policy today. dad says the beneficiary line always stays the same, dont ask. he says when im older ill get to go downstairs on halloween with the grownups.\n\n[b]10/11/2004[/b]  mood: [i]tired[/i]\nprayer watch shift again. its so boring. we just sit in the car across from 411 and write down when his light goes off. sister lydia says he's probably not a satanist, just a journalist, but write it down anyway. i prayed for him though. he looks lonely in there.\n\n[b]10/12/2004[/b]  mood: [i]excited[/i]\ni get to do the TICKET TABLE at judgement house this year!!! dad says i can stay upstairs the whole night on the 31st. i asked if i could be in the ritual room instead because the robes are cool and he got really quiet and said no.\n\n[b]10/13/2004[/b]  mood: [i]weird[/i]\ndad took me up to pine hollow to drop off paperwork. i saw ruth pell through the lodge window. we were in youth group together for like 4 years. i waved and she looked right at me and didnt know who i was. dad said dont wave at the ones in deliverance, it confuses them.\n\nalso the old man at 413 waved at me on monday. i didnt write that in the notebook."
+		},
+		{
+			"url": "users.journalbox.com/jonah_m",
+			"style": "journal",
+			"title": "jonah's journal :: underground",
+			"search": [
+				"jonah",
+				"jonah mercer",
+				"jonah journal",
+				"digging",
+				"excavator operator",
+				"brick"
+			],
+			"body": "[b]08/13/2004[/b]  mood: [i]pumped[/i]  music: P.O.D.\ndad got the variance!! we start at the church sunday night. night work. pays double except it doesnt pay, its tithe. whatever. i get to run the big machine.\n\n[b]09/12/2004[/b]  mood: [i]annoyed[/i]\ncops came at like 2:40. deputy just waved and drove off. dad says the county cant see underground.\n\n[b]09/26/2004[/b]  mood: [i]confused[/i]\nhit brick. OLD brick, curved like a pipe but big enough to walk in. dad came down and looked at it for a long time and then sent me home. theres crosses scratched in the brick. upside down ones. old. really old.\n\n[b]10/09/2004[/b]  mood: [i]creeped out[/i]\nwere under the street now. theres a hum at 3:15 every night. last night something was walking on the road right above us, back and forth. dad says its the man at 411, he doesnt sleep.\n\n[b]10/12/2004[/b]  mood: [i]...[/i]\npastor came down tonight. first time. he put both hands flat on the brick and said we are not building anything, we are only uncovering it. then he asked how far to 411. i said forty feet. he said good."
+		},
+		{
+			"url": "home.millnet.com/~epell/ruth",
+			"style": "plain",
+			"title": "HAVE YOU SEEN RUTH?",
+			"search": [
+				"have you seen ruth",
+				"missing",
+				"ruth pell",
+				"esther pell",
+				"find ruth"
+			],
+			"body": "[center][b][color=#990000]HAVE YOU SEEN RUTH?[/color][/b][/center]\n\n{{Ruth Pell|name}}, 19. Brown hair, brown eyes, 5'4\". Small scar on her left thumb from a canning jar.\n\nRuth moved to Pine Hollow Estates, north of Millbrook, in June 2004. She has not called, written or e-mailed since. Her friends have not heard from her.\n\nThe Sheriff says Ruth is an adult and may live wherever she chooses. I understand that. I only want to hear her voice.\n\nIf you work at the Pine Hollow Lodge, or deliver there, or have seen her, please write to me. You do not have to give your name.\n\n[b]Update 10/07:[/b] I drove to the gate on Wednesday. I was given a trespass warning. The deputy who wrote it has eaten at my table.\n\n-- Esther Pell, epell@millnet.com"
+		},
+		{
+			"url": "millbrooktalk.net/viewtopic-4471",
+			"style": "forum",
+			"title": "MillbrookTalk :: anyone else's family join that church on Harrow?",
+			"search": [
+				"millbrooktalk",
+				"pine hollow",
+				"ruth",
+				"missing daughter",
+				"esther pell",
+				"pell"
+			],
+			"body": "[b]wrenfield_mom[/b]  Posted: Tue Sep 14, 2004 11:02 pm\nI'm {{Esther Pell|name}}. I left that church in 2001. My ex-husband {{Samuel Pell|name}} stayed, and now he runs the association out at Pine Hollow. Our daughter {{Ruth Pell|name}} moved into one of their houses up there in June. She hasn't called since. When I drove up, they wouldn't open the gate.\n\n[b]nightshift_dave[/b]  Posted: Wed Sep 15, 2004 2:17 am\nsorry man. same thing with a guy from my work. he took a job through their staffing place and just stopped showing up anywhere.\n\n[b]Moderator[/b]\nThread locked."
+		},
+		{
+			"url": "millbrooktalk.net/viewtopic-5120",
+			"style": "forum",
+			"title": "MillbrookTalk :: got towed off Harrow Ln at 3am AGAIN",
+			"search": [
+				"got towed",
+				"harrow lane tow",
+				"abel",
+				"service sticker"
+			],
+			"body": "[b]rosa_a[/b]  Posted: Sat Oct 02, 2004 9:40 am\nMy car was parked in front of MY OWN RENTAL on Harrow. Towed at 3 in the morning for no \"service sticker.\" The tow guy was Abel from Coyle's. He said the HOA called it in. $385 cash to get it back.\n\n[b]tacoma_steve[/b]\nthe HOA and the tow company and the church are all the same people. look it up.\n\n[b]rosa_a[/b]\nMy landlord keeps telling them no. I think this is about him."
+		},
+		{
+			"url": "millbrooktalk.net/viewtopic-5203",
+			"style": "forum",
+			"title": "MillbrookTalk :: looking for people to interview (student documentary)",
+			"search": [
+				"documentary",
+				"owen hart",
+				"interview",
+				"student film",
+				"on camera"
+			],
+			"body": "[b]reelowen[/b]  Posted: Thu Oct 07, 2004 4:12 pm\nHi all. I'm {{Owen Hart|name}}, film student at MCC. I'm making a short doc about the neighborhood associations around Harrow Lane and Birch Court. Looking for anyone who's been fined, towed, liened, or had family go up to Pine Hollow. Anonymous is fine. I can blur faces.\n\n[b]rosa_a[/b]  Posted: Thu Oct 07, 2004 6:40 pm\nI'll talk. Don't use my name.\n\n[b]nightshift_dave[/b]  Posted: Fri Oct 08, 2004 2:02 am\nmy buddy dale would have talked to you. nobody can find him now\n\n[b]a_friend[/b]  Posted: Sat Oct 09, 2004 3:15 am\nStart with the pantry. 1997. Ask who kept the books, and whether she kept a copy.\n\n[b]Moderator[/b]\nThread locked."
+		},
+		{
+			"url": "millbrookgripes.com/ashby-staffing",
+			"style": "gripes",
+			"title": "MillbrookGripes :: Ashby Staffing Services",
+			"search": [
+				"ashby complaint",
+				"staffing complaint",
+				"gripes",
+				"paycheck",
+				"wages"
+			],
+			"body": "[b]Rating: 1/5[/b]\n\"Their recruiter, a college kid named {{Thomas Ashby|name}}, signed my brother up at the community college job fair. My brother works full time at a warehouse through them and signed a 'wage assignment' that sends his whole check to a 'program.' He lives in a rental they picked. He says he's happy. He doesn't sound happy.\"\n\nRecruiting events: {{Millbrook Community College|org}}, every Thursday."
+		},
+		{
+			"url": "millbrookgripes.com/finch-property",
+			"style": "gripes",
+			"title": "MillbrookGripes :: Finch Property Management",
+			"search": [
+				"finch complaint",
+				"landlord complaint",
+				"rent collection",
+				"joan finch"
+			],
+			"body": "[b]Rating: 1/5[/b]  Posted by: anonymous tenant\n\"Rent is collected IN PERSON by {{Joan Finch|name}}, the owner's wife, on the first Sunday after church. She walks through the whole house while she's there. Opens the fridge. Asks who's been visiting. If you miss church, the rent goes up.\"\n\n[b]Rating: 5/5[/b]  Posted by: hfinch_pm\n\"Wonderful Christian landlords!!\""
+		},
+		{
+			"url": "millbrookgripes.com/kettering-insurance",
+			"style": "gripes",
+			"title": "MillbrookGripes :: Kettering Insurance Agency",
+			"search": [
+				"kettering complaint",
+				"insurance complaint",
+				"beneficiary",
+				"life insurance church"
+			],
+			"body": "[b]Rating: 1/5[/b]\n\"After my father joined that church, Kettering sold him a $250,000 life policy. The beneficiary is Evangelicals International. Not his kids. When I called, a teenage girl answered and said she was the agent who wrote it.\"\n\nOther lenders mentioned in reviews: {{Millbrook Savings & Loan|org}}"
+		},
+		{
+			"url": "mcc.edu/clubs",
+			"style": "plain",
+			"title": "Millbrook Community College: Student Clubs",
+			"search": [
+				"millbrook community college",
+				"college",
+				"mcc",
+				"clubs",
+				"harvest fellowship"
+			],
+			"body": "[b]Harvest Fellowship[/b]\nPresident: Thomas Ashby\nFaculty sponsor: none listed\nMeets Thursdays, Library Room 2B. \"Find work. Find family.\"\n\n[b]Chess Club[/b]\nPresident: Priya Nandakumar\n\n[b][[mcc.edu/clubs/film|Film Society]][/b]\nPresident: {{Owen Hart|name}}"
+		},
+		{
+			"url": "mcc.edu/clubs/film",
+			"style": "plain",
+			"title": "MCC Film Society: Fall 2004 Screenings",
+			"search": [
+				"film society",
+				"mcc film",
+				"screenings",
+				"harrow documentary"
+			],
+			"body": "[b]MCC Film Society :: Fall 2004[/b]\nFridays, 7 PM, Lecture Hall B. Free popcorn!\n\n  Sep 17 ... The Conversation (1974)\n  Oct 01 ... Chinatown (1974)\n  Oct 22 ... HARROW (student documentary, dir. Owen Hart, 22 min.)\n             [color=#990000]CANCELLED at the request of the Office of Student Activities.[/color]\n  Nov 05 ... Night of the Hunter (1955)\n\n[color=#666666]Questions? Ask Owen in the media lab.[/color]"
+		},
+		{
+			"url": "millbrookcounty.gov/assessor/413-harrow",
+			"style": "gov",
+			"title": "Parcel Detail: 14-0413",
+			"search": [
+				"413 harrow",
+				"parcel 14-0413",
+				"413 harrow lane",
+				"rennick property"
+			],
+			"body": "Parcel: 14-0413\nSitus: 413 Harrow Ln\nOwner of Record: {{Paul Rennick|name}}\nAcquired: 1983\nLand Use: Single-family residential\nImprovements: House (1952); detached shed with roll-off roof (permitted 1994)\n\nAssessed Value: $184,300\nProperty Tax Status: CURRENT\n\nOpen Items:\n  - Mortgage of record, Millbrook Savings & Loan (1998)\n  - Assignment of mortgage, 09/27/2004, to Crane Holdings LLC\n  - HOA fines, Harrow Lane HOA: paid under protest (14 payments)\n\nOther parcels, same owner: 14-0409 (409 Harrow Ln); 22-0012 (12 Birch Ct)"
+		},
+		{
+			"url": "bizsearch.sos.gov",
+			"style": "gov",
+			"title": "Secretary of State: Business Entity Search",
+			"search": [
+				"secretary of state",
+				"business search",
+				"business entity",
+				"corporation search",
+				"llc search",
+				"sos"
+			],
+			"body": "Search for corporations, limited liability companies and partnerships registered with the Secretary of State.\n\n[b]Browse: Millbrook County, recently filed or amended[/b]\n  [[bizsearch.sos.gov/ashby-staffing|ASHBY STAFFING SERVICES]] ... ACTIVE\n  [[bizsearch.sos.gov/coyle-auto|COYLE AUTO REPAIR & TOWING]] ... ACTIVE\n  [[bizsearch.sos.gov/crane-holdings|CRANE HOLDINGS LLC]] ... ACTIVE\n  [[bizsearch.sos.gov/finch-pm|FINCH PROPERTY MANAGEMENT]] ... ACTIVE\n  HARROW LANE FOOD PANTRY ... DISSOLVED 06/1998\n  [[bizsearch.sos.gov/kettering-insurance|KETTERING INSURANCE AGENCY]] ... ACTIVE\n  [[bizsearch.sos.gov/mercer-construction|MERCER CONSTRUCTION INC]] ... ACTIVE\n  MILLBROOK SAVINGS & LOAN ... ACTIVE\n  [[bizsearch.sos.gov/strand-title|STRAND TITLE & ESCROW]] ... ACTIVE\n  [[bizsearch.sos.gov/vole-cpa|VOLE & ASSOCIATES CPA]] ... ACTIVE\n\n[color=#666666]Records are updated nightly. Filing fees are non-refundable. This site requires Netscape 4.7 or Internet Explorer 5.0.[/color]"
+		},
+		{
+			"url": "home.millnet.com",
+			"style": "plain",
+			"title": "MillNet: Millbrook's Hometown Internet!",
+			"search": [
+				"millnet",
+				"millnet home pages",
+				"member home pages",
+				"dial-up",
+				"internet provider"
+			],
+			"body": "[center][b][color=#003399]MillNet[/color][/b]\nUnlimited dial-up, just $19.95 a month! Local numbers in Millbrook, Tacoma and Olympia.[/center]\n\n[b]Member Home Pages[/b]\nEvery MillNet account comes with 5 MB of free web space! Here are some of our members' pages:\n  - [[home.millnet.com/~prennick|Paul's Backyard Observatory]]\n  - [[home.millnet.com/~epell|Esther's Page]]\n  - [[home.millnet.com/~bgunderson|Barb's Quilt Corner]]\n  - [[home.millnet.com/~wgreaves|Walt's Harrow & Western Railroad]]\n  - [[home.millnet.com/~jfinch|Joan's Blessed Little Ones]]\n  - [[home.millnet.com/~y2kron|Ron's Y2K Readiness HQ]]\n  - [[home.millnet.com/~tsteve|Steve's Tacoma Truck Page]] [color=#990000]UNDER CONSTRUCTION[/color]\n\n[b]Service Notice[/b]\nSome customers on Harrow Lane have reported line noise between 3:00 and 3:30 AM. Our technicians have found no fault on our end. See our [[home.millnet.com/support|Tech Support FAQ]].\n\n[color=#666666]MillNet is a Millbrook-owned company. Call 555-0144 for tech support.[/color]"
+		},
+		{
+			"url": "home.millnet.com/~epell",
+			"style": "plain",
+			"title": "Esther's Page",
+			"search": [
+				"esther",
+				"epell",
+				"esther's page"
+			],
+			"body": "Hello and welcome to my little corner of the web.\n\nI used to put my canning recipes here. I'll put them back some day.\n\n  - [[home.millnet.com/~epell/ruth|HAVE YOU SEEN MY DAUGHTER RUTH?]]\n\nIf you know anything, anything at all, please write to me at epell@millnet.com.\n\n[color=#666666]Last updated 10/07/2004[/color]"
+		},
+		{
+			"url": "mcc.edu",
+			"style": "plain",
+			"title": "Millbrook Community College",
+			"search": [
+				"mcc",
+				"community college",
+				"millbrook college",
+				"job fair"
+			],
+			"body": "[center][b]MILLBROOK COMMUNITY COLLEGE[/b]\n[i]Opportunity Starts Here[/i][/center]\n\n[b]Fall 2004 News[/b]\n  - Registration for Winter Quarter opens November 1.\n  - The library will close early on Friday for carpet cleaning.\n  - [b]Thursday Job Fair[/b], Library Room 2B, every week, hosted by our community partner Ashby Staffing Services. Free lunch for students who sign up!\n\n[b]Student Life[/b]\n  - [[mcc.edu/clubs|Student Clubs]]\n  - [[mcc.edu/clubs/film|Film Society Screenings]]\n\n[color=#666666]Office of Student Activities: 555-0190[/color]"
+		},
+		{
+			"url": "millbrookcounty.gov",
+			"style": "gov",
+			"title": "Millbrook County: Official Web Site",
+			"search": [
+				"millbrook county",
+				"county government",
+				"county website",
+				"county departments"
+			],
+			"body": "Welcome to the official web site of Millbrook County.\n\n[b]Departments[/b]\n  - County Recorder: [[millbrookcounty.gov/recorder/liens|Lien & Deed Index]]\n  - County Assessor: [[millbrookcounty.gov/assessor/harrow-lane|Parcel Search]]\n  - Planning: [[millbrookcounty.gov/planning/minutes|Commission Minutes]] | [[millbrookcounty.gov/planning/commissioners|Commissioners]]\n  - GIS: [[millbrookcounty.gov/gis/harrow|Utility Maps]]\n  - Sheriff: [[millbrookcounty.gov/police/blotter|Monthly Blotter]]\n\n[b]County News[/b]\n  - The Board of Supervisors thanks Crane Holdings LLC for its generous donation toward the new Harrow Lane Sheriff's substation.\n  - Leaf pickup begins November 8.\n  - Property tax statements will be mailed October 25.\n\n[color=#666666]Millbrook County is an Equal Opportunity Employer.[/color]"
+		},
+		{
+			"url": "millbrookgripes.com",
+			"style": "gripes",
+			"title": "Top Gripes This Week",
+			"search": [
+				"millbrookgripes",
+				"complaints",
+				"reviews",
+				"consumer complaints",
+				"gripes"
+			],
+			"body": "Got a complaint about a Millbrook business? Tell it like it is! All reviews are anonymous.\n\n[b]Most Griped About This Week[/b]\n  1. [[millbrookgripes.com/ashby-staffing|Ashby Staffing Services]] ... 1.2 / 5 (14 gripes)\n  2. [[millbrookgripes.com/finch-property|Finch Property Management]] ... 1.5 / 5 (9 gripes)\n  3. [[millbrookgripes.com/millbrook-cable|Millbrook Cable]] ... 1.8 / 5 (37 gripes)\n  4. [[millbrookgripes.com/kettering-insurance|Kettering Insurance Agency]] ... 2.0 / 5 (4 gripes)\n  5. [[millbrookgripes.com/dees-diner|Dee's Diner]] ... 3.9 / 5 (\"coffee's fine, service is slow\")\n\n[color=#999999]Note: several reviews of Coyle Auto Repair & Towing were removed this month at the business owner's request.[/color]"
+		},
+		{
+			"url": "millbrookledger.com",
+			"style": "news",
+			"title": "Front Page: Friday, October 15, 2004",
+			"search": [
+				"millbrook ledger",
+				"ledger",
+				"newspaper",
+				"local news",
+				"the ledger"
+			],
+			"body": "[b]School board delays vote on bus routes[/b]\nThe Millbrook School Board postponed a decision on consolidating bus routes until November.\n\n[b]Harvest Festival draws record crowd[/b]\nMore than 3,000 people came to the fairgrounds for pie, hayrides and the pumpkin weigh-off. [[millbrookledger.com/harvest-2004|Full results]]\n\n[b]Harrow Lane utility work approved[/b]\nThe Planning Commission approved a utility connector beneath Harrow Lane. Commission Chair Lydia Greaves called it \"routine infrastructure.\"\n\n[b]From the Archive[/b]\n  - [[millbrookledger.com/archive/1986-daycare|1986: Harrow Lane daycare closed amid 'ritual' claims]]\n  - [[millbrookledger.com/archive/1988-lindqvist|1988: Charges dropped against daycare owner]]\n  - [[millbrookledger.com/archive/1991-apology|1991: An apology to Carol Lindqvist]]\n  - [[millbrookledger.com/archive/1998-crane|1998: Local preacher sentenced in charity fraud]]\n  - [[millbrookledger.com/archive/1999-pantry|1999: Church keeps doors open in pastor's absence]]\n  - [[millbrookledger.com/archive/2001-return|2001: Crane returns to Harrow Lane pulpit]]\n  - [[millbrookledger.com/archive/2002-weddings|2002: Weddings & Engagements]]\n  - [[millbrookledger.com/archive/2003-towing|2003: Residents fume over late-night tows]]\n\n[b]Inside[/b]\n  - [[millbrookledger.com/obituaries|Obituaries]]\n  - [[millbrookledger.com/classifieds|Classifieds]]\n\n[b]Letters to the Editor[/b]\n  - [[millbrookledger.com/letters/2004-09-hoa|Harrow Lane is being bought one fine at a time]]\n\n[color=#666666]Editor: Dana Ruiz. Have a news tip? Call 555-0111.[/color]"
+		},
+		{
+			"url": "millbrooktalk.net",
+			"style": "forum",
+			"title": "MillbrookTalk.net :: Forum Index",
+			"search": [
+				"millbrooktalk",
+				"millbrook forum",
+				"local forum",
+				"message board"
+			],
+			"body": "[b]Local Chat[/b]  (Moderator: admin)\n\n  [[millbrooktalk.net/viewtopic-5203|looking for people to interview (student documentary)]] ... reelowen ... [color=#cc0000]Locked[/color]\n  [[millbrooktalk.net/viewtopic-5120|got towed off Harrow Ln at 3am AGAIN]] ... rosa_a ... 2 replies\n  [[millbrooktalk.net/viewtopic-3988|Best pizza in town??]] ... tacoma_steve ... 41 replies\n  [[millbrooktalk.net/viewtopic-4471|anyone else's family join that church on Harrow?]] ... wrenfield_mom ... [color=#cc0000]Locked[/color]\n  [[millbrooktalk.net/viewtopic-5077|Lost dog, black lab, Birch Ct area]] ... barb_t ... 3 replies\n  [[millbrooktalk.net/viewtopic-4630|Anyone else hear a hum at night on Harrow?]] ... nightshift_dave ... [color=#cc0000]Locked[/color]\n\n[color=#555555]Who is online: 12 users, 3 guests. Most users ever online was 57.[/color]"
+		},
+		{
+			"url": "users.journalbox.com",
+			"style": "journal",
+			"title": "JournalBox: your life, online!",
+			"search": [
+				"journalbox",
+				"online journal",
+				"blogs",
+				"journals"
+			],
+			"body": "[center]Free online journals! Moods, music, friends-only posts and more.[/center]\n\n[b]Recently updated journals near Millbrook:[/b]\n  - [[users.journalbox.com/hannah_k|~*~ hannah's journal ~*~]] (mood: tired)\n  - [[users.journalbox.com/jonah_m|jonah's journal :: underground]] (mood: ...)\n  - [[users.journalbox.com/xXskaterboi91Xx|xXskaterboi91Xx]] (mood: bored)\n  - [[users.journalbox.com/mcc_emo_kid|mcc_emo_kid]] (mood: listening to Dashboard again)\n\n[center][color=#ff77cc]Get your own JournalBox today![/color][/center]"
+		},
+		{
+			"url": "home.millnet.com/~bgunderson",
+			"style": "plain",
+			"title": "Barb's Quilt Corner",
+			"search": [
+				"quilt",
+				"quilting",
+				"barb",
+				"barb gunderson",
+				"sewing",
+				"crafts",
+				"raffle quilt"
+			],
+			"body": "[center][b]~ Barb's Quilt Corner ~[/b]\n[color=#cc6699]\"Blessed are the piecemakers!\"[/color]\n[font_size=12]Made with Microsoft FrontPage Express[/font_size][/center]\n\nHi! I'm Barbara T. Gunderson (Barb!) and I've been quilting for 31 years. My granddaughter set up this page for me so bear with me!!\n\n[b]Current Project[/b]\nA raffle quilt for the Fall Potluck at the church on Harrow Lane. The ladies gave me the pattern: a big five-pointed star, point DOWN, with a little candle at each point and each place the lines cross. Ten candles. Eight in gold thread and two left blank. I said Lydia, isn't that star upside down? Isn't that one of the signs from Deputy Drury's seminar? She laughed and said I'd understand later. Well OK! It's their raffle.\n\n[b]Finished This Year[/b]\n  - Log Cabin baby quilt for my great-nephew\n  - Double Wedding Ring (took me 2 YEARS, never again!!)\n  - Moose's dog bed, flannel (he prefers the couch)\n\n[b]Tip of the Month[/b]\nAlways prewash your cottons!!! Especially the reds. Red bleeds into everything.\n\n[b]My Links[/b]\n  - [[users.journalbox.com/hannah_k|My granddaughter Hannah's journal thing]] (she is a licensed insurance agent now!!)\n  - [[millbrooktalk.net/viewtopic-5077|MY DOG MOOSE IS LOST]] [color=#009900](FOUND!! Praise God)[/color]\n  - Keepsake Quilting\n\n[center][color=#666666]You are visitor #000219. Please sign my guestbook! It is not working right now.[/color][/center]"
+		},
+		{
+			"url": "home.millnet.com/~tsteve",
+			"style": "plain",
+			"title": "Steve's Tacoma Truck Page",
+			"search": [
+				"tacoma",
+				"truck",
+				"steve",
+				"tacoma steve",
+				"tsteve",
+				"lift kit",
+				"hamster dance",
+				"hampster dance"
+			],
+			"body": "[center][color=#990000][b]!!! UNDER CONSTRUCTION !!![/b][/color]\n[color=#999999][image: construction_guy.gif][/color]\n\n[b]STEVE'S TACOMA TRUCK PAGE[/b]\n1998 Toyota Tacoma SR5 4x4 * \"The Beast\"[/center]\n\n[b]Mods[/b]\n  - 3\" lift (did it myself in Rosa's driveway)\n  - 31\" BFGoodrich All-Terrains\n  - Flame decals (hood + doors), $40 at the swap meet\n  - Alpine deck w/ 10\" sub. Rattles the mirror on \"Let's Get It Started.\"\n  - [color=#999999]Coming soon: KC lights, if the HOA doesn't fine me for them lol[/color]\n\n[b]THE TOW STORY (READ THIS)[/b]\nParked on Harrow in front of my girlfriend's place. 3 AM, gone. Coyle's had it. $385 CASH. Next day I went and bought their \"service sticker\" so it won't happen again. $60. Abel didn't even open the hood. He just slapped it on the windshield. I asked what the service was. He said \"The service is you don't get towed.\" Then he said I was \"on the list now\" and laughed. What list??\n\n[b]Fun Stuff[/b]\n  - [color=#0000ff][u]CLICK HERE FOR THE HAMSTER DANCE!!![/u][/color]\n  - My [[millbrooktalk.net/viewtopic-3988|pizza rankings]] (Luigi's is #1, I will fight you)\n  - Pics of the Beast [color=#999999](scanner broken)[/color]\n\n[center][color=#666666]Truck pics coming soon!! Best viewed with your eyes.\nYou are visitor #00057[/color][/center]"
+		},
+		{
+			"url": "home.millnet.com/~wgreaves",
+			"style": "plain",
+			"title": "Walt's Harrow & Western Railroad (HO Scale)",
+			"search": [
+				"model train",
+				"model trains",
+				"model railroad",
+				"ho scale",
+				"trains",
+				"railroad",
+				"walt",
+				"wgreaves"
+			],
+			"body": "[center][b]WALT'S HARROW & WESTERN RAILROAD[/b]\nHO Scale * Est. 1988 * Proud member of the NMRA\n[color=#990000]NEW PICS ADDED 10/03![/color] [color=#999999](pics not loading? try hitting Refresh)[/color][/center]\n\nWelcome fellow railfans! My layout is a 1:87 recreation of Millbrook as it looked in 1961, right down to the old Grange Hall on Harrow Lane with its brick chimney.\n\n[b]Recent Work[/b]\n  - Weathered the grain elevator. Chalk pastels work great!\n  - Built a tunnel portal under Harrow Lane, running from the Grange Hall across to the odd-numbered side. Pastor suggested it at fellowship and I have to say it really completes the street. There was never a railroad under Harrow, of course. Artistic license!\n  - Lydia wants a little man at a desk in the window of 411, with the light on. She says it's more realistic. Ha ha!\n  - Painted the back yard of 413 dark. Didn't like how it looked lit.\n\n[b]Roster[/b]\n  - Athearn SD9, Harrow & Western #412\n  - 2 Bachmann cabooses (1 needs a coupler)\n  - 10 brass lanterns for the station platform, 1/87 scale. 8 installed.\n  - Gary's old Lionel set, which I will get to someday. Miss you Dad.\n\n[b]For Sale/Trade[/b]\nAthearn blue box boxcars, $5 ea. E-mail me. Cash or money order.\n\n[color=#666666]Lydia says the layout is taking over the basement. She's right!\nYou are visitor #000388[/color]"
+		},
+		{
+			"url": "home.millnet.com/~jfinch",
+			"style": "plain",
+			"title": "Joan's Blessed Little Ones",
+			"search": [
+				"figurines",
+				"figurine",
+				"collectibles",
+				"blessed little ones",
+				"lamplighters",
+				"collection",
+				"porcelain",
+				"joan"
+			],
+			"body": "[center][color=#cc6699][b]~*~ Joan's Blessed Little Ones ~*~[/b][/color]\nA collection of porcelain figurines & other treasures\n[i]\"Every one has a place on the shelf.\"[/i][/center]\n\nWelcome! I started collecting Blessed Little Ones in 1986 when Harold gave me \"Love Is Patient\" for our 10th anniversary. Now I have 214!\n\n[b]My Favorites[/b]\n  - \"Love Is Patient\" (1986) ... the one that started it all\n  - \"A Tidy Home Is a Godly Home\" (1991) ... a little girl with a broom\n  - \"I'm Watching Over You\" (1999) ... a boy looking out a window. RETIRED, very rare!\n\n[b]The Lamplighters Series (1998)[/b]\nTen little children, each holding a tiny lantern. I have eight! Still searching for #9 and #10. Harold says I'll have the whole set by Halloween. He is so sweet.\n\n[b]My Ministry[/b]\nWhen I'm not dusting my little ones, I serve in the church's children's ministry and, since this summer, in memory work up at Pine Hollow. Some of our young people carry hurts they don't even know about until someone patient helps them remember. I have been doing this since 1986!\n\n[b]Rent Sunday Scrapbook[/b]\n[color=#999999]Pictures removed. Harold says no more photos of the insides of the rentals on the Internet, even for the church family scrapbook. Sorry ladies!![/color]\n\n[b]WANTED[/b]\nLamplighters #9 and #10. Will pay well. Please e-mail, do not call the office.\n\n[center][color=#666666]This site is a member of the [[christianwebring.org|Christian Web Ring]]\nYou are visitor #000094[/color][/center]"
+		},
+		{
+			"url": "home.millnet.com/~y2kron",
+			"style": "plain",
+			"title": "Ron's Y2K Readiness Headquarters",
+			"search": [
+				"y2k",
+				"bunker",
+				"preparedness",
+				"survival",
+				"generator",
+				"prohibition",
+				"bootleg",
+				"ron"
+			],
+			"body": "[center][b][color=#006600]RON'S Y2K READINESS HEADQUARTERS[/color][/b]\n[color=#990000][b]DAYS UNTIL Y2K: -1749[/b][/color]\n[font_size=12](counter may need adjusting)[/font_size][/center]\n\n[b]UPDATE 2004:[/b] OK. It didn't happen. I was wrong about the date. I was NOT wrong about being ready. Anybody who laughed at me can laugh again when the grid goes down for real.\n\n[b]FOR SALE (see my auctions on BidHaus)[/b]\n  - 400 lbs hard red winter wheat, sealed buckets\n  - Hand-crank grain mill (used once)\n  - Generator, 5500W, never run\n  - 212 cans of Dinty Moore, exp. 2003 to 2006\n  - [[bidhaus.com/item-2208131|Antique brass lantern, red glass, from Grandpa's Grange things]] [color=#990000]SOLD![/color]\n\n[b]About the Bunker[/b]\nI dug it in 1998 under the garage. 10x12, poured walls. People ask why I didn't just use the old Grange tunnels. Because they're full of water and Grandpa said never go in them, that's why.\n\nFor the record, the old timers say the Grange boys ran bootleg under Harrow Lane during Prohibition. Grandpa said that was a story they told so nobody would ask the real question. He never said what the real question was.\n\nFor real Millbrook history see [[members.webhaven.com/millbrookhistory|Great-Uncle Clarence's page]]. RIP Clarence.\n\n[center][color=#666666]Member of the [[christianwebring.org|Christian Web Ring]]\nThis page is Y2K compliant (obviously)[/color][/center]"
+		},
+		{
+			"url": "home.millnet.com/~harmonic",
+			"style": "plain",
+			"title": "THE 3:15 TRUTH",
+			"search": [
+				"3:15",
+				"315",
+				"the hum",
+				"hum",
+				"harmonic",
+				"truth",
+				"humming",
+				"fluoride",
+				"conspiracy",
+				"backmasking",
+				"backwards",
+				"devil's hour",
+				"3 am"
+			],
+			"body": "[center][color=#ff0000][b]THE 3:15 HUM IS REAL[/b][/color]\n[color=#0000ff][b]YOU HAVE BEEN EDUCATED STUPID TO NOT HEAR IT[/b][/color][/center]\n\nEVERYBODY IN THIS TOWN IS WORRIED ABOUT SATANISTS. THE CHURCH ON HARROW SELLS YOU A TAPE ABOUT HEAVY METAL PLAYED BACKWARDS. I PLAYED THEIR TAPE BACKWARDS. [color=#ff0000]YOU WILL NOT LIKE WHAT IT SAYS.[/color]\n\n[color=#009900]10 POINTS ON A STAR. 8 ARE LIT. 2 ARE LEFT. COUNT THE HOUSES. COUNT THEM.[/color]\n\nCELL PHONE TOWERS AMPLIFY THE HUM. THAT IS WHY CELL PHONES DO NOT WORK AT PINE HOLLOW. THEY DO NOT WANT IT AMPLIFIED. THEY WANT IT QUIET. ASK YOURSELF WHY.\n\n[b]FACTS THEY CANNOT EXPLAIN:[/b]\n  - THE HUM IS LOUDEST ON THE 400 BLOCK OF HARROW. I HAVE MEASURED IT WITH A WINE GLASS.\n  - THE HUM MOVES. AUGUST: UNDER 412. OCTOBER: UNDER THE STREET. IT IS WALKING TOWARD 411.\n  - 3 AM IS THE DEVIL'S HOUR. IT TAKES HIM FIFTEEN MINUTES TO CLIMB UP.\n  - DOGS KNOW. ASK ANY DOG ON BIRCH COURT.\n  - THE SATANISTS THEY WARN YOU ABOUT ARE ALWAYS SOMEBODY ELSE. ASK WHO BOUGHT THE DAYCARE.\n  - PUT YOUR HAND ON YOUR TELESCOPE PIER AT 3:15. (IF YOU HAVE ONE. SOME OF US DO.)\n  - BRICK REMEMBERS.\n\n[color=#ff00ff]THE GRANGE KNEW. THE GRANGE SEALED IT. SOMEBODY UNSEALED IT.[/color]\n\n[color=#0000ff]LINKS THE GOVERNMENT DOES NOT WANT YOU TO CLICK:[/color]\n  - [[home.millnet.com/~0315|THEY KEEP A CALENDAR]]\n  - [[members.webhaven.com/millbrookhistory|THE GRANGE (READ BETWEEN THE LINES)]]\n  - [[millbrookledger.com/archive/1988-lindqvist|WHO BOUGHT 405 HARROW]]\n\n[center][color=#999999]YOU ARE VISITOR 000000315 (COUNTER IS NOT BROKEN)[/color][/center]"
+		},
+		{
+			"url": "home.millnet.com/~0315",
+			"hidden": true,
+			"style": "hour",
+			"title": "0315",
+			"source": "<!-- last modified 10/09/2004 03:15 -->",
+			"body": "[center][color=#333333]\n\n\n\n06.21.1911\n\n10.31.1931\n\n06.21.1974\n\n04.14.1977\n\n10.31.1986\n\n06.16.1998\n\n08.05.2001\n\n09.26.2004\n\n[color=#660000]10.31.2004[/color]\n\n\n\n\n[font_size=10]8 / 10[/font_size][/color][/center]"
+		},
+		{
+			"url": "home.millnet.com/support",
+			"style": "plain",
+			"title": "MillNet Tech Support: Frequently Asked Questions",
+			"search": [
+				"millnet support",
+				"tech support",
+				"help",
+				"modem",
+				"dial-up problems",
+				"disconnected",
+				"busy signal",
+				"dsl",
+				"email setup",
+				"outlook express"
+			],
+			"body": "[b]MillNet Tech Support FAQ[/b]\n[color=#666666]Updated 10/12/2004[/color]\n\n[b]Q: I get a busy signal when I dial in.[/b]\nA: Evenings between 7 and 10 PM are our busiest time. Please try again later, or ask about our new Night Owl plan ($14.95/mo, midnight to 6 AM only).\n\n[b]Q: How do I set up my e-mail in Outlook Express?[/b]\nA: Incoming server: mail.millnet.com. Outgoing: smtp.millnet.com. Your password is on the sticker on your install CD.\n\n[b]Q: Can I get DSL?[/b]\nA: DSL is coming to Millbrook in 2005! Probably!\n\n[b]Q: My little brother picked up the phone and now I'm disconnected.[/b]\nA: That will do it.\n\n[b]Q: Why does my connection drop at 3:15 AM? (Harrow Lane customers)[/b]\nA: We have tested all lines serving the Harrow Lane area and found no fault.\n\n[color=#999999]I went out to the Harrow junction pedestal on 10/10 at 3 AM with the line tester. The line is clean. The noise isn't on the line. It's in the conduit, in the ground around the conduit. At 3:15 the needle went all the way over and the pedestal was warm to the touch in 40 degree weather. I could hear something through the case, like someone breathing through a paper towel tube a long way off. I'm not going out there again at night. Please stop calling about this. We can't fix it. It isn't ours. -Rick[/color]\n\n[color=#cc0000][i]This answer has been flagged for review by a manager.[/i][/color]\n\n[b]Q: What's a Gmail invite and can you give me one?[/b]\nA: No."
+		},
+		{
+			"url": "users.journalbox.com/xXskaterboi91Xx",
+			"style": "journal",
+			"title": "xXskaterboi91Xx's journal",
+			"search": [
+				"halo 2",
+				"halo",
+				"xbox",
+				"tony hawk",
+				"video games",
+				"games",
+				"all your base",
+				"vote for pedro",
+				"napoleon dynamite",
+				"skateboarding",
+				"skaterboi"
+			],
+			"body": "[b]10/14/2004[/b]  mood: [i]bored[/i]  music: Good Charlotte\n[center][color=#009900][b]HALO 2 COMES OUT IN 26 DAYS!!!!!![/b][/color][/center]\nmy mom says i cant preorder it because its \"violent\". i am 13. i have played the first one like 500 times at jakes house. whatever.\n\n[b]10/10/2004[/b]  mood: [i]rad[/i]  music: THUG 2 soundtrack\ngot tony hawks underground 2!!! beat story mode already on normal. dont tell my mom.\n\n[b]10/07/2004[/b]  mood: [i]weirded out[/i]\nskated the church lot on harrow after dark again. its the smoothest asphalt in millbrook, i dont care. theres a HUGE hole behind the building now with a blue tarp and a light down in it. a guy in a hard hat climbed out and told me to leave. then hannah k from youth group was parked across the street in her car and she said skate somewhere else and she wasnt joking around like she usually does. she looked like she was going to cry.\n\n[b]10/02/2004[/b]  mood: [i]annoyed[/i]\nmom threw out my harry potter books after the satan in suburbia seminar. pastor says they're burning them in the church lot on halloween. she also took my magic cards. jakes mom didnt take HIS.\n\nalso mom is making me go on the pine hollow retreat weekend in november. NO CELL PHONES. NO GAMEBOY. just \"quiet reflection.\" im bringing my gameboy in my sock.\n\n[b]09/28/2004[/b]  mood: [i]lol[/i]\nALL YOUR BASE ARE BELONG TO US!!!!!!!! jake made me a new icon.\nVOTE FOR PEDRO. gosh!! idiot!!\n\n[b]SURVEY!!![/b]\nfav band: Good Charlotte\nfav game: THUG2 (until halo 2)\nfav movie: Napoleon Dynamite\ncrush: [i]not telling[/i]\nscariest thing: the hole at church\n\n[color=#999999]12 comments[/color]"
+		},
+		{
+			"url": "users.journalbox.com/mcc_emo_kid",
+			"style": "journal",
+			"title": "mcc_emo_kid :: the static between stations",
+			"search": [
+				"emo",
+				"dashboard confessional",
+				"poetry",
+				"poems",
+				"star wars kid",
+				"mcc student",
+				"vhs tape"
+			],
+			"body": "[b]10/13/2004[/b]  mood: [i]listening to Dashboard again[/i]\nthe rain on the bus window\nis the only thing in this town\nthat doesnt want something from me\n\n(owen says my poems are \"a lot.\" owen is a lot.)\n\n[b]10/12/2004[/b]  mood: [i]angry[/i]\nowens movie got cancelled. HARROW. twenty two minutes. he worked on it all summer. student activities said it was \"a scheduling conflict\" but there is no conflict, lecture hall b is empty on the 22nd, i checked. owen thinks somebody called the dean. he gave me a copy of the tape and said keep it at your house, not in your dorm. so now theres a VHS tape in my sock drawer like im in a spy movie.\n\n[b]10/07/2004[/b]  mood: [i]weird[/i]\nwent to the harvest fellowship thing in 2B because free pizza. a guy named thomas was really nice. like REALLY nice. he asked if my parents live nearby. he asked if i have a car in my name. he asked if anybody would notice if i took a semester off. weird questions for a pizza party. i took 2 slices and left.\n\n[b]10/01/2004[/b]  mood: [i]nostalgic[/i]\nwatched the star wars kid remix again. still the funniest thing on the internet. i feel kind of bad for him though. imagine the whole world seeing the worst day of your life.\n\n[b]currently:[/b] Dashboard Confessional, The Get Up Kids, Jimmy Eat World\n\n[color=#999999]4 comments (friends only)[/color]"
+		},
+		{
+			"url": "millbrooktalk.net/viewtopic-3988",
+			"style": "forum",
+			"title": "MillbrookTalk :: Best pizza in town??",
+			"search": [
+				"pizza",
+				"best pizza",
+				"luigi's",
+				"papa z's",
+				"pizza delivery",
+				"delivery",
+				"food"
+			],
+			"body": "[color=#666666]Page 2 of 3  [ 1 ]  [b]2[/b]  [ 3 ][/color]\n\n[b]tacoma_steve[/b]  Posted: Fri Sep 24, 2004 7:12 pm\nLuigi's. End of discussion. Fight me.\n\n[b]pizzagod88[/b]  Posted: Fri Sep 24, 2004 7:30 pm\nluigis is cardboard with ketchup. PAPA Z'S or go home\n\n[b]barb_t[/b]  Posted: Fri Sep 24, 2004 8:02 pm\nThe Lutheran church does a pizza night the 3rd Friday of every month and it is very good and all for a good cause!!\n\n[b]pizzagod88[/b]  Posted: Fri Sep 24, 2004 8:05 pm\nthat is not a restaurant barb\n\n[b]xXskaterboi91Xx[/b]  Posted: Sat Sep 25, 2004 12:44 am\nbagel bites\n\n[b]nightshift_dave[/b]  Posted: Sat Sep 25, 2004 3:20 am\nPapa Z's is the only place open after midnight so Papa Z's by default. Don't try to get them to deliver to Harrow though.\n\n[b]tacoma_steve[/b]  Posted: Sat Sep 25, 2004 10:15 am\nwhy not harrow\n\n[b]nightshift_dave[/b]  Posted: Sat Sep 25, 2004 11:40 am\nMy buddy delivers for them. Some lady came out in her bathrobe at 10:30 and wrote down his plate because his headlights were \"shining toward 412.\" Two days later he got a letter from the Harrow Lane HOA fining HIM $150 for \"lighting.\" He doesn't even live there. He won't do Harrow anymore. Nobody at Papa Z's will.\n\n[b]pizzagod88[/b]  Posted: Sat Sep 25, 2004 11:52 am\nok thats creepy but PAPA Z'S STILL WINS\n\n[b]reelowen[/b]  Posted: Sun Sep 26, 2004 2:10 pm\nDee's does a pizza burger that nobody talks about and it's honestly the best thing in town.\n\n[b]tacoma_steve[/b]  Posted: Sun Sep 26, 2004 2:31 pm\nthis thread is now about the pizza burger\n\n[color=#666666]Page 2 of 3  [ 1 ]  [b]2[/b]  [ 3 ][/color]"
+		},
+		{
+			"url": "millbrooktalk.net/viewtopic-5077",
+			"style": "forum",
+			"title": "MillbrookTalk :: Lost dog, black lab, Birch Ct area",
+			"search": [
+				"lost dog",
+				"dog",
+				"black lab",
+				"moose",
+				"pets",
+				"lost pet",
+				"storm drain"
+			],
+			"body": "[b]barb_t[/b]  Posted: Mon Oct 04, 2004 8:15 am\nMY DOG MOOSE IS LOST. Black lab, 9 years old, gray muzzle, red collar with tags. He got out of the yard Sunday night. He is very friendly and will come to anyone with cheese. Please call Barb at 555-0162!!!\n\n[b]nightshift_dave[/b]  Posted: Tue Oct 05, 2004 3:48 am\nSaw a black lab on Harrow on my way home, 3:15ish. He was standing over the storm drain in front of 411 barking straight down into it. Would not stop. I tried to get him in the car and he wouldn't come. Sorry Barb. He had a red collar.\n\n[b]rosa_a[/b]  Posted: Tue Oct 05, 2004 7:30 am\nI heard him too. He was at it for an hour. Nobody on the street turned on a light. Nobody on Harrow ever turns on a light.\n\n[b]barb_t[/b]  Posted: Wed Oct 06, 2004 6:02 pm\nMOOSE CAME HOME!!!! Praise God and thank you all! He was muddy up to his shoulders and he smelled like a root cellar. The vet says he's fine. But he will not walk down Harrow Lane anymore. When we go to see my daughter he pulls the other way so hard I have to carry him, and he is 80 lbs. Silly boy!\n\n[color=#555555]Topic is marked RESOLVED.[/color]"
+		},
+		{
+			"url": "millbrooktalk.net/viewtopic-4630",
+			"style": "forum",
+			"title": "MillbrookTalk :: Anyone else hear a hum at night on Harrow?",
+			"search": [
+				"hum at night",
+				"noise at night",
+				"3:15 am",
+				"vibration",
+				"rattling",
+				"water main"
+			],
+			"body": "[b]nightshift_dave[/b]  Posted: Sun Oct 10, 2004 4:02 am\nI drive Harrow home from the plant every night. This last week, at 3:15 on the dot, there's a hum. Not the radio. I turned the car off and I could still hear it through the seat. Anybody else?\n\n[b]rosa_a[/b]  Posted: Sun Oct 10, 2004 9:14 am\nYes. My dishes rattle in the cupboard. 3:15. I started setting an alarm for 3:14 to see if it's me. It's not me.\n\n[b]plumber_mike[/b]  Posted: Sun Oct 10, 2004 10:30 am\nWater main. It's always a water main. Harrow's is from 1961, that thing's older than my dad.\n\n[b]harmonic_truth[/b]  Posted: Sun Oct 10, 2004 3:15 pm\nIT IS NOT A WATER MAIN. READ THE TRUTH: [[home.millnet.com/~harmonic|home.millnet.com/~harmonic]]\n\n[b]plumber_mike[/b]  Posted: Sun Oct 10, 2004 3:22 pm\nok never mind, it's a water main and also that guy\n\n[b]rosa_a[/b]  Posted: Mon Oct 11, 2004 3:40 am\nIt's happening right now. My landlord is out in his yard at 413 with his red light. He's got his hand flat on the concrete. He looked over at my window and nodded, like he knew exactly what I was going to ask.\n\n[b]Moderator[/b]  Posted: Mon Oct 11, 2004 8:00 am\nThread locked at the request of the Harrow Lane Homeowners Association. Please take neighborhood concerns to your HOA.\n\n[color=#cc0000]This topic is locked: you cannot edit posts or make replies.[/color]"
+		},
+		{
+			"url": "millbrookgripes.com/millbrook-cable",
+			"style": "gripes",
+			"title": "MillbrookGripes :: Millbrook Cable",
+			"search": [
+				"millbrook cable",
+				"cable",
+				"cable tv",
+				"tv",
+				"television",
+				"techtv",
+				"g4",
+				"cable box",
+				"tv guide"
+			],
+			"body": "[b]Rating: 1.8 / 5[/b]  (37 gripes)  [color=#666666]Showing 6 most recent[/color]\n\n[b]Rating: 1/5[/b]  Posted by: screensavers_4ever\n\"TechTV is GONE. They merged it into 'G4techTV' and now it's half video game commercials. WHERE IS THE SCREEN SAVERS. I did not pay $42.99 a month for this.\"\n\n[b]Rating: 1/5[/b]  Posted by: dbz_fan\n\"channel 3 (community access) keeps showing sermons from that harrow lane church at 3 in the morning instead of the test pattern. i dont want the test pattern either but at least it didnt stare at me. WHERE IS DRAGONBALL Z\"\n\n[b]Rating: 2/5[/b]  Posted by: anonymous\n\"Cable guy Doug showed up 4 hours late, fixed nothing, and ate a whole box of my Bagel Bites. Nice guy though.\"\n\n[b]Rating: 1/5[/b]  Posted by: truth_seeker_71\n\"Has ANYONE else noticed the new digital boxes have a little red light that stays on even when the box is OFF? I called and asked what it's for and they said 'diagnostics.' Diagnostics of WHAT. They know what we watch. They know WHEN we watch. Put electrical tape over it. I am not joking.\"\n\n[b]Rating: 1/5[/b]  Posted by: truth_seeker_71\n\"UPDATE: they know about the tape.\"\n\n[b]Rating: 3/5[/b]  Posted by: doug_mcable\n\"Hi this is Doug from Millbrook Cable. The red light is the standby light. Also I'm sorry about the Bagel Bites.\"\n\n[color=#999999]Tip: Satellite TV is available in Millbrook! Just not on Harrow Lane (HOA rules, no dishes).[/color]"
+		},
+		{
+			"url": "millbrookgripes.com/dees-diner",
+			"style": "gripes",
+			"title": "MillbrookGripes :: Dee's Diner",
+			"search": [
+				"dee's diner reviews",
+				"diner reviews",
+				"restaurant reviews",
+				"dee's complaint"
+			],
+			"body": "[b]Rating: 3.9 / 5[/b]  (22 gripes)  \"coffee's fine, service is slow\"\n\n[b]Rating: 4/5[/b]\n\"Best hash browns in the county. The Daily Special has been meatloaf since 2001. I'm starting to think it's the same meatloaf.\"\n\n[b]Rating: 3/5[/b]\n\"Waited 25 min for a grilled cheese. Dee said the cook was 'in the back.' The cook is Dee.\"\n\n[b]Rating: 5/5[/b]  Posted by: reelowen\n\"Pizza burger. That's the review.\"\n\n[b]Rating: 2/5[/b]\n\"Went in at 6 AM on a Tuesday and the whole back room was full of men in ties. Ten of them. Nobody ordered food. Dee said it was 'a standing reservation' and asked me to sit up front where I couldn't hear. When they left, nobody paid. Dee just tore up the ticket. Must be nice.\"\n\n[b]Rating: 4/5[/b]\n\"Ask for the peanut butter pie. Dee will pretend there isn't any. There is.\"\n\n[color=#666666]See the menu at [[deesdiner.com|deesdiner.com]][/color]"
+		},
+		{
+			"url": "deesdiner.com",
+			"style": "plain",
+			"title": "Dee's Diner :: Where Millbrook Eats Breakfast",
+			"search": [
+				"dee's diner",
+				"dees diner",
+				"diner",
+				"breakfast",
+				"restaurant",
+				"restaurants",
+				"lunch",
+				"meatloaf",
+				"menu",
+				"pie"
+			],
+			"body": "[center][b][color=#cc0000]DEE'S DINER[/color][/b]\n\"Where Millbrook Eats Breakfast\" * Since 1972\n1400 Main St * 555-0128[/center]\n\n[b]HOURS[/b]\nMon to Sat, 5 AM to 2 PM. Sunday CLOSED (see you in church!)\n\n[b]BREAKFAST[/b]\n  Two Eggs Any Style, Hash Browns, Toast ........ $3.95\n  Lumberjack (3 eggs, 3 cakes, bacon & links) ... $6.50\n  Biscuits & Gravy ............................... $4.25\n  Short Stack .................................... $2.95\n\n[b]LUNCH[/b]\n  Patty Melt ..................................... $5.25\n  Pizza Burger (don't knock it) .................. $5.75\n  Soup of the Day ....................... $2.50 cup / $3.50 bowl\n\n[b]DAILY SPECIAL[/b]\n  Meatloaf, mashed potatoes, green beans ......... $6.95\n  [color=#999999](updated 03/12/2001)[/color]\n\n[b]PIE[/b]\nApple, cherry, lemon meringue. Ask about our peanut butter pie!\n\n[b]PRIVATE ROOM[/b]\nOur back room seats 12 and is available for clubs, church groups and Bible studies. [color=#990000]Tuesday mornings are reserved.[/color]\n\n[center][color=#666666]Cash and checks only. No out-of-town checks.\nYou are visitor #00641[/color][/center]"
+		},
+		{
+			"url": "christianwebring.org",
+			"style": "church",
+			"title": "The Christian Web Ring",
+			"search": [
+				"christian web ring",
+				"webring",
+				"web ring",
+				"christian websites",
+				"christian sites"
+			],
+			"body": "[center][b]+ THE CHRISTIAN WEB RING +[/b]\n\"Linking the Body of Christ, one page at a time\"\n212 member sites since 1997[/center]\n\n[center][color=#666666][<< Prev]  [Random]  [Next >>]  [List Sites]  [Join the Ring!][/color][/center]\n\n[b]Member Sites near Millbrook[/b]\n  #37 [[evangelicalsintl.org|Evangelicals International]] ... \"Welcome to our online home!\"\n  #38 [[home.millnet.com/~jfinch|Joan's Blessed Little Ones]] ... figurines & treasures\n  #39 [[members.webhaven.com/blessedhearth|Blessed Hearth Homeschool]] ... recipes, curriculum, family life\n  #40 [[members.webhaven.com/tribforce_fan|Tribulation Force Fan Page]] ... all 12 books reviewed!\n  #41 [[home.millnet.com/~y2kron|Ron's Y2K Readiness HQ]] ... be ready\n  #42 harrowlanepantry.org ... [color=#999999]SITE NOT RESPONDING. Removed from ring 1998.[/color]\n\n[b]Ring Rules[/b]\n  1. Family-friendly content only.\n  2. The ring navigation bar must appear on your home page.\n  3. No selling, except Christian books and crafts.\n  4. The Ring Master may remove any site at any time.\n\n[color=#999999]Ring Master's note: someone keeps submitting a site with no URL, only an upside-down cross made of asterisks and the words \"he is the landlord here.\" It has been rejected four times. Please stop.[/color]"
+		},
+		{
+			"url": "members.webhaven.com/tribforce_fan",
+			"style": "plain",
+			"title": "*** Tribulation Force Fan Page ***",
+			"search": [
+				"left behind",
+				"rapture",
+				"tribulation force",
+				"end times",
+				"glorious appearing",
+				"tribulation"
+			],
+			"body": "[center][b][color=#990000]*** TRIBULATION FORCE FAN PAGE ***[/color][/b]\n[color=#999999][image: flaming_bible.gif]  [image: trumpet_angel.gif][/color]\nI HAVE READ ALL 12!!! Have you??[/center]\n\n[b]My Rankings of the Left Behind Series[/b]\n  1. Glorious Appearing ... FINALLY!!!\n  2. The Mark\n  3. Left Behind (the first one is always special)\n  ...\n  12. Desecration [color=#999999](sorry but it dragged)[/color]\n\nHeard there are going to be PREQUELS. I will read them. I will read anything.\n\n[b]Watching for the Signs[/b]\nMy personal Rapture Index this month: 172 [color=#990000](FASTEN YOUR SEATBELTS)[/color]\n\n[b]Guestbook (latest)[/b]\n[b]pastorjim_idaho:[/b] Great page brother! Blessings.\n[b]kelsey_4jesus:[/b] omg i cried at the end of glorious appearing\n[b]bookkeeper:[/b] the Beast is coming, and he will need a place to live.\n[b]webmaster:[/b] AMEN!! Great to find another end-times watcher :)\n[b]bookkeeper:[/b] you misunderstand. we are not watching for Him to come down. but you will be welcome.\n\n[center][color=#666666]Member of the [[christianwebring.org|Christian Web Ring]]  *  Last updated 04/2004[/color][/center]"
+		},
+		{
+			"url": "members.webhaven.com/blessedhearth",
+			"style": "plain",
+			"title": "Blessed Hearth Homeschool",
+			"search": [
+				"homeschool",
+				"homeschooling",
+				"recipes",
+				"recipe",
+				"pumpkin bread",
+				"curriculum",
+				"saxon math"
+			],
+			"body": "[center][b]~ Blessed Hearth Homeschool ~[/b]\nOne mama, five kiddos, and a whole lot of grace![/center]\n\n[b]About Us[/b]\nWe're the Lindqvist family and we've homeschooled since 1996. We use Saxon Math, Abeka for reading, and a LOT of library cards. Our oldest just started at Millbrook Community College. Proud mama!!\n\n[b]Recipe of the Month: Pumpkin Bread[/b]\n  2 cups canned pumpkin\n  3 cups sugar (yes really)\n  1 cup oil\n  4 eggs\n  3 1/2 cups flour\n  2 tsp baking soda, 1 tsp salt, 2 tsp cinnamon\nMix the wet, mix the dry, mix them together. Two loaf pans, 350 for an hour. Makes the whole house smell like fall!\n\n[b]A Word of Caution, Mamas[/b]\nWe visited a church on Harrow Lane this summer after a nice couple invited us to their potluck. Everyone was so friendly! But three different people asked whether we own our home or rent. A man asked what my husband does and whether his employer is \"a believer.\" A lady asked if our oldest had a car yet. Nobody asked about our faith. We did not go back. Trust your gut. That's the Holy Spirit talking.\n\n[b]Curriculum Swap[/b]\nHave: Saxon 54, Apologia Botany. Want: Saxon 76.\n\n[center][color=#666666]Member of the [[christianwebring.org|Christian Web Ring]]\nYou are visitor #002231[/color][/center]"
+		},
+		{
+			"url": "members.webhaven.com/millbrookhistory",
+			"style": "plain",
+			"title": "Harrow Grange No. 212: A History",
+			"search": [
+				"grange",
+				"harrow grange",
+				"grange hall",
+				"history",
+				"millbrook history",
+				"historical society",
+				"clarence oyler",
+				"1931",
+				"the well",
+				"kept the lid on",
+				"halloween 1931"
+			],
+			"body": "[center][b]HARROW GRANGE No. 212[/b]\nA History, by Clarence Oyler\nMillbrook Historical Society\n[color=#990000]PHOTOS COMING SOON![/color][/center]\n\n[b]Founding[/b]\nThe Harrow Grange was chartered on June 21, 1911 by nine farm families of the Harrow Lane district. The hall was raised that summer on the site of the old Harrow spring, which the charter calls \"the Well.\" The brick cistern beneath the hall was already there when they built. No one I have spoken to knows who laid it.\n\n[b]Grange Life[/b]\nFor sixty years the Grange was the heart of the district: dances, the fall fair, the lending library, the 4-H. My brother Wendell and I went to our first dance there in 1927.\n\n[b]The Officers' Lamps[/b]\nMost Granges have one Gate Keeper. Harrow Grange had ten Keepers, each with a brass lamp, and each assigned to a household on the lane. The lamps were lit every night, on a schedule kept in a book that never left the hall. The schedule was called the Watch. Visiting Grangers from Olympia found this very odd and said so in their letters.\n\n[b]Hallowe'en 1931[/b]\nOn the night of October 31, 1931, four of the officers held a meeting in the lower room without the others. The minutes for October 1931 are missing. The minutes for November record only that \"the lower room is closed by vote, and the Watch is ended.\" Every officer resigned that winter. When I asked Wendell about it he got up and left the table. He has not discussed it since.\n\n[b]The End of the Grange[/b]\nMembership dwindled after the war. The last meeting was held June 21, 1974. The cistern was bricked over by vote of the final members, at their own expense. In 1977 the hall was sold to a young man who had been holding prayer meetings in his living room down the street and wanted room to grow.\n\n[b]A Local Custom[/b]\nOld families on Harrow Lane used to say the Grange \"kept the lid on.\" When I asked on what, they said the Well, and laughed, and changed the subject. If you know, please write to me.\n\n[color=#666666]Page created 03/1996. Last updated 11/1996. Photos coming soon!\n[font_size=12][i]Note, 1998: Clarence passed away in December 1997. We will keep his page up as he left it. -- Millbrook Historical Society[/i][/font_size][/color]"
+		},
+		{
+			"url": "pnwrides.com/viewtopic-882",
+			"style": "forum",
+			"title": "PNWRides :: my rollback rims (PICS)",
+			"search": [
+				"rims",
+				"tow truck rims",
+				"22s",
+				"pnwrides",
+				"car forum",
+				"tuner",
+				"f-450",
+				"rollback",
+				"abel coyle"
+			],
+			"body": "[b]abel_rollback[/b]  Posted: Sat Oct 09, 2004 1:14 pm\nfinally got the 22s on the F-450. chrome. [color=#999999][image: IMG_0412.jpg] [image: IMG_0413.jpg][/color]\nboss says its a waste of money. boss can deal lol\n\n[b]boosted_civic[/b]  Posted: Sat Oct 09, 2004 1:30 pm\n22s on a TOW TRUCK?? thats sick. pics wont load tho\n\n[b]abel_rollback[/b]  Posted: Sat Oct 09, 2004 1:41 pm\nmy webspace is being dumb. trust me theyre sick\n\n[b]dubs_n_dubs[/b]  Posted: Sat Oct 09, 2004 1:50 pm\nhow do you afford 22s driving a tow truck\n\n[b]abel_rollback[/b]  Posted: Sat Oct 09, 2004 1:55 pm\nsweet setup. HOA calls it in, i pull it, $385 cash, i get a cut. best hours are 3 to 4 am when nobodys awake to argue. some nights i do 4 pulls on one street\n\n[b]boosted_civic[/b]  Posted: Sat Oct 09, 2004 1:58 pm\nwait is this the church towing thing from the paper last year lol\n\n[b]abel_rollback[/b]  Posted: Sat Oct 09, 2004 1:59 pm\nno\n\n[b]abel_rollback[/b]  Posted: Sat Oct 09, 2004 2:01 pm\nalso anybody know a guy who does quiet exhaust? for the truck. boss dont want noise on harrow at night. says the neighbors need their sleep. which is funny because\n[color=#999999][i]Last edited by abel_rollback on Sat Oct 09, 2004 2:02 pm, edited 1 time in total[/i][/color]\n\n[b]dubs_n_dubs[/b]  Posted: Sat Oct 09, 2004 2:10 pm\nwhich is funny because WHAT\n\n[b]Moderator[/b]  Posted: Sat Oct 09, 2004 3:00 pm\nKeep it on topic guys. Nice rims."
+		},
+		{
+			"url": "mercerconstruction.com",
+			"style": "plain",
+			"title": "Mercer Construction Inc. :: We Dig Millbrook!",
+			"search": [
+				"mercer construction website",
+				"construction",
+				"contractor",
+				"excavation",
+				"remodeling",
+				"construction jobs",
+				"now hiring",
+				"night work"
+			],
+			"body": "[center][b][color=#cc6600]MERCER CONSTRUCTION INC.[/color][/b]\n[color=#999999][image: excavator_clipart.gif][/color]\n\"We Dig Millbrook!\"\nRemodeling * Excavation * Commercial * Est. 1979[/center]\n\n[center][color=#009900][b]SAFETY FIRST! 412 days without a lost-time accident![/b][/color][/center]\n\n[b]Current Projects[/b]\n  - Harrow Lane Utility Connector (Variance 04-117) ... Phase 1 COMPLETE. Phase 2 underway.\n  - Pine Hollow Lodge addition ... 3 rooms, extra insulation and soundproofing, no windows (per client)\n  - Birch Court fence replacement program (HOA-approved colors only!)\n  - County road repair, Route 9\n\n[b]NOW HIRING[/b]\nNight equipment operators. Must be comfortable in close quarters. Must not be afraid of the dark. Church family preferred. Pay by arrangement.\n\n[b]Our Team[/b]\n  Isaac Mercer ... President\n  Jonah Mercer ... Operator (our youngest!)\n\n[b]Testimonials[/b]\n\"Isaac's crew dug our new foundation in two days. Very professional!\" -- W.G., Harrow Lane\n\n[center][color=#666666]Call 555-0175 for a FREE estimate!\nYou are visitor #000233[/color][/center]"
+		},
+		{
+			"url": "millbrookastro.org",
+			"style": "plain",
+			"title": "Millbrook Amateur Astronomers",
+			"search": [
+				"millbrook amateur astronomers",
+				"astronomy club",
+				"star party",
+				"telescope club",
+				"stars",
+				"seismometer"
+			],
+			"body": "[center][b]MILLBROOK AMATEUR ASTRONOMERS[/b]\n\"Keep Looking Up!\" * Est. 1981[/center]\n\n[b]Next Meeting[/b]\nThursday, Oct 21, 7:30 PM, MCC Science Bldg Rm 104. Program: \"Planetary Imaging on a Budget with Your Webcam\" (bring your ToUcam!)\n\n[b]Club News[/b]\n  - Our fall dark-sky party at the Pine Hollow meadow is [color=#990000]CANCELLED[/color]. The Pine Hollow POA has revoked our access \"permanently and without exception.\" We had used that meadow since 1989. When our president asked why, he was told the residents \"need the quiet.\"\n  - Paul R. reports his images shaking at exactly 3:15 AM for the past week, coming up through the pier. Probably a pump. Bill has offered to lend Paul his homebuilt seismometer to settle it. Results at the next meeting!\n  - Paul's backyard open house is postponed until the HOA \"lighting situation\" is resolved. Paul says bring a red flashlight and a checkbook. (Paul, we love you.)\n  - Welcome new members Priya and Owen from MCC!\n\n[b]Loaner Scopes[/b]\n  4.5\" reflector ... available\n  8\" Dobsonian ... checked out (Owen H.)\n\n[b]Links[/b]\n  - [[clearskyclock.net/millbrook|Clear Sky Clock: Millbrook]]\n  - [[home.millnet.com/~prennick|Paul's Backyard Observatory]]\n\n[center][color=#666666]Dues $15/yr. Newsletter by e-mail![/color][/center]"
+		},
+		{
+			"url": "clearskyclock.net/millbrook",
+			"style": "plain",
+			"title": "Clear Sky Clock: Millbrook, WA",
+			"search": [
+				"weather",
+				"forecast",
+				"weather millbrook",
+				"rain",
+				"clear sky clock",
+				"cloud cover",
+				"tonight's sky"
+			],
+			"body": "[b]Clear Sky Clock for Millbrook, WA[/b]\n[color=#666666]Updated 10/15/2004 5:00 AM PDT[/color]\n\n                 Fri 15                 Sat 16\n                 6p   9p   12a  3a      6p   9p   12a  3a\nCloud Cover      ###  ##.  ...  ...     ###  ###  ###  ##.\nTransparency     ..   ++   +++  +++     ..   ..   ..   ..\nSeeing           ++   +++  ++++ ++      .    .    .    .\nDarkness         ..   ###  ###  ###     ..   ###  ###  ###\n\n[color=#666666]Cloud: ### overcast, ... clear.  Transparency & Seeing: more + is better.  Darkness: ### full dark.[/color]\n\n[b]Local Forecast[/b]\nTonight: Clearing after 9 PM. Low 38. Good seeing after midnight.\nSaturday: Rain developing by afternoon. High 54. It's October in Washington, what did you expect.\n\n[b]Site Notes[/b]\nMillbrook, Harrow Lane area: sky brightness has improved from Bortle 5 to Bortle 4 since 2003, apparently due to a local lighting rule. Congratulations, Harrow Lane! Darkest suburban street in the county.\n\n[color=#999999]A Clear Sky Clock is not a guarantee. Clocks are made for astronomers, not for picnics.[/color]"
+		},
+		{
+			"url": "millbrookhigh.k12.wa.us/alumni",
+			"style": "plain",
+			"title": "Millbrook High School Alumni: Class News",
+			"search": [
+				"millbrook high school",
+				"high school",
+				"alumni",
+				"reunion",
+				"class of 2003",
+				"class of 1989",
+				"millers",
+				"dale kirsch"
+			],
+			"body": "[center][b]MILLBROOK HIGH SCHOOL ALUMNI[/b]\nGo Millers! [color=#999999][image: miller_mascot.gif][/color][/center]\n\n[b]Teacher Hall of Fame[/b]\nThis year's honoree: [b]Mr. Paul Rennick[/b], Earth Science, 1978 to 2002. Remembered for his Friday night star parties, his red flashlight, and for making every class balance the lab supply budget out loud \"so nobody ever has to wonder where it went.\" Nominated by 41 former students.\n\n[b]Class of 1989: 15th Reunion[/b]\nThanks to all who came! Special thanks to Tammy from the KMLB Morning Zoo for DJing. Still missing: Dale Kirsch. He RSVP'd yes back in June and nobody has heard from him since. Dale, we saved you a plate.\n\n[b]Class of 2003: Where Are They Now?[/b]\n  - Jonah Mercer ... working in the family business! Still holds the Millers record for tackles.\n  - Priya Nandakumar ... MCC, then UW!\n  - Ruth Pell ... [color=#999999]no update[/color]\n\n[b]Class of 2004 Superlatives[/b]\n  Most Likely to Succeed ... Hannah Kettering\n  Class Clown ... Tyler Voss\n  Best Hair ... Owen Hart\n\n[center][color=#666666]Update your info! E-mail alumni@millbrookhigh.k12.wa.us[/color][/center]"
+		},
+		{
+			"url": "kmlb.com",
+			"style": "plain",
+			"title": "98.7 KMLB :: Millbrook's Hit Music!",
+			"search": [
+				"radio",
+				"music",
+				"kmlb",
+				"98.7",
+				"top 40",
+				"hit music",
+				"request line",
+				"songs",
+				"radio station"
+			],
+			"body": "[center][b][color=#0033cc]98.7 KMLB[/color][/b]\nMillbrook's Hit Music Station!\n[color=#999999][font_size=12]Now playing: kmlb_jingle.mid (press Stop in your browser to turn off the music)[/font_size][/color][/center]\n\n[b]THE KMLB HOT 10 (week of Oct 11)[/b]\n  1. Usher & Alicia Keys ... My Boo\n  2. Destiny's Child ... Lose My Breath\n  3. Maroon 5 ... She Will Be Loved\n  4. Ciara ... Goodies\n  5. Green Day ... American Idiot\n  6. Gwen Stefani ... What You Waiting For?\n  7. U2 ... Vertigo\n  8. Switchfoot ... Dare You to Move\n  9. Black Eyed Peas ... Let's Get It Started\n  10. Hoobastank ... The Reason\n\n[b]WIN IT![/b]\nBe caller 9 when you hear the KMLB Cash Cow moo and win a copy of HALO 2 on launch day, Nov 9! Request line: 555-0198.\n\n[b]Our Lineup[/b]\n  5 to 10 AM ... The Morning Zoo with Big Rick & Tammy\n  10 AM to 3 PM ... Lunchtime Requests\n  3 to 7 PM ... Drive Time with DJ Marcus\n  7 PM to Midnight ... Love Songs After Dark\n  Midnight to 5 AM ... Quiet Hours: soft inspirational music, sponsored by Kettering Insurance Agency. [i]\"Because tomorrow is not promised.\"[/i]\n\n[color=#990000][b]A note from station management:[/b] KMLB does NOT play records backwards, on air or otherwise. We have received 200+ copies of a church tape saying otherwise. Please stop mailing them to us.[/color]\n\n[b]Quiet Hours Dedications[/b]\n  - \"To my husband on the night shift. Drive safe. -- K.\"\n  - \"To Grandpa W., for keeping the light on all those years.\"\n  - [color=#999999]\"To R., wherever you are resting. Your mother misses you.\" (removed at the sponsor's request)[/color]\n\n[center][color=#666666]Sign our guestbook! Tell us your favorite Morning Zoo prank![/color][/center]"
+		},
+		{
+			"url": "millbrookledger.com/classifieds",
+			"style": "news",
+			"title": "Classifieds: Week of October 11, 2004",
+			"search": [
+				"classifieds",
+				"classified ads",
+				"for sale",
+				"want ads",
+				"help wanted",
+				"job",
+				"jobs",
+				"estate sale",
+				"personals",
+				"beanie babies",
+				"garage sale"
+			],
+			"body": "[b]FOR SALE[/b]\n  - Beanie Babies, 140+, all with tags, incl. Princess the bear. Serious offers only. $2,000 OBO.\n  - Nintendo 64 w/ 4 controllers, GoldenEye, Mario Kart. $60.\n  - Y2K supplies, lightly used. See [[home.millnet.com/~y2kron|Ron's page]].\n  - 50 AOL CDs. Free. Please. Take them.\n  - Tamagotchi, still alive (barely). $5.\n  - Athearn HO boxcars, $5 ea. Call Walt.\n\n[b]ESTATE SALE[/b]\n  18 Birch Ct. Entire contents of the home of M. Tate, in storage since spring. China, quilts, furniture, 40 years of National Geographic. All proceeds benefit Evangelicals International. Conducted by Crane Holdings LLC. Sat 10/23, 8 AM. Family members need not inquire.\n\n[b]HELP WANTED[/b]\n  - Night equipment operators. Mercer Construction. Close quarters. Church family preferred.\n  - Warehouse, full time, no experience needed, HOUSING PROVIDED. Ashby Staffing Services. Ask for Thomas at MCC on Thursdays.\n  - Pizza delivery drivers. Papa Z's. Must have own car. No Harrow Lane deliveries (sorry).\n\n[b]LOST & FOUND[/b]\n  - FOUND: black lab, red collar. [color=#009900]Reunited! Thanks Millbrook![/color]\n  - LOST: blue Game Boy Advance SP at the Harvest Festival hay maze. Has Pokemon Sapphire in it. Reward!!\n\n[b]PERSONALS[/b]\n  - SWM, 34, likes fishing, NASCAR and long walks to the Dee's pie case. Seeking SWF for same.\n  - To the girl in the parked car on Harrow Lane: you're welcome to come in for coffee sometime. The porch light is on. -- P.\n\n[color=#666666]Place an ad: 555-0111. $1 per line.[/color]"
+		},
+		{
+			"url": "millbrookledger.com/obituaries",
+			"style": "news",
+			"title": "Obituaries: October 2004",
+			"search": [
+				"obituaries",
+				"obituary",
+				"obits",
+				"funeral",
+				"death notices",
+				"wendell oyler",
+				"died"
+			],
+			"body": "[b]Wendell James Oyler[/b], 94\nWendell Oyler, the last surviving member of Harrow Grange No. 212, died October 10 at Millbrook Care Center. Born on a farm on Harrow Lane in 1910, he worked forty years for the county roads department. He was preceded in death by his wife Irene and his brother Clarence, a local historian. He is survived by a grandson, Ron, of Millbrook.\nServices will be private. In lieu of flowers, the family asks that the lamps be left lit.\n\n[b]Dorothy Anne Lund[/b], 88\nDorothy Lund died peacefully at home October 7. A founding member of the Millbrook Tuesday Bridge Club, she won the county championship in 1963, 1971 and 1988, and never let anyone forget it. Memorial gifts to the Millbrook Public Library.\n\n[b]Gerald \"Gary\" Pruitt[/b], 71\nGary Pruitt carried mail in Millbrook for 31 years, most of them on the Harrow Lane route. He liked to say he could tell every house on Harrow by its porch light. He is survived by his daughter, Lydia Greaves, and by his model trains, which he left to his son-in-law Walter. Services Saturday at Evangelicals International, 412 Harrow Lane.\n\n[color=#666666]To submit an obituary, call 555-0111. There is no charge.[/color]"
+		},
+		{
+			"url": "millbrookledger.com/harvest-2004",
+			"style": "news",
+			"title": "Harvest Festival 2004: Full Results!",
+			"search": [
+				"harvest festival",
+				"festival",
+				"pumpkin",
+				"pumpkin weigh-off",
+				"pie contest",
+				"quilt show",
+				"things to do",
+				"events",
+				"costume contest",
+				"hay maze"
+			],
+			"body": "[b]65th Annual Millbrook Harvest Festival: The Results Are In![/b]\n\n[b]Giant Pumpkin Weigh-Off[/b]\n  1st ... \"Big Gene\" Halvorsen, 812 lbs (new county record!)\n  2nd ... the Brandt family, 640 lbs\n  3rd ... Tyler Voss's little brother, 12, 301 lbs (\"I talked to it every day\")\n\n[b]Pie Contest[/b]\n  Apple ... Lydia Greaves (7th straight year)\n  Cherry ... Lydia Greaves\n  Pumpkin ... Dorothy Lund, baked by her granddaughter from Dorothy's recipe card\n  Judges: Joan Finch, Miriam Vole, Deborah Coyle\n\n[b]Quilt Show[/b]\nBest in Show: Barb Gunderson, \"Ten Candles,\" gold on navy. The star was hung point-down and two of its ten candles were left blank, which the judges called \"a bold modern choice.\" The quilt will be raffled at a local church potluck.\n\n[b]Costume Parade (Kids)[/b]\n  1st ... a very convincing Napoleon Dynamite\n  2nd ... Strong Bad (homemade, incredible)\n  Honorable mention ... a boy dressed as a hole in the ground, in a blue tarp. He said it was \"from church.\"\n  Disqualified ... a girl dressed as a witch, after a parent complaint that the costume \"glorified the occult.\"\n\n[b]Hay Maze[/b]\nOne child was lost for about 20 minutes. He was found safe, eating a caramel apple. We still don't know where he got it.\n\n[color=#666666]Thanks to our sponsors: Millbrook Savings & Loan, Kettering Insurance Agency, Dee's Diner and Crane Holdings LLC.[/color]"
+		},
+		{
+			"url": "bidhaus.com/item-2208131",
+			"style": "plain",
+			"title": "BidHaus :: Antique Grange Lantern, RED GLASS, c. 1911 (Item #2208131)",
+			"search": [
+				"bidhaus",
+				"auction",
+				"auctions",
+				"ebay",
+				"antique lantern",
+				"grange lantern",
+				"lantern",
+				"antiques",
+				"red glass"
+			],
+			"body": "[b]Antique Grange Officer's Lantern, RED GLASS, Brass, c. 1911 RARE[/b]\n[color=#990000]Bidding has ended for this item.[/color]\n\nWinning bid: US $412.00\nWinning bidder: [b]h***e[/b] (0) [color=#999999]new member[/color]\nSeller: [b]y2k_ron[/b] (47) [color=#009900]100% positive[/color]\nItem location: Millbrook, WA\nEnded: Oct 09, 2004 03:15:00 PDT\n\n[b]Description[/b]\nOld brass lantern with the original RED glass globe. From my grandpa's things. He was one of the Keepers at the old Harrow Grange when he was a young man. There were ten lamps. He said nine had plain glass and one was red, and the red one was his.\n\nI asked him once what the red one was for. He said the others were for watching, and the red one was so they would know which house was watching back. Then he wouldn't talk about it anymore. Grandpa's in the care home now and doesn't need it.\n\nSome tarnish. Wick is old. Globe has NO cracks. Would look great in a den!\n\nShipping: $12, or local pickup.\n\n[b]Questions & Answers[/b]\n  Q: Can I pick it up tonight? Please leave it on your porch. I will pay extra. -- h***e\n  A: sure no problem\n\n  Q: Did your grandfather keep a book that went with it? -- h***e\n  A: no just the lamp. why\n\n[color=#999999]Seller's note added 10/11: Grandpa passed away yesterday. The lamp was gone off the porch by morning and no payment ever came. If you are reading this, I don't want your money. Please just tell me what it was for.[/color]"
+		},
+		{
+			"url": "members.webhaven.com",
+			"style": "plain",
+			"title": "WebHaven: Free Home Pages!",
+			"search": [
+				"webhaven",
+				"free home page",
+				"free web space",
+				"homepage hosting"
+			],
+			"body": "[center][b][color=#006699]WebHaven[/color][/b]\n20 MB free! No pop-ups! (Some pop-ups.)[/center]\n\n[b]Featured Member Pages[/b]\n  - [[members.webhaven.com/millbrookhistory|Harrow Grange No. 212: A History]]\n  - [[members.webhaven.com/blessedhearth|Blessed Hearth Homeschool]]\n  - [[members.webhaven.com/tribforce_fan|Tribulation Force Fan Page]]\n\n[color=#666666]Build your page in minutes with our easy PageMaker Wizard![/color]"
+		},
+		{
+			"url": "pnwrides.com",
+			"style": "forum",
+			"title": "PNWRides.com :: Forum Index",
+			"search": [
+				"pnwrides",
+				"car forum",
+				"pacific northwest cars",
+				"tuner forum"
+			],
+			"body": "[b]Show Off Your Ride[/b]\n  [[pnwrides.com/viewtopic-882|my rollback rims (PICS)]] ... abel_rollback ... 9 replies\n  98 civic, finally lowered ... boosted_civic ... 27 replies\n  VW meet at the Tacoma Dome lot? ... dubs_n_dubs ... 14 replies\n\n[b]Tech Talk[/b]\n  quiet exhaust recommendations? ... abel_rollback ... 0 replies\n\n[color=#555555]Who is online: 23 users. Keep it clean, keep it legal.[/color]"
+		},
+		{
+			"url": "bidhaus.com",
+			"style": "plain",
+			"title": "BidHaus: Buy It. Sell It. Love It.",
+			"search": [
+				"bidhaus home",
+				"online auctions",
+				"auction site"
+			],
+			"body": "[center][b][color=#cc0000]Bid[/color][color=#0033cc]Haus[/color][/b]\nMillions of items. Bid now![/center]\n\n[b]Ending Soon near Millbrook, WA[/b]\n  - Beanie Babies lot, 140+ ... $412.00 (3 bids)\n  - [[bidhaus.com/item-2208131|Antique Grange Lantern, RED GLASS, c. 1911]] ... [color=#990000]ENDED[/color]\n  - Nintendo 64 bundle ... $41.00\n\n[color=#666666]Pay with BidPal! Buyer protection on eligible items.[/color]"
+		},
+		{
+			"url": "clearskyclock.net",
+			"style": "plain",
+			"title": "Clear Sky Clocks for Amateur Astronomers",
+			"search": [
+				"clear sky clocks",
+				"astronomy forecast",
+				"clear sky clock home"
+			],
+			"body": "Forecasts of cloud cover, transparency and seeing, made for astronomers.\n\n[b]Washington[/b]\n  - [[clearskyclock.net/millbrook|Millbrook, WA]]\n  - Olympia, WA\n  - Tacoma, WA\n\n[color=#666666]Data from the Canadian Meteorological Centre. Clocks are made for astronomers, not for picnics.[/color]"
+		},
+		{
+			"url": "millbrookhigh.k12.wa.us",
+			"style": "plain",
+			"title": "Millbrook High School: Home of the Millers",
+			"search": [
+				"millbrook high",
+				"millbrook high school home",
+				"high school website",
+				"millers"
+			],
+			"body": "[center][b]MILLBROOK HIGH SCHOOL[/b]\nHome of the Millers! Go Green & Gold![/center]\n\n[b]Announcements[/b]\n  - Homecoming is October 29. Theme: \"Under the Sea.\"\n  - The Earth Science lab has a new telescope, donated in memory of nothing, just donated. Thanks, Mr. R!\n  - Seniors: senior photos are due Friday.\n\n[b]Links[/b]\n  - [[millbrookhigh.k12.wa.us/alumni|Alumni: Class News]]\n\n[color=#666666]Please do not park in the staff lot.[/color]"
+		},
+		{
+			"url": "harrowlanehoa.org/cams",
+			"hidden": true,
+			"nav": "harrowhoa",
+			"style": "hoa",
+			"title": "Community Safety Camera Network (Board Only)",
+			"source": "<!-- remote viewer: WebWatch DVR 3.1. ask Walt for the login -->",
+			"body": "For the safety and property values of our community, the Association maintains a network of safety cameras. [b]This page is for Board members only.[/b]\n\n  CAM-01 ... Harrow Ln, 400 block ... [color=#cc0000]OFFLINE[/color] (lens damaged by rock, 09/2004)\n  CAM-02 ... 412 Harrow Ln, parking lot & excavation ... ONLINE\n  CAM-03 ... 413 Harrow Ln, rear yard (Sec. 4.7 enforcement) ... ONLINE\n  CAM-04 ... 411 Harrow Ln, rear yard (new owner) ... ONLINE\n\n[b]Remote viewing[/b]\nAddress: [b]hoacam.harrowlanehoa.org[/b]\nUse any WebWatch-compatible DVR client (WebWatch Viewer, HomeGuard, etc.). Board members: ask Walt for the login.\n\n[color=#666666]Recordings are kept 30 days and reviewed Tuesday mornings.[/color]"
+		},
+		{
+			"url": "hoacam.harrowlanehoa.org",
+			"hidden": true,
+			"style": "plain",
+			"title": "WebWatch DVR 3.1: Remote Viewer",
+			"body": "[center][b]WebWatch DVR 3.1[/b]\nRemote Viewer[/center]\n\n[color=#990000]This page requires the WebWatch ActiveX control, which could not be loaded.[/color]\n\nTo view cameras, connect with a WebWatch-compatible DVR client (such as HomeGuard DVR) using this address and your login.\n\n[color=#666666]Site: HARROW LN HOA * 4 channels * Firmware 3.1.07[/color]"
+		},
+		{
+			"url": "webwatchdvr.com/support",
+			"style": "plain",
+			"title": "WebWatch DVR: Support & FAQ",
+			"search": [
+				"webwatch",
+				"webwatch dvr",
+				"dvr",
+				"dvr password",
+				"default password",
+				"security camera",
+				"cctv",
+				"camera login"
+			],
+			"body": "[b]WebWatch DVR: Frequently Asked Questions[/b]\n\n[b]Q: What is the default login for my WebWatch DVR?[/b]\nA: Every WebWatch DVR ships with the user name [b]admin[/b] and the password [b]watch[/b]. We STRONGLY recommend changing it during setup!\n\n[b]Q: Can I view my cameras from another computer?[/b]\nA: Yes! Any WebWatch-compatible client (WebWatch Viewer, HomeGuard DVR, and others) can connect using your DVR's address and login.\n\n[b]Q: My picture is green and grainy at night.[/b]\nA: That is night mode. That is normal.\n\n[color=#666666]WebWatch Security Systems * Made in Taiwan * 1-800-555-0199[/color]"
+		},
+		{
+			"url": "webwatchdvr.com",
+			"style": "plain",
+			"title": "WebWatch Security Systems",
+			"search": [
+				"webwatch security",
+				"webwatch home",
+				"security systems"
+			],
+			"body": "[center][b]WebWatch Security Systems[/b]\n\"Peace of mind, 24 hours a day.\"[/center]\n\nDigital video recorders for homes, businesses and communities.\n\n  - [[webwatchdvr.com/support|Support & FAQ]]\n\n[color=#666666]Now with remote viewing over the Internet![/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/warfare",
+			"nav": "church",
+			"style": "church",
+			"title": "Spiritual Warfare Ministry",
+			"search": [
+				"satanic",
+				"satanism",
+				"satanists",
+				"occult",
+				"spiritual warfare",
+				"satan",
+				"devil",
+				"prayer watch",
+				"occult crime",
+				"satan in suburbia",
+				"warning signs"
+			],
+			"source": "<!-- seminar slides are on Deputy Drury's zip disk. do not post them. -->",
+			"body": "[center][b][color=#990000]THE ENEMY IS NOT IN SOME FAR-OFF PLACE.\nHE IS ON YOUR STREET.[/color][/b][/center]\n\nSince 1985 our Spiritual Warfare Ministry has helped Millbrook's families recognize and resist occult activity in their own neighborhoods.\n\n[b]\"Satan in Suburbia\" Seminar[/b]\nPresented by {{Daniel Drury|name}}, Millbrook County Sheriff's Office, a certified occult crimes investigator. Learn what the police cannot say on the news. Adults only. Second Tuesday of every month, Fellowship Hall.\n\n[b]Warning Signs Your Child May Be Involved[/b]\n  - Role-playing games (Dungeons & Dragons, \"Magic\" cards)\n  - Heavy metal or \"alternative\" music, especially played backwards\n  - Books about wizards or \"harmless\" witchcraft\n  - Black clothing, candles, secretive journaling on the Internet\n  - An unusual interest in the night sky, astrology or \"astronomy\"\n\n[b]The Neighborhood Prayer Watch[/b]\nThe Watch meets nightly. Volunteers pray over assigned homes and write down anything unusual: lights on after midnight, red or colored lights, late visitors, and neighbors who refuse the reasonable requests of their Homeowners Association. All reports are shared with the Board and, where appropriate, with law enforcement.\n\n\"Report it to your HOA. Report it to the Watch. Let the Lord and the paperwork do the rest.\" -- Pastor Crane\n\n  - [[evangelicalsintl.org/tracts|Tracts, Tapes & Videos]]\n  - [[evangelicalsintl.org/judgement|Judgement House 2004]]"
+		},
+		{
+			"url": "evangelicalsintl.org/tracts",
+			"nav": "church",
+			"style": "church",
+			"title": "Tracts, Tapes & Videos",
+			"search": [
+				"tracts",
+				"backmasking",
+				"backward masking",
+				"vhs",
+				"dungeons and dragons",
+				"d&d",
+				"harry potter",
+				"heavy metal",
+				"christian videos",
+				"is your neighbor a satanist"
+			],
+			"body": "[b]Order Form[/b]  (make checks payable to Crane Holdings LLC)\n\n  [b]VHS[/b] \"The Devil in Your Child's Toybox\" (1988, 94 min) ... $19.95\n  [b]VHS[/b] \"Satan in Suburbia: The Seminar\" w/ Dep. Daniel Drury (1996) ... $24.95\n  [b]Cassette[/b] \"Backward Masking Unmasked\" (hear the hidden messages for yourself!) ... $7.95\n  [b]Tract[/b] \"Dungeons & Demons\" (pack of 50) ... $4.00\n  [b]Tract[/b] \"Hogwarts or Hellfire?\" (NEW for 2001!) ... $4.00\n  [b]Tract[/b] \"Is Your Neighbor a Satanist? 13 Warning Signs\" (pack of 50) ... $4.00\n\n[b]From \"Is Your Neighbor a Satanist?\"[/b]\n  #4  Keeps unusual hours. Lights on at 3 AM.\n  #7  Displays red lights outdoors.\n  #9  Has many visitors, or none at all.\n  #11 Refuses to cooperate with the Homeowners Association.\n  #13 Has recently moved in, and asks questions.\n\n[color=#666666]Bulk discounts for Judgement House churches. Allow 4 to 6 weeks for delivery.[/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/judgement",
+			"nav": "church",
+			"style": "church",
+			"title": "JUDGEMENT HOUSE 2004",
+			"search": [
+				"judgement house",
+				"judgment house",
+				"hell house",
+				"halloween",
+				"haunted house",
+				"october 31",
+				"halloween millbrook",
+				"things to do halloween"
+			],
+			"source": "<!-- 10/31: last group through by 11:00. Horns only after. Lower hall doors LOCKED from 11:30. -->",
+			"body": "[center][b][color=#990000]JUDGEMENT HOUSE 2004[/color][/b]\nOctober 29, 30 & 31 * 7 to 11 PM * 412 Harrow Lane\n[i]\"Halloween is the Devil's night. Spend it with us.\"[/i][/center]\n\nOur 18th year! Walk through the rooms and SEE where the choices of today's youth lead:\n  Room 1 ... The Party (drinking, rock music)\n  Room 2 ... The Crash\n  Room 3 ... The Game (a Dungeons & Dragons session gone too far)\n  Room 4 ... The Ritual (not recommended for children under 12)\n  Room 5 ... Hell\n  Room 6 ... The Choice\n\nTickets $5 at the door. Youth groups of 10 or more FREE. Last group through at 11:00 PM.\n\n[b]Volunteers needed![/b] Robes and candles provided. See Sister Lydia.\n\nOn the night of the 31st, after the last group, the Board will hold a private service of dedication. Families are asked to go home and keep their lights off.\n\n[color=#666666]Please park on the street. The back lot is closed for construction.[/color]"
+		},
+		{
+			"url": "evangelicalsintl.org/forum/horns",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "On the Ten Horns (for the new brothers)",
+			"body": "[b]horn_i[/b] wrote:\nFor the new brothers who have come up from the Prayer Watch, since you keep asking.\n\nDownstairs, the congregation fights the Devil. They are sincere, and their fear built this church. Let them keep it. Fear fills pews. Fear sells houses.\n\nUp here, you have read the thirteenth chapter of Revelation the other way round, and you know whose head the ten horns are on. Each horn holds a door: a street, a trade, a ledger, a deed. Every deed signed over to Crane Holdings is signed twice, once for the county and once for the Landlord.\n\nWhen all ten points of the star are His, the Landlord takes possession, and the Pastor will not be the only one who is paid.\n\nUntil then, keep your lawns neat and your paperwork in order. He does not come for the untidy.\n\n[b]newbrother_d[/b] wrote:\nwhat happens when He takes possession\n\n[b]horn_i[/b] wrote:\nYou will stop needing to ask."
+		},
+		{
+			"url": "evangelicalsintl.org/forum/star",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "the star",
+			"body": "[b]horn_v[/b] wrote:\nConnector progress for the Board. Ten parcels, ten points of the star, drawn point down the way the Pastor likes it. Five points and five crossings, with the Well in the middle.\n\n  POINTS                     CROSSINGS\n  401 Harrow ..... lit       10 Birch Ct ..... lit\n  403 Harrow ..... lit       14 Birch Ct ..... lit\n  405 Harrow ..... lit       16 Birch Ct ..... lit\n  407 Harrow ..... lit       18 Birch Ct ..... lit\n  [b]413 Harrow ..... dark[/b]      [b]411 Harrow ..... dark[/b]\n\nThe bottom point is 413. The crossing just above it is 411.\n\nEight points lit. Tunnel runs under all eight. Phase 2 reaches under the street to 411, forty feet from the Well. 413 we can reach from Rennick's side once he's out.\n\n[b]horn_vii[/b] wrote:\nDeeds for eight are recorded and stamped. I can close 411 and 413 in a day once they sign. Naomi will come in on a Sunday.\n\n[b]horn_ii[/b] wrote:\n411 keeps paying his fines. So does 413.\n\n[b]E.C.[/b] wrote:\nThen stop asking them for money."
+		},
+		{
+			"url": "evangelicalsintl.org/forum/31st",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "the 31st",
+			"body": "[b]horn_x[/b] wrote:\nI'd like Hannah to stay upstairs on the 31st. She can run the Judgement House ticket table. She still thinks the robes in Room 4 are costumes.\n\n[b]horn_viii[/b] wrote:\nThomas is coming down. He is younger than Hannah.\n\n[b]horn_x[/b] wrote:\nThomas isn't a girl who still says her prayers every night, Gideon.\n\n[b]E.C.[/b] wrote:\nEvery one of you was younger than Hannah the first time you came down. Amos, you most of all. She will be downstairs, or her policy will be.\n\n[b]bookkeeper[/b] wrote:\nReminder: the last Judgement House group is out by 11:00. Lydia's volunteers take the robes home. The ones worn downstairs are not the same robes."
+		},
+		{
+			"url": "evangelicalsintl.org/forum/deliverance",
+			"hidden": true,
+			"nav": "hour",
+			"style": "hour",
+			"title": "Pine Hollow",
+			"body": "[b]horn_iv[/b] wrote:\nSister R. is in deliverance at Pine Hollow. Sister Joan's memory work is going well. R. now \"remembers\" her mother taking her to meetings in the woods as a small child, with candles, and other things we can put in a report.\n\nWhen the file is complete, Deputy Drury will take it to the county. The mother will have more to worry about than our gate.\n\n[b]bookkeeper[/b] wrote:\nGood. Keep it in the congregation's words. They believe it. That is what made it work in '86."
+		},
+		{
+			"url": "millbrookledger.com/archive/1986-daycare",
+			"style": "news",
+			"title": "Harrow Lane daycare closed amid 'ritual' claims (November 1986)",
+			"search": [
+				"daycare",
+				"day care",
+				"little lambs",
+				"lindqvist",
+				"carol lindqvist",
+				"ritual abuse",
+				"satanic ritual abuse",
+				"1986",
+				"satanic panic",
+				"405 harrow"
+			],
+			"body": "The county has closed Little Lambs Home Daycare at 405 Harrow Lane after several parents made what a sheriff's spokesman called \"allegations of a ritualistic nature\" against its owner, Carol Lindqvist, 38.\n\nThe allegations surfaced after a Halloween prayer meeting at the church on Harrow Lane, where Sunday school teacher {{Joan Finch|name}} had been \"helping the little ones talk about their bad dreams,\" according to one parent.\n\nDeputy {{Daniel Drury|name}}, who has lectured locally on occult crime, said the case bore \"every hallmark\" of organized Satanism. Asked for physical evidence, Drury said: \"These people are very, very good at hiding it.\"\n\nLindqvist, who has run the daycare for nine years, has not been charged. Her attorney called the claims \"a moral panic with a church potluck attached.\""
+		},
+		{
+			"url": "millbrookledger.com/archive/1988-lindqvist",
+			"style": "news",
+			"title": "Charges dropped against daycare owner (March 1988)",
+			"search": [
+				"lindqvist charges dropped",
+				"1988",
+				"daycare case",
+				"carol lindqvist 1988",
+				"crane holdings 1988"
+			],
+			"body": "The county prosecutor has dropped all charges against Carol Lindqvist, the former owner of Little Lambs Home Daycare, after sixteen months and no physical evidence.\n\nLindqvist no longer lives in Millbrook. Her home at 405 Harrow Lane was sold last fall to cover legal costs. County records list the buyer as {{Crane Holdings LLC|org}}, a company registered in 1987.\n\nDeputy Daniel Drury, who led the investigation, said he was \"disappointed but not surprised.\" \"The absence of evidence is how you know they're good at it,\" he said.\n\nRev. Elias Crane, whose congregation held prayer vigils outside the daycare throughout 1987, declined to comment, but sent the Ledger a tract titled \"Is Your Neighbor a Satanist?\""
+		},
+		{
+			"url": "millbrookledger.com/archive/1991-apology",
+			"style": "news",
+			"title": "Editorial: We owe Carol Lindqvist an apology (October 1991)",
+			"search": [
+				"apology",
+				"editorial",
+				"ledger apology",
+				"1991",
+				"we got it wrong"
+			],
+			"body": "Five years ago this month, this newspaper ran eleven front-page stories about \"satanic ritual abuse\" at a Harrow Lane daycare. We quoted a sheriff's deputy, a Sunday school teacher and a pastor. We did not quote a single piece of evidence, because there was none.\n\nCarol Lindqvist lost her business, her house and her good name. The people who accused her lost nothing. One of them bought her house.\n\nWe did not ask who benefited. We should have. We owe Ms. Lindqvist an apology, and we are making it here, too late to matter.\n\n-- The Editors"
+		}
+	]
+}
