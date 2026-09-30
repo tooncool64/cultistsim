@@ -108,16 +108,20 @@ offer. He chose everything, and would choose it all again ("That is why He picke
   body in 1931. The ritual is meant to give it its body back.
 
 ## The two tiers
-- **The congregation and the seven** (Aldous Vole, Nathaniel Drury, Samuel Pell, Isaac Mercer,
+- **The congregation and the eight** (Aldous Vole, Nathaniel Drury, Samuel Pell, Isaac Mercer,
   Jeremiah Coyle, Gideon Ashby, Harold Finch and Amos Kettering, with Nathaniel shut out of the
   Upper Room) sincerely fight the Devil. The Board members believe they are "the Lord's ten kings"
   (Revelation 17 read the Pastor's way), dedicating the lane. They are **the doors** and don't know
   it. Amos wrote a policy on his own daughter Hannah in July without knowing why he was asked to.
+  The Board is ten men. Walter and Levi know what the deeds are for and the other eight don't, which
+  is where the ten hands at 1:00 AM come from (the Upper Room thread is `forum/upper/seven`, titled
+  "the eight").
 - **The Upper Room** (hidden forum, four members):
   - **E.C.**
   - **horn_ii**, Walter Greaves: wants what Pruitt was promised, for Lydia.
-  - **horn_vii**, Levi Strand: Harlan's grandson; "I do the paperwork." He is also the notary on the
-    liens.
+  - **horn_vii**, Levi Strand: Harlan's grandson; "I do the paperwork." Strand Title has two
+    notaries: Levi stamps the HOA liens himself (as collections agent) and his wife **Naomi (née
+    Pruitt)** stamps the deeds, assignments and withdrawal letters, Sundays included.
   - **watchman**, Deputy Daniel Drury: not on the Board; wants to "hold Him" and point Him at evil.
 
   Each believes he'll be the one holding the Beast afterwards.
@@ -131,7 +135,7 @@ offer. He chose everything, and would choose it all again ("That is why He picke
 | Time | What happens |
 |---|---|
 | 11:30 PM | The three from the Pine Hollow deliverance wing (M. Tate, R. Pell, D. Kirsch) go into the lower room. |
-| 1:00 AM | Ten deeds are laid on the brick by ten hands, seven of them not knowing what they sign. A door has to be opened by its owner. **411 and 413 must be signed by then.** |
+| 1:00 AM | Ten deeds are laid on the brick by ten hands, eight of them not knowing what they sign. A door has to be opened by its owner. **411 and 413 must be signed by then.** |
 | 2:00 AM | Walter sees that 413's red lamp is out, or that 413 is. |
 | 3:00 AM | Crane goes down. Levi brings the Grange's red lamp up from the vault, and Crane breaks it on the brick. |
 | 3:15 AM | The three are given. If He asks for more, there's Hannah's policy. |
@@ -153,8 +157,9 @@ solid hit kills** (no health).
   by the front door. A true believer climbs the back fence, walks in through the back door (it has
   no lock) and hides under the bed. The power comes back, the player sits down again, and he rises
   behind them and hits them with a brick. They wake at about 11:40 PM with the deed gone.
-- **Levi won't sign it.** The finished chart names him as the notary on the liens. Afraid of
-  Monday's story, he refuses to forge the player's signature or notarize one. So in the solved route
+- **Levi won't sign it.** The finished chart names him as the notary on the liens and his wife as
+  the notary on the deeds. Afraid of Monday's story, he refuses to forge the player's signature and
+  won't let Naomi stamp one either. So in the solved route
   the deed on the brick is **stolen and unsigned**.
 - **Unsolved:** the deed is stolen too, and Levi forges the signature.
 
@@ -179,7 +184,7 @@ solid hit kills** (no health).
 7. **Fight 2: the mutated Beast.** Red light only stuns it for a few seconds; the shotgun does the
    work. It dies, and the spirit is cast out. At 4:00 nothing rises.
 8. **Monday, November 1.** The front page runs. Evangelicals International is shut down. **Walter
-   and Levi** let themselves be arrested and testify against the church, because the other seven
+   and Levi** let themselves be arrested and testify against the church, because the other eight
    Board members are still using controlling and illegal tactics to grow it. **A church archive is
    found** (a door left open for future lore). Paul sends a postcard.
 
