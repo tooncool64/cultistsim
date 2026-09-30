@@ -11,6 +11,31 @@ The player is the Ledger's night reporter on the Harrow Lane beat, hired in Marc
 Friday. The first Harrow Lane story runs in the **Monday, November 1** edition, filed by midnight
 on the 31st.
 
+## Where the planned lore is seeded (2026-09-30)
+The finale's planned beats now have clues in sites.json. None of these pages show the Beast.
+- **The False Prophet and "the dog":** `forum/upper/dog` ("whose dog"). E.C. names Revelation 13:11
+  and calls the Beast a gate; Walter calls it Fido; Levi's grandmother says Harlan wrote on his slate that
+  "it had no body and it wanted one." Miriam also tells the Tribulation Force fan to read verse eleven.
+- **Hannah as the vessel:** in the same thread E.C. wants "a younger one" and says "He likes a clean
+  house." Drury balks ("She was in my Sunday school class"), which is his first crack.
+- **Drury and Tobias:** `forum/upper/hold`: Tobias was his great-grandfather.
+- **The red lamp's rule:** `keepers_book_p01.jpg` now says that while the red glass is whole He can't
+  come up in the body. `~0315` now ends "it can only be broken."
+- **Where the lamp went (night 6):** the blotter for 10/09 at 3:30 AM has a sedan registered to Strand
+  Title taking "something that glowed" off a porch on Oyler Rd. WS_FTP.LOG shows `lamp_red.jpg` uploaded
+  at 3:52 from `LStrand\My Scans\vault\`. The SOS entry for Strand Title lists a records vault at
+  403 Harrow.
+- **The Grange shaft under the shed:** 411 was the Oyler house (Clarence and Wendell, 1946 to 2003). Wendell
+  built the shed in 1952 over a shaft that meets the east passage and bricked it himself in 1974. See
+  `millbrookcounty.gov/assessor/411-harrow`, the 1974 Ledger story and the 2003 Watch schedule.
+  The red lamp was kept by the Keeper nearest the Well, and that was the Oylers, 40 ft from the cistern.
+- **Crane's true believers:** Pine Hollow lots 24 to 40 ("the Pastor's own men"); shotgun fire on the
+  blotter for 10/13; `millbrookgripes.com/route9-sporting`, where they bought out the buckshot. One of
+  them has a wet sore at the mouth, and they won't come near red curtains.
+- **The revolver:** Wendell's Colt Police Positive .38, bought November 1931, for sale on Ron's page
+  (local pickup only).
+- **The church archive:** `robots.txt` now disallows `/archive/`. E.C. says it stays in the building.
+
 ## What's under the lane
 - **The Well** is a brick cistern under 412 (the old Harrow Grange hall), older than the Grange.
   A brick passage runs east from it under Harrow Lane.
