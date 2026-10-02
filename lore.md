@@ -11,6 +11,32 @@ The player is the Ledger's night reporter on the Harrow Lane beat, hired in Marc
 Friday. The first Harrow Lane story runs in the **Monday, November 1** edition, filed by midnight
 on the 31st.
 
+## Where the planned lore is seeded (2026-09-30)
+The finale's planned beats now have clues in sites.json. None of these pages show the Beast.
+- **The False Prophet and "the dog":** `forum/upper/dog` ("whose dog"). E.C. names Revelation 13:11
+  and calls the Beast a gate; Walter calls it Fido; Levi's grandmother says Harlan wrote on his slate that
+  "it had no body and it wanted one." Miriam also tells the Remnant Brigade fan to read verse eleven.
+- **Hannah as the vessel:** in the same thread E.C. wants "a younger one" and says "He likes a clean
+  house." Drury balks ("She was in my Sunday school class"), which is his first crack.
+- **Drury and Tobias:** `forum/upper/hold`: Tobias was his great-grandfather.
+- **The red lamp's rule:** `keepers_book_p01.jpg` now says that while the red glass is whole He can't
+  come up in the body. `~0315` now ends "it can only be broken."
+- **Where the lamp went (night 6):** the blotter for 10/09 at 3:30 AM has a sedan registered to Strand
+  Title taking "something that glowed" off a porch on Oyler Rd. FTP_LOG.TXT shows `lamp_red.jpg` uploaded
+  at 3:52 from `LStrand\My Scans\vault\`. The SOS entry for Strand Title lists a records vault at
+  403 Harrow.
+- **The Grange shaft under the shed:** 411 was the Oyler house (Clarence and Wendell, 1946 to 2003). Wendell
+  built the shed in 1952 over a shaft that meets the east passage and bricked it himself in 1974. See
+  `millbrookcounty.gov/assessor/411-harrow`, the 1974 Ledger story and the 2003 Watch schedule.
+  The red lamp was kept by the Keeper nearest the Well, and that was the Oylers, 200 ft from the cistern.
+- **Crane's true believers:** Pine Hollow lots 24 to 40 ("the Pastor's own men"); shotgun fire on the
+  blotter for 10/13; `millbrookgripes.com/route9-sporting`, where they bought out the buckshot. One of
+  them has a wet sore at the mouth. They ask about red, but it doesn't stop them: he walked right
+  past a widow's red kitchen curtains ("red never stopped anybody who meant it").
+- **The revolver:** Wendell's Hartford Police Special .38, bought November 1931. Ron's page lists it as
+  SOLD "to the new guy who bought Grandpa's old house": it is the player's revolver on the office desk.
+- **The church archive:** `robots.txt` now disallows `/archive/`. E.C. says it stays in the building.
+
 ## What's under the lane
 - **The Well** is a brick cistern under 412 (the old Harrow Grange hall), older than the Grange.
   A brick passage runs east from it under Harrow Lane.
@@ -77,8 +103,10 @@ There are several red lights in the story, and they are not the same thing.
   lets the Beast come up into the passages and the Well.
   - In the finale **the player never sees it**. They hear it: a crack through the brick at 3:00, far
     off, then the hum rising, then the Beast.
-  - It's a night 6 goal to find out where it went (bidhaus.com/item-2208131), so the player knows
-    exactly what that sound was.
+  - It's a night 6 goal to find out where it went, so the player knows exactly what that sound was.
+    The BidHaus listing starts the trail; the goal is `evangelicalsintl.org/images/lamp_red.jpg`, a
+    photo of the lamp on the church's server whose JPEG comment reads "403 vault, shelf B. Do not
+    light." (FTP_LOG.TXT shows it came from `LStrand\My Scansault\`.)
 
 ### Paul's red lamp (413)
 - Paul Rennick's "red observing lamp" in his backyard, "the dimmest light on the street". The HOA
@@ -108,30 +136,34 @@ offer. He chose everything, and would choose it all again ("That is why He picke
   body in 1931. The ritual is meant to give it its body back.
 
 ## The two tiers
-- **The congregation and the seven** (Aldous Vole, Nathaniel Drury, Samuel Pell, Isaac Mercer,
+- **The congregation and the eight** (Aldous Vole, Nathaniel Drury, Samuel Pell, Isaac Mercer,
   Jeremiah Coyle, Gideon Ashby, Harold Finch and Amos Kettering, with Nathaniel shut out of the
   Upper Room) sincerely fight the Devil. The Board members believe they are "the Lord's ten kings"
   (Revelation 17 read the Pastor's way), dedicating the lane. They are **the doors** and don't know
   it. Amos wrote a policy on his own daughter Hannah in July without knowing why he was asked to.
+  The Board is ten men. Walter and Levi know what the deeds are for and the other eight don't, which
+  is where the ten hands at 1:00 AM come from (the Upper Room thread is `forum/upper/seven`, titled
+  "the eight").
 - **The Upper Room** (hidden forum, four members):
   - **E.C.**
   - **horn_ii**, Walter Greaves: wants what Pruitt was promised, for Lydia.
-  - **horn_vii**, Levi Strand: Harlan's grandson; "I do the paperwork." He is also the notary on the
-    liens.
+  - **horn_vii**, Levi Strand: Harlan's grandson; "I do the paperwork." Strand Title has two
+    notaries: Levi stamps the HOA liens himself (as collections agent) and his wife **Naomi (née
+    Pruitt)** stamps the deeds, assignments and withdrawal letters, Sundays included.
   - **watchman**, Deputy Daniel Drury: not on the Board; wants to "hold Him" and point Him at evil.
 
   Each believes he'll be the one holding the Beast afterwards.
 - **Crane's true believers (planned)**: a third group, separate from the congregation, gathered by
   Crane himself. They know what's under the lane and want it. They are armed and fight back. They
-  don't appear until Halloween. (Seed them in sites.json first, e.g. from the Pine Hollow
-  deliverance wing.)
+  don't appear until Halloween. Seeded as Pine Hollow lots 24 to 40 (see "Where the planned lore
+  is seeded").
 - **Miriam Vole (née Hale)** has read the whole book. She is "the last one who can still choose".
 
 ## The 10/31 plan (the true order, `forum/upper/order`)
 | Time | What happens |
 |---|---|
 | 11:30 PM | The three from the Pine Hollow deliverance wing (M. Tate, R. Pell, D. Kirsch) go into the lower room. |
-| 1:00 AM | Ten deeds are laid on the brick by ten hands, seven of them not knowing what they sign. A door has to be opened by its owner. **411 and 413 must be signed by then.** |
+| 1:00 AM | Ten deeds are laid on the brick by ten hands, eight of them not knowing what they sign. A door has to be opened by its owner. **411 and 413 must be signed by then.** |
 | 2:00 AM | Walter sees that 413's red lamp is out, or that 413 is. |
 | 3:00 AM | Crane goes down. Levi brings the Grange's red lamp up from the vault, and Crane breaks it on the brick. |
 | 3:15 AM | The three are given. If He asks for more, there's Hannah's policy. |
@@ -153,8 +185,9 @@ solid hit kills** (no health).
   by the front door. A true believer climbs the back fence, walks in through the back door (it has
   no lock) and hides under the bed. The power comes back, the player sits down again, and he rises
   behind them and hits them with a brick. They wake at about 11:40 PM with the deed gone.
-- **Levi won't sign it.** The finished chart names him as the notary on the liens. Afraid of
-  Monday's story, he refuses to forge the player's signature or notarize one. So in the solved route
+- **Levi won't sign it.** The finished chart names him as the notary on the liens and his wife as
+  the notary on the deeds. Afraid of Monday's story, he refuses to forge the player's signature and
+  won't let Naomi stamp one either. So in the solved route
   the deed on the brick is **stolen and unsigned**.
 - **Unsolved:** the deed is stolen too, and Levi forges the signature.
 
@@ -179,7 +212,7 @@ solid hit kills** (no health).
 7. **Fight 2: the mutated Beast.** Red light only stuns it for a few seconds; the shotgun does the
    work. It dies, and the spirit is cast out. At 4:00 nothing rises.
 8. **Monday, November 1.** The front page runs. Evangelicals International is shut down. **Walter
-   and Levi** let themselves be arrested and testify against the church, because the other seven
+   and Levi** let themselves be arrested and testify against the church, because the other eight
    Board members are still using controlling and illegal tactics to grow it. **A church archive is
    found** (a door left open for future lore). Paul sends a postcard.
 
