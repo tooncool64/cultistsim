@@ -1,288 +1,283 @@
 # 411 Harrow Lane: lore bible
 
-**Canon is `data/sites.json`** (rewritten by the author, 2026-09-28). This file summarizes it. Where
-they disagree, sites.json wins.
-
-Sections marked **(planned)** are the author's decisions for the finale (2026-09-29). They are not
-in sites.json yet, and the site text needs to catch up with them before they're built.
+**Canon is `data/sites.json`**, except where this file marks something **(new canon, 2026-10-02)**.
+Those sections replace the old Revelation and red-light lore, and the site text still needs to catch
+up with them (see "Pages that contradict the new canon" at the end). Items marked **OPEN** haven't
+been decided yet. Items marked **(suggestion)** are ideas, not decisions.
 
 The player is the Ledger's night reporter on the Harrow Lane beat, hired in March 2003, living at
 411 Harrow Lane. The game covers October 15 to 31, 2004. The Ledger publishes Monday, Wednesday and
 Friday. The first Harrow Lane story runs in the **Monday, November 1** edition, filed by midnight
 on the 31st.
 
-## Where the planned lore is seeded (2026-09-30)
-The finale's planned beats now have clues in sites.json. None of these pages show the Beast.
-- **The False Prophet and "the dog":** `forum/upper/dog` ("whose dog"). E.C. names Revelation 13:11
-  and calls the Beast a gate; Walter calls it Fido; Levi's grandmother says Harlan wrote on his slate that
-  "it had no body and it wanted one." Miriam also tells the Remnant Brigade fan to read verse eleven.
-- **Hannah as the vessel:** in the same thread E.C. wants "a younger one" and says "He likes a clean
-  house." Drury balks ("She was in my Sunday school class"), which is his first crack.
-- **Drury and Tobias:** `forum/upper/hold`: Tobias was his great-grandfather.
-- **The red lamp's rule:** `keepers_book_p01.jpg` now says that while the red glass is whole He can't
-  come up in the body. `~0315` now ends "it can only be broken."
-- **Where the lamp went (night 6):** the blotter for 10/09 at 3:30 AM has a sedan registered to Strand
-  Title taking "something that glowed" off a porch on Oyler Rd. FTP_LOG.TXT shows `lamp_red.jpg` uploaded
-  at 3:52 from `LStrand\My Scans\vault\`. The SOS entry for Strand Title lists a records vault at
-  403 Harrow.
-- **The Grange shaft under the shed:** 411 was the Oyler house (Clarence and Wendell, 1946 to 2003). Wendell
-  built the shed in 1952 over a shaft that meets the east passage and bricked it himself in 1974. See
-  `millbrookcounty.gov/assessor/411-harrow`, the 1974 Ledger story and the 2003 Watch schedule.
-  The red lamp was kept by the Keeper nearest the Well, and that was the Oylers, 200 ft from the cistern.
-- **Crane's true believers:** Pine Hollow lots 24 to 40 ("the Pastor's own men"); shotgun fire on the
-  blotter for 10/13; `millbrookgripes.com/route9-sporting`, where they bought out the buckshot. One of
-  them has a wet sore at the mouth. They ask about red, but it doesn't stop them: he walked right
-  past a widow's red kitchen curtains ("red never stopped anybody who meant it").
-- **The revolver:** Wendell's Hartford Police Special .38, bought November 1931. Ron's page lists it as
-  SOLD "to the new guy who bought Grandpa's old house": it is the player's revolver on the office desk.
-- **The church archive:** `robots.txt` now disallows `/archive/`. E.C. says it stays in the building.
-- **The guestbook removal log (2026-10-02):** the public guestbook only shows friendly entries now.
-  The removed ones (Rosa, Esther's "E.", the excavator neighbor, Carol L., and Paul's 2003 "two
-  ledgers" post) are at `evangelicalsintl.org/cgi-bin/guestbook.pl`, linked from the `/cgi-bin/`
-  403 page. Each shows who N.D. forwarded it to.
-- **The pie quiz's question 3:** `millbrooktalk.net/viewtopic-5141`: someone from "the church on
-  Harrow" emailed pizzagod88 and asked him to remove "pick a board member".
+## The player (new canon)
+- On the night of **October 14, 2004**, the night before the game starts, the player has a dream that
+  disturbs them so badly that they call their editor the next morning and pitch the Harrow Lane
+  investigation. **OPEN:** what the dream was.
+- Since then the player **refuses to sleep through the night**, so the entity can't reach them. They
+  work nights, nap in daylight and drink a lot of coffee.
+- So every scare has two readings: it really happened, or the player is exhausted and hallucinating.
+  The game should never settle which one, at least until Halloween.
+  - **(suggestion)** Let tiredness be a soft mechanic: the longer the player goes without rest, the
+    more often the ambiguous scares happen. A daytime nap is safe; sleeping through 3 AM isn't.
 
-## What's under the lane
-- **The Well** is a brick cistern under 412 (the old Harrow Grange hall), older than the Grange.
-  A brick passage runs east from it under Harrow Lane.
-- **The Beast** is the one John saw rising out of the sea (Revelation 13), with seven heads and ten
-  horns. It lives in the black water under the brick. It cannot take anything that isn't given. It
-  asks through men for a field, a house, a signature or a child. Every gift is a **door**.
-- It rises at **3:15 AM**. You can hear it in the ground.
-- **Red light** holds it. Under red light it can't walk, can't speak into a man's ear, and can't
-  move a hand that isn't its own. It can only wait. A hand that *is* its own owner's (someone who
-  chose all this freely) isn't held by red light at all.
-- These rules come from **The Book of the Watch** (Harrow Grange No. 212), written by C. Hale,
-  Master, June 21, 1911.
+## What's under the lane (new canon)
 
-### What the Beast is for (planned)
-- The Beast is not the point. It is **the way in**. Its job is to open the ground for **the False
-  Prophet**, the second beast of Revelation 13, the one that comes up **out of the earth**. The False
-  Prophet in turn prepares the way for **the Antichrist**. That, not the lane, is Crane's real goal,
-  and the ultimate evil of the story.
-- The Upper Room talks about the Beast the way you'd talk about a pet: **"the guard dog"**, **"Fido"**.
-  They use those names on their forum, in their emails and in their papers. The game itself always
-  calls it the Beast.
-- **Ten doors.** When ten doors have been given, the way opens and the False Prophet's body can come
-  up through the earth. It shows itself as **a giant hand reaching out of the ground** at the brick.
-  The rule still holds even for it: a door that was stolen, or signed by a hand that isn't the
-  owner's, **isn't given**. The hand knows the difference.
+### The ground
+- Under Millbrook there's a vast system of **lava tubes**: old volcanic tunnels, black basalt,
+  mostly flooded, warm at depth. Nobody has mapped them.
+- Something **abyssal and primordial** is sealed deep in the earth, close to these tubes, with other
+  primordial monsters that were sealed in with it. It went **dormant**, and it has **woken up**.
+  - **OPEN:** what sealed it, why it went dormant, and when and why it woke. (Options: the 1860s
+    well disturbed it; it has woken a little more with every dig; it never fully slept.)
+- **It wants out.** It can't dig itself free, so it gets people to dig for it. Every hole on Harrow
+  Lane, from the 1860s well to the Grange passages to Mercer's 2004 excavation, was somebody's own
+  idea, or so they thought. It wants to be dug out of the earth.
+- **"Fido"** is one of the lesser monsters sealed in with it. It found its way up through the
+  tubes to the Well, and it's what the Upper Room calls "the guard dog." It's the thing people hear
+  and the thing that hunts. It is **not** the entity. Fido is the dog; the entity is far below.
+- **Light.** Abyssal things fear and hate light, any kind of light. Fido can't stand it, and the
+  entity hates it too. This is why the Grange kept lamps lit all night. In gameplay, the player's
+  **flashlight** does the job the red lantern used to do.
 
-## The Grange (1911 to 1974)
-- **Chartered** June 21, 1911, by nine families. There were ten Keepers with ten brass lamps, one
-  for each door, lit from dusk to dawn. The red lamp belonged to the Keeper nearest the Well. It
-  must never be put out, and never be sold, only given.
-- **Halloween 1931.** Pruitt argued that the Beast pays well for what's given, so four Keepers
-  (Pruitt, Strand, Coyle and Drury) put out their lamps and went down together. Four doors were
-  not enough.
-  - Harlan Strand was "given". He was found in the cistern and lived eleven years in a back
-    bedroom with every lamp burning.
+### How it reaches people
+The entity works through two tiers of influence, and it uses both to get itself free.
+
+1. **Sleepers dream.** Anyone who sleeps near the Well can be reached in their dreams. The effect is
+   slow and cumulative, and it gets stronger the closer they sleep and the longer they live there.
+   They start wanting things: to dig, to buy, to stay, to bring others. They think the ideas are
+   their own.
+2. **Drinkers change.** Anyone who has drunk water from the Well is reached much more strongly, and
+   unpredictably. The water does things to the mind and the body that nobody can predict, and the
+   entity doesn't fully control it either.
+   - Seeded already: Crane's true believers at Pine Hollow, one of whom "has a wet sore at the
+     mouth"; the "frothing" believers in the finale notes; Coyle's hands "burned black" in 1931.
+   - **(suggestion)** Body effects could include: never feeling warm, wet sores, sleepwalking
+     toward the Well, hearing the 3:15 hum when nobody else can, knowing things they shouldn't.
+
+- **The 3:15 hum.** Something happens under the lane every night from 3:15 to 3:21, and Bill's
+  seismometer shows it getting stronger every night toward the 31st.
+  - **OPEN:** what the hum is now. (Options: the entity's dreaming at its peak, Fido moving in the
+    tubes, or the sound of whatever the diggers are getting close to.)
+
+### Deeds and doors
+- The old rule, "it cannot take what is not given," **is no longer a real rule.** It's what the
+  Grange and the Upper Room *believe*, because they read the whole thing through Revelation.
+- The church buys up the lane for practical reasons: to control the land above the dig, keep the
+  county and the neighbors out, and pack the lane with sleepers who can be reached (church
+  families, Harvest Fellowship workers, the Birch Court duplexes).
+- **OPEN:** whether any version of "given" still matters, for example whether a person has to
+  drink the water willingly.
+
+## History (new canon dates)
+
+### The well (1860s)
+- A homestead family dug a well on the site of the old Harrow spring in the **1860s**. The diggers
+  went deeper than they needed to and broke into the top of the lava tubes. **OPEN:** the family's
+  name, and what happened to the diggers. (The brick cistern is what's left of their work.)
+- The well was used for years, until the water went foul. **(suggestion)** By then the family had
+  been drinking it. That's the first tier-2 story: a homestead record, a letter or an inquest that
+  the player can find.
+
+### The Grange (1911 to 1974)
+- **Chartered** June 21, 1911, by nine families, on the site of the old well. They knew something
+  was down there and read it as the Beast of Revelation 13. That reading is wrong, but the practical
+  rules they worked out were mostly right: keep it lit, don't drink, don't dig.
+- There were ten Keepers with ten brass lamps, lit dusk to dawn. The lamps were light against the
+  dark, nothing more. **OPEN:** what happens to the red lamp (see "The red lamp" below).
+- **Halloween 1931.** Pruitt argued that it pays well, so four Keepers (Pruitt, Strand, Coyle and
+  Drury) put out their lamps and went down together.
+  - Harlan Strand was found in the cistern and lived eleven years in a back bedroom with every lamp
+    burning. He wrote one thing on his slate: "it had no body and it wanted one." **OPEN:** does
+    that line still fit, now that the entity wants out rather than a body? It could be Fido, or
+    Harlan could simply have been wrong.
   - Tobias Drury vanished into the east passage. His lamp was found melted inward.
   - Coyle's hands were burned black.
   - Pruitt came back up and prospered. His line runs to Gary Pruitt, and then to Lydia Greaves.
-  - W. (Wendell) Oyler kept the red lamp lit.
-  - **(planned)** What they called up that night was **the False Prophet's spirit**. With only four
-    doors it came without a body, and it has been waiting under the lane ever since for one.
+    **(suggestion)** Pruitt drank. His family's luck is the entity's influence.
+  - W. (Wendell) Oyler kept his lamp lit.
+- **May 1974:** the county survey finds the cistern water black, the depth unsoundable ("a weighted
+  line went out 60 ft and came back dry"), and the brick at the junction warm and wet. All of this
+  fits lava tubes.
 - **The last meeting** was June 21, 1974, and the vote to brick over the cistern and passage was
-  11 to 0. The Strand, Coyle and Drury families weren't there. The Watch book stayed with the hall,
-  and the lamps went to the families.
-- **1977:** Elias Crane, 23, bought the hall and read the book "like a warranty".
+  11 to 0. The Watch book stayed with the hall, and the lamps went to the families.
 
-## The red lights
-There are several red lights in the story, and they are not the same thing.
+## Elias Crane (new canon)
+- **1977:** Crane, 23, bought the hall and read the Keepers' book "like a warranty." He went down
+  alone, and something answered him "from a long way down."
+- **Crane believes he is possessed.** He believes the entity lives in him and chose him, and he has a
+  grand idea of himself as its tenant and its chosen one. **None of that is true.** The entity has
+  only ever worked on him from far away, through dreams. It flatters him because a man who thinks
+  he's chosen will dig, buy and sign anything.
+- This changes his `forum/pastor` post without changing a word of it: "I'm still myself" is
+  true, and much worse than he means it.
+- **OPEN:** has Crane drunk from the Well? **(suggestion)** Yes, once, in 1977. That would explain
+  "cold all the time" and why his influence is so strong.
+- **OPEN:** how much of the "deep lore" Crane really knows. **(suggestion)** Only what the dreams
+  have shown him, which is partly lies, plus whatever account of the 1860s well is in the church
+  archive.
 
-### The Grange's red lamp
-- A brass Grange officer's lantern with the **only red glass globe** ever made for the Keepers,
-  c. 1911. Nine lamps had plain glass: "the others were for watching, and the red one was so they
-  would know which house was watching back."
-- It was **Wendell Oyler's**, the Keeper who kept it lit through 1931. When he went into Millbrook
-  Care Center it stayed with his things, and his grandson Ron (**y2k_ron**) listed it on BidHaus,
-  not knowing what it was ("Would look great in a den!").
-- **October 9, 2004:** it sold at 3:14:59 AM to a new bidder, **h\*\*\*e**, for $412, collected off
-  Ron's porch that night, and never paid for. The same night a "Grange" visitor came to Wendell's
-  room and his light was switched off at 3:15. He died on October 10.
-- It went to **Levi Strand's vault**. The true order: at 3:00 AM on the 31st, Levi brings it up and
-  Crane breaks it on the brick himself.
-- **Its role (planned):** as long as the Grange's red lamp is whole, **the Beast can't rise out of
-  the earth in the body**. It is the last of the Grange's watch. Breaking it on the brick is what
-  lets the Beast come up into the passages and the Well.
-  - In the finale **the player never sees it**. They hear it: a crack through the brick at 3:00, far
-    off, then the hum rising, then the Beast.
-  - It's a night 6 goal to find out where it went, so the player knows exactly what that sound was.
-    The BidHaus listing starts the trail; the goal is `evangelicalsintl.org/images/lamp_red.jpg`, a
-    photo of the lamp on the church's server whose JPEG comment reads "403 vault, shelf B. Do not
-    light." (FTP_LOG.TXT shows it came from `LStrand\My Scansault\`.)
-
-### Paul's red lamp (413)
-- Paul Rennick's "red observing lamp" in his backyard, "the dimmest light on the street". The HOA
-  fines him for it. The true order: at 2:00 AM Walter checks that "413's lamp is out by now, or 413
-  is."
-- Missed deadlines cost Paul: on the second strike he gives up and his lamp goes out.
-
-### Paul's red lantern (the player's)
-- Paul leaves it on the player's back step on night 3 and phones to explain **the red rule**. It is
-  the player's tool for the rest of the game: it quiets the vent, drives back the knocks under the
-  floor, and holds the Beast. In the finale it is what saves the player.
-
-### Other red
-- **The storm-drain glow** is the Upper Room, patrolling the passage under the lane with red light
-  (it is never modelled; only its glow shows).
-- **Rosa's Christmas lights**, from Paul. **Carol Lindqvist** won't use red at all.
-- Tract sign #7, "displays red lights outdoors": the congregation has been taught red is satanic.
-
-## Elias Crane
-He went down alone in 1977 and asked what it wanted: the lane. Something answered "from a long
-way down", came up into him, and has been with him ever since: "very old and very patient, and it
-is cold all the time. I haven't been warm in twenty-seven years." He calls himself its **tenant**.
-It has never made him do anything, because all it can do is offer. He decided everything himself,
-and would decide it the same way again ("that's why it picked me"). After the 31st, "He won't need
-a tenant." (`forum/pastor`)
-
-- **(planned)** What lives in Crane is **the False Prophet's spirit**, the one called up without a
-  body in 1931. The ritual is meant to give it its body back.
-
-## The two tiers
+## The groups
 - **The congregation and the eight** (Aldous Vole, Nathaniel Drury, Samuel Pell, Isaac Mercer,
   Jeremiah Coyle, Gideon Ashby, Harold Finch and Amos Kettering, with Nathaniel shut out of the
   Upper Room) sincerely fight the Devil. The Board members believe they are "the Lord's ten kings"
-  (Revelation 17 read the Pastor's way), dedicating the lane. They are **the doors** and don't know
-  it. Amos wrote a policy on his own daughter Hannah in July without knowing why he was asked to.
-  The Board is ten men. Walter and Levi know what the deeds are for and the other eight don't, which
-  is where the ten hands at 1:00 AM come from (the Upper Room thread is `forum/upper/seven`, titled
-  "the eight").
-- **The Upper Room** (hidden forum, four members):
+  (Revelation 17 read the Pastor's way). Amos wrote a policy on his own daughter Hannah in July
+  without knowing why he was asked to.
+- **The Upper Room** (hidden forum, four members) uses the biblical worldview to try to understand
+  the thing under the lane. They call it the Beast, and among themselves "the dog" or "Fido."
   - **E.C.**
-  - **horn_ii**, Walter Greaves: wants what Pruitt was promised, for Lydia.
+  - **horn_ii**, Walter Greaves: wants what Pruitt got, for Lydia.
   - **horn_vii**, Levi Strand: Harlan's grandson; "I do the paperwork." Strand Title has two
     notaries: Levi stamps the HOA liens himself (as collections agent) and his wife **Naomi (née
     Pruitt)** stamps the deeds, assignments and withdrawal letters, Sundays included.
   - **watchman**, Deputy Daniel Drury: not on the Board; wants to "hold Him" and point Him at evil.
 
-  Each believes he'll be the one holding the Beast afterwards.
-- **Crane's true believers (planned)**: a third group, separate from the congregation, gathered by
-  Crane himself. They know what's under the lane and want it. They are armed and fight back. They
-  don't appear until Halloween. Seeded as Pine Hollow lots 24 to 40 (see "Where the planned lore
-  is seeded").
+  Each believes he'll be the one holding it afterwards.
+- **Crane's true believers**: Pine Hollow lots 24 to 40, gathered by Crane himself. They've read the
+  whole book and come anyway. **(suggestion)** They're heavy drinkers of the water (tier 2), which
+  is why they're changing in body as well as mind. They're armed (the buckshot at Route 9 Sporting,
+  the shotgun fire on the 10/13 blotter).
+- **The diggers.** **(suggestion)** Ashby Staffing recruits men who need work and housing, like Dale
+  Kirsch, for "the warehouse," which nobody can find. The warehouse is the dig. See Mercer's job log
+  (variance 04-117: the crew stops every night at 3:10 "by order of the client"), the classified
+  ad for "night equipment operators, close quarters, church family preferred," and Jonah Mercer
+  hitting old curved brick.
 - **Miriam Vole (née Hale)** has read the whole book. She is "the last one who can still choose".
 
-## The 10/31 plan (the true order, `forum/upper/order`)
-| Time | What happens |
-|---|---|
-| 11:30 PM | The three from the Pine Hollow deliverance wing (M. Tate, R. Pell, D. Kirsch) go into the lower room. |
-| 1:00 AM | Ten deeds are laid on the brick by ten hands, eight of them not knowing what they sign. A door has to be opened by its owner. **411 and 413 must be signed by then.** |
-| 2:00 AM | Walter sees that 413's red lamp is out, or that 413 is. |
-| 3:00 AM | Crane goes down. Levi brings the Grange's red lamp up from the vault, and Crane breaks it on the brick. |
-| 3:15 AM | The three are given. If He asks for more, there's Hannah's policy. |
-| 4:00 AM | He rises and takes possession of the lane. |
+## The 10/31 plan: needs rework
+The current "true order" (`forum/upper/order`) is built on the old lore: ten deeds on the brick,
+the red lamp broken at 3:00, the three "given" at 3:15, and "He rises" at 4:00. Under the new canon:
+- **OPEN:** what really happens on the 31st. **(suggestion)** Crane's ritual is his own invention,
+  and the entity lets him believe in it. The real event is **the dig breaking through** the same
+  night, while the Board is in the lower room and Judgement House is full upstairs.
+- **OPEN:** what happens to the three from the Pine Hollow wing (M. Tate, R. Pell, D. Kirsch).
+- **OPEN:** what Hannah's insurance policy is for, and what "a younger one" means now that there's
+  no vessel.
+- The trustee's sale on 413 is still November 1.
 
-- Nothing red is allowed. The Board's cover story is `forum/order`: a "dedication", with the Pastor
-  praying alone below.
-- The trustee's sale on 413 is on November 1. Crane: "He will not need a morning after."
-- The three from Pine Hollow can't be saved. Hannah can (below).
+## Halloween night (the finale): needs rework
+The old finale depended on the red lantern, the giant hand refusing an unsigned deed, the False
+Prophet's spirit and a mutated Beast. All of that is gone. (The old version is in git history.)
 
-## Halloween night (the finale, planned)
-The deed to 411 is Crane's last step, and the way it's taken decides everything. There are **two
-Halloween nights**, depending on whether the player solved the case (finished the chart) on
-October 30. Losing at any point shows a Ledger clipping and replays from the last checkpoint. **One
-solid hit kills** (no health).
+**Still works as written:**
+- There are two Halloween nights, depending on whether the player solved the case (finished the
+  chart) on October 30. Losing shows a Ledger clipping and replays from the last checkpoint. One
+  solid hit kills.
+- The deed to 411 is stolen. In the solved route the power goes out, a true believer hides under the
+  bed and hits the player with a brick, and they wake at about 11:40 PM with the deed gone. Levi
+  refuses to forge the signature because the chart names him. In the unsolved route he forges it.
+- The way down: the Grange shaft under the backyard shed at 411 (solved), or through the church
+  (unsolved).
+- Wendell's revolver, now paired with the **flashlight** instead of the red lantern.
+- Paul leaves town (solved) or is supposedly killed (unsolved).
+- Drury breaking with the Upper Room, over Hannah.
+- Monday, November 1: the front page runs; Walter and Levi testify; a church archive is found.
 
-### How the deed is taken
-- **Solved:** the moment the player locks in the last box, the power goes out. They go to the breaker
-  by the front door. A true believer climbs the back fence, walks in through the back door (it has
-  no lock) and hides under the bed. The power comes back, the player sits down again, and he rises
-  behind them and hits them with a brick. They wake at about 11:40 PM with the deed gone.
-- **Levi won't sign it.** The finished chart names him as the notary on the liens and his wife as
-  the notary on the deeds. Afraid of Monday's story, he refuses to forge the player's signature and
-  won't let Naomi stamp one either. So in the solved route
-  the deed on the brick is **stolen and unsigned**.
-- **Unsolved:** the deed is stolen too, and Levi forges the signature.
+**OPEN:**
+- What the climax is, now that no hand refuses the deed. **(suggestion)** Stopping the breakthrough.
+- What the player fights: Fido, the true believers, or something else from the tubes.
+- Whether the entity itself is ever seen. **(suggestion)** Never. At most, light from below, or a
+  sense of scale.
 
-### The true end: solved route (Phase 4)
-1. **The house.** The red lantern and the revolver. **Paul has left town**, because fully solving
-   the case requires talking to him, and the player warned him about the church's real plans. His
-   note says he's taken his lamp, he's selling the house, and the player did good work.
-2. **The tunnels.** Down the Grange shaft under the backyard shed (built 1952, over the shaft that was
-   bricked over in 1974). Exploration and the Upper Room's red patrol lights. At **3:00** the player
-   hears the Grange's lamp break, and **the Beast rises**.
-3. **Fight 1.** A few revolver shots hurt it, but red light is what drives it back down the Well.
-   As it goes, its tail-hand rips the revolver out of the player's hand.
-4. **Drury hunts the player** through the passages with a shotgun. They have only the lantern, so
-   they can't shoot him: it's stealth.
-5. **The lower room.** Drury breaks with the Upper Room and gives the player his shotgun (see Hannah,
-   below). **The Beast comes up out of the Well, takes Drury, and goes back down**, into the passage
-   where his great-grandfather Tobias vanished in 1931.
-6. Crane lays the stolen deed on the brick. **The hand comes up out of the earth and refuses it**:
-   it wasn't given. The hand closes on Crane and crushes him, and **the False Prophet's spirit tears
-   loose** and tries to possess the player. Walter and Levi watch in awe. **The red lantern drives it
-   off**, the hand shrinks back into the earth, and the spirit goes into the Beast instead.
-7. **Fight 2: the mutated Beast.** Red light only stuns it for a few seconds; the shotgun does the
-   work. It dies, and the spirit is cast out. At 4:00 nothing rises.
-8. **Monday, November 1.** The front page runs. Evangelicals International is shut down. **Walter
-   and Levi** let themselves be arrested and testify against the church, because the other eight
-   Board members are still using controlling and illegal tactics to grow it. **A church archive is
-   found** (a door left open for future lore). Paul sends a postcard.
+## The red lamp: needs a decision
+Red no longer has special power. The site still builds a lot on it:
+- The Grange's red-globed lamp (Wendell's, sold on BidHaus at 3:14:59, taken to Levi's vault,
+  meant to be broken by Crane at 3:00 on the 31st).
+- Paul's red observing lamp at 413, which the HOA fines.
+- Tract #7 and the "Satan in Suburbia" deck teaching that red lights are satanic.
+- The storm-drain glow, Rosa's Christmas lights, and the red REC light in Owen's tape.
 
-### The other end: unsolved route (Phase 5)
-- The player never found the Grange's way down, so they go in **through the church itself**,
-  fighting Crane's true believers, who are frothing at the mouth. Red light doesn't stop them (their
-  hands are their own), so it's weapons.
-- The forged signature fools the hand. **The False Prophet begins to emerge** (kept mostly off-screen:
-  the hand, light, a vast shape behind the brick). Crane gloats. Walter and Levi look on in horror,
-  then fight the player.
-- Drury comes over to the player's side and gives them his shotgun (see Hannah, below).
-- The red lantern touches the deed and **the forged signature comes apart**. The hand recognizes the
-  deception, takes Crane, dissolves him, and pulls back into the earth.
-- **Paul is supposedly killed** (413's lamp goes out at 2:00).
-- Without the chart there's no front page. The ending is smaller and bitter, and the church survives.
-
-### Hannah's two fates
-- **Never warned, never contacted:** she is to be **the False Prophet's true bodily vessel** instead
-  of Crane. At the lower room, Drury breaks with the Upper Room, grabs Hannah, hands the player the
-  shotgun and gets her out. (In the solved route, the Beast then takes Drury.)
-- **Warned** (the player tells her about the policy on her life): she isn't at the ritual, and the
-  original plan for summoning the body goes ahead. In the solved route Drury defects when Crane names
-  her as a possible sacrifice. In the unsolved route Drury has heard from Hannah and comes to the
-  player's side.
+**OPEN:** what to do with it. Options:
+- **Make it just light.** The Grange lamps, Paul's lamp and the church's war on lights outdoors all
+  still work if the church is against *all* night lights, not red ones. Red is only Paul's
+  astronomer habit (red light keeps your night vision). This is the smallest rewrite.
+- **Keep the Grange lamp as a special object** for some other reason, such as the Keepers believing
+  in it.
+- **Drop it** and rewrite the lamp trail (BidHaus, FTP log, Levi's vault).
 
 ## The paper trail
 - **Book B.** The pantry kept two ledgers. The county got the first, and it was the $212,000 case.
   Book B (1993 to 1997) lists every pantry family, what they owned and what they could be made to
-  give: a list of doors. Miriam kept it and gave it to **W.O.** (Wendell Oyler). It is evidence,
-  not a weapon: nothing burns it or closes doors with it.
+  give. Miriam kept it and gave it to **W.O.** (Wendell Oyler). It is evidence, not a weapon.
 - **Wendell** kept his hall light on all night at Millbrook Care Center. On 10/9 a "Grange" visitor
-  came, the light was switched off at 3:15, and he died on 10/10. His red lamp, listed on BidHaus
-  by his grandson Ron, was taken off Ron's porch the same night (see "The red lights").
-  The public newsletter (`millbrookcarecenter.com`) only says he passed. The strange details are in
-  the visitor log (`/visitors`, which links on) and the staff incident log (`/incidents`): the
-  keyed light switch, the 54-degree room, "He's been and gone," the pink scrapbook under his
-  shoes (10/8), Drury asking about "lamps or lanterns," and the organ on the unplugged dayroom radio
-  on 10/14.
+  came, the light was switched off at 3:15, and he died on 10/10. His Grange lamp, listed on
+  BidHaus by his grandson Ron, was taken off Ron's porch the same night. The public newsletter
+  (`millbrookcarecenter.com`) only says he passed. The strange details are in the visitor log
+  (`/visitors`) and the staff incident log (`/incidents`).
 - **Ben Talley**, a Ledger reporter, died in 1992 working on a story. His notes were never found,
   and his car was crushed by Coyle before it could be inspected.
 
+## Where clues are seeded
+- **"The dog":** `forum/upper/dog` ("whose dog"). Drury asks whose dog it is. E.C.'s Revelation 13
+  answer there is now the Upper Room's misreading, but the question lands harder: the real answer
+  is something much further down.
+- **Drury and Tobias:** `forum/upper/hold`: Tobias was his great-grandfather.
+- **The Grange shaft under the shed:** 411 was the Oyler house (Clarence and Wendell, 1946 to 2003).
+  Wendell built the shed in 1952 over a shaft that meets the east passage and bricked it himself in
+  1974. See `millbrookcounty.gov/assessor/411-harrow`, the 1974 survey and the 2003 Watch schedule.
+- **Where the lamp went:** the blotter for 10/09 at 3:30 AM, FTP_LOG.TXT, and the Strand Title vault
+  at 403 Harrow. (Depends on the red lamp decision.)
+- **The revolver:** Wendell's Hartford Police Special .38, bought November 1931. Ron's page lists it as
+  SOLD "to the new guy who bought Grandpa's old house."
+- **The church archive:** `robots.txt` disallows `/archive/`. E.C. says it stays in the building.
+- **The guestbook removal log:** `evangelicalsintl.org/cgi-bin/guestbook.pl`, linked from the
+  `/cgi-bin/` 403 page.
+- **The pie quiz's question 3:** `millbrooktalk.net/viewtopic-5141`.
+
 ## People (quick reference)
 - **Paul Rennick** (413) was Board chair from 1999 to 2001 and was pushed out in March 2003 for
-  asking about Book B. He keeps the red lamp lit. His mortgage was assigned to Crane Holdings on
-  9/27, and the trustee's sale is 11/1. **(planned)** In the true end he leaves town with his lamp;
-  in the unsolved end he is supposedly killed.
-- **Rosa Alvarez** (409) was a nurse's aide who looked after Wendell. Paul gave her red Christmas
-  lights. She's leaving for Olympia.
-- **Carol Lindqvist**, of Little Lambs (1977 to 1986, 405 Harrow), now quilts in Spokane and won't
-  use red.
+  asking about Book B. His mortgage was assigned to Crane Holdings on 9/27, and the trustee's sale
+  is 11/1.
+- **Rosa Alvarez** (409) is a CNA at Millbrook Care Center who looked after Wendell. She's leaving
+  for Olympia.
+- **Carol Lindqvist**, of Little Lambs (1977 to 1986, 405 Harrow), now quilts in Spokane.
 - **Hannah Kettering** works the Judgement House ticket table and the Prayer Watch.
-- **Deputy Daniel Drury (planned fates):** solved route, taken into the Well by the Beast; unsolved
-  route, changes sides and gives the player his shotgun.
 - **Dale Kirsch** (newbrother_d) is in the deliverance wing.
 - **MCC:** Owen Hart's HARROW doc (cancelled) and his band Seismometer (Jess, Priya, Tyler, Owen).
-  Their "315" field recording has a voice under the hum, which drops out when a red light is
-  pointed at the drain.
+  Their "315" field recording has a voice under the hum.
 - **Grace Lutheran** (Pastor Anne Sorensen) runs a Tuesday circle for people leaving high-demand
   churches.
 
 ## Tone rules
 - The horror is always told through minutes, receipts, logs, flyers and forum posts.
 - Abuse is only ever an accusation the church manufactures. It is never shown.
-- What's in the Well stays offscreen **until Halloween**. In the finale the Beast is fought on
-  screen, but the False Prophet is only ever the hand, light, and a vast shape behind the brick.
+- Every scare the player sees could be real or a sign of exhaustion. Don't confirm which until
+  Halloween.
+- The entity stays offscreen. Fido stays offscreen until Halloween.
+- Nobody in the game understands the entity. Every character explains it in their own terms
+  (Revelation, the Grange's rules, Crane's chosen-one story, harmonic_truth's conspiracy), and every
+  one of them is partly wrong.
 - Every death, and every ending, is a Millbrook Ledger clipping; deaths quote the police report.
+
+## Pages that contradict the new canon
+These need rewriting before the new lore can be built. Nothing in sites.json has been changed yet.
+
+**Core lore pages (must change):**
+- `evangelicalsintl.org/images/keepers_book_p01.jpg`: "cannot take what is not given," ten doors, the
+  red lamp rule. It can keep the Revelation framing as the Grange's belief, but the red-lamp
+  rule has to go, and the well's origin should hint at the 1860s family.
+- `evangelicalsintl.org/images/keepers_book_p02.jpg`: Oyler's red lamp makes Harlan scream; E.C.'s
+  note about doors given "before a notary."
+- `evangelicalsintl.org/forum/upper/order`: the whole true order.
+- `evangelicalsintl.org/forum/upper/dog`: E.C.'s False Prophet answer, the "gate," "a younger
+  one" and "He likes a clean house." This can stay as E.C.'s belief, but the vessel plot is gone.
+- `evangelicalsintl.org/forum/pastor`: still works, now as Crane's false belief. Check the wording.
+- `home.millnet.com/~0315`: "a lamp that was given cannot be taken. it can only be broken."
+- `members.webhaven.com/millbrookhistory`: says nobody knows who laid the cistern. Should point at
+  the 1860s homestead well.
+
+**Red as a rule (depends on the red lamp decision):**
+- `bidhaus.com/item-2208131`, `bidhaus.com/member-0315`, `evangelicalsintl.org/images/lamp_red.jpg`,
+  `evangelicalsintl.org/images/FTP_LOG.TXT` (the lamp trail)
+- `evangelicalsintl.org/old/suburbia`, `evangelicalsintl.org/tracts`, `evangelicalsintl.org/warfare`
+  (red lights are satanic)
+- `evangelicalsintl.org/forum/order`, `evangelicalsintl.org/forum/upper/seven` ("why nothing red")
+- `evangelicalsintl.org/cgi-bin/watchlog.pl` (red lamp reports, "anything with red in it cc:
+  watchman")
+- `millbrookcounty.gov/gis/harrow/1974-survey` (Oyler's red-globed lantern)
+- `millbrookastro.org/bill` (the trace jumps when Paul's red lamp goes off)
+- `mcc.edu/medialab/ohart` (the voice drops out under the red REC light)
+- `millbrookgripes.com/route9-sporting` ("red never stopped anybody who meant it")
+- `home.millnet.com/~prennick`, `home.millnet.com/~prennick/log`, `users.journalbox.com/rosa_a`,
+  `users.journalbox.com/nightshift_dave` (red glow in the drains), `users.journalbox.com/priya_n`,
+  `home.spokanelink.net/~carolq` (won't use red)
