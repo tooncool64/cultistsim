@@ -16,10 +16,14 @@ on the 31st.
   investigation.
 - **The dream:** the destruction of the lane. A wriggling mass comes up out of the earth, and every
   body and every mouth is a vessel for it.
-  - **Why the player:** the night before (10/13 into 10/14), Mercer's crew broke through a bedrock
-    layer under the round room (see "The breakthrough" below). The entity's psychic output surged,
-    and the player sleeps at 411, about 200 ft from the Well and directly above the Grange shaft.
-    They were the closest sleeper to the break.
+  - **Why the player:** that same night the church broke through into the miners' cavern (see "The
+    dig, night by night" below). The entity's psychic output surged up through the open cavern, and
+    the player sleeps at 411, directly above the cavern's air shaft. Nobody on the lane slept closer
+    to it.
+  - **OPEN (dates):** the site already dates the breach to the night of 10/13 into 10/14 (Jonah's
+    journal, Judith Mercer's job log). Either the dream is that same night and the player calls their
+    editor on the 14th, or the dig entries move one day later so the breach and the dream fall on
+    the night of the 14th.
   - **(suggestion)** "Every mouth a vessel" can echo the drinkers' wet sores at the mouth, so the
     player recognizes the dream later in the Pine Hollow men.
 - Since then the player **refuses to sleep through the night**, so the entity can't reach them. They
@@ -41,27 +45,64 @@ on the 31st.
 - **It wants out.** It can't dig itself free, so it gets people to dig for it. Every hole on Harrow
   Lane, from the 1860s well to the Grange passages to Mercer's 2004 excavation, was somebody's own
   idea, or so they thought. It wants to be dug out of the earth.
-- **"Fido"** is one of the lesser monsters sealed in with it. It found its way up through the
-  tubes to the Well, and it's what the Upper Room calls "the guard dog." It's the thing people hear
-  and the thing that hunts. It is **not** the entity. Fido is the dog; the entity is far below.
+- **"Fido"** is one of the lesser monsters sealed in with it, and what the Upper Room calls "the
+  guard dog." It is **not** the entity. Fido is the dog; the entity is far below.
+  - Fido came up out of the tubes long ago and has been living in **the miners' cavern** (see "The
+    layout" below), shut in since the Grange sealed everything.
+  - Once the cavern is open, the entity, **working through Crane**, drives Fido up the **air shaft**,
+    which comes out under the shed in the player's backyard at 411.
+  - **OPEN:** how Crane's hold on Fido works (does he think he commands it?), and when during the
+    game Fido first comes up the shaft.
 - **Light.** Abyssal things fear and hate light, any kind of light. Fido can't stand it, and the
   entity hates it too. This is why the Grange kept lamps lit all night. In gameplay, the player's
   **flashlight** does the job the red lantern used to do.
 
-### The breakthrough (October 13 to 14, 2004)
-- The church's dig (Mercer Construction, variance 04-117) follows the old Grange passage and breaks
-  into the round room on the night of 10/13. Below it, the crew breaks through **one of the bedrock
-  layers** that have been holding the entity down.
-- Each layer they get through brings the entity closer to the surface, and its **psychic output
-  jumps**. This surge is what reaches the player that same week.
-- Already on the site: Jonah's journal (10/13: "we broke into the old part tonight"), Judith
-  Mercer's job log (10/14: Jonah sat in the truck for an hour and "won't say what he saw"), and
-  "the room doesn't like" the work light.
-- **(suggestion)** More layers stand between the dig and the entity. Each one broken makes things
-  worse: Bill's seismometer pulses getting stronger every night, more people dreaming, stranger
-  phenomena. The 31st is when the crew expects to reach the last one.
-- **OPEN:** whether the 3:15 phenomena that started around 10/05 come from an earlier, smaller break,
-  or from the entity simply waking up as the dig got closer.
+### The layout (new canon)
+```
+   412: THE CHURCH                                   411: THE SHED (player's backyard)
+   (old Grange hall)                                 (built 1952 by Wendell Oyler)
+  ======|  |================ Harrow Lane =====================|  |=========== surface
+        |  |  <- the Well: brick cistern, top                  |  | <- air shaft
+        |  |     (the "round room," ten niches)                |  |    (bricked 1974)
+        |  +-----------------------------------------------------+  |
+        |   THE MINERS' CAVERN  (~200 ft, the site's "passage")     |
+        |  +--------------------------------------------------------+
+        |//|
+        |//|  <- the rest of the Well, buried and filled
+        |//|     (dug out a little more each night, 10/14 to 10/31)
+        |//|
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~~~  LAVA TUBES  (flooded, warm, unmapped)   ~~~  Fido's kind came up from here  ~~~
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                      ...and somewhere deeper, the entity
+```
+- **The Well** runs straight down from under the church, deep enough to reach the lava tubes. Its
+  top is the brick cistern (the round room). Everything below the cavern is **buried and filled**.
+- **The miners' cavern** is the chamber the 1860s diggers cut out to work the well from. It runs
+  about 200 ft east, under Harrow Lane, to 411. It's what the site calls the "passage" (1974 survey:
+  "warm and wet to the touch").
+- **The air shaft** was dug so the miners had air while they excavated the well. It comes up at 411,
+  and it's the shaft Wendell built the shed over in 1952 and bricked up in 1974.
+- **The springs.** Foul water from the deep used to come up in springs around the lane. The older
+  generation filled them in. The old Harrow spring is the one the Grange hall was built on.
+- **(suggestion)** The miners' cavern is the "lower room" the Grange, the Board and Crane all talk
+  about.
+
+### The dig, night by night (new canon)
+- **The night of the breach.** The church breaks through into the miners' cavern. This reopens the
+  way down for the first time since 1974, and the surge from below reaches the player (see "The
+  player"). Already on the site: Jonah's journal ("we broke into the old part tonight... like the
+  inside of a well"), Judith Mercer's job log (Jonah sat in the truck for an hour and "won't say what
+  he saw"), and "the room doesn't like" the work light.
+- **Every night after,** the crew digs out more of the buried well, going down toward the lava
+  tubes. Each night's progress makes things worse: Bill's seismometer pulses get stronger, more
+  people dream, the phenomena get stranger, and the player's scares escalate.
+- **The cavern has more of the foul water.** Opening it gives the church a supply, which is how the
+  true believers (and anyone else Crane chooses) keep drinking.
+- **When they reach the lava tubes, the entity gazes up at them.** That is the moment it has Crane
+  begin his ritual, at the edge of the Well. **(suggestion)** That happens on the night of the 31st.
+- **OPEN:** whether the 3:15 phenomena that started around 10/05 come from the dig getting close
+  before the breach, or from the entity simply stirring.
 
 ### How it reaches people
 The entity works through two tiers of influence, and it uses both to get itself free.
@@ -95,12 +136,17 @@ The entity works through two tiers of influence, and it uses both to get itself 
 ## History (new canon dates)
 
 ### The well (1860s)
-- A homestead family dug a well on the site of the old Harrow spring in the **1860s**. The diggers
-  went deeper than they needed to and broke into the top of the lava tubes. **OPEN:** the family's
-  name, and what happened to the diggers. (The brick cistern is what's left of their work.)
-- The well was used for years, until the water went foul. **(suggestion)** By then the family had
-  been drinking it. That's the first tier-2 story: a homestead record, a letter or an inquest that
-  the player can find.
+- In the **1860s** a homestead well was dug on the site of the old Harrow spring. It was cut like a
+  mine: the diggers carved out a working cavern and sank an air shaft so they could breathe while
+  they dug the well itself, deep enough to reach the lava tubes.
+- The diggers saw things down there and died. The well was **used anyway**, because it gave water,
+  until the water went foul.
+- Foul water also came up in springs around the lane. The older generation filled them in.
+- **OPEN:** whose well it was and who the diggers were. (Hiring miners to dig a well is unusual.
+  **(suggestion)** Out-of-work miners hired by the homestead family, or a prospecting shaft that hit
+  water and was turned into a well.)
+- **(suggestion)** The family kept drinking until they changed. That's the first tier-2 story: a
+  homestead record, a letter or an inquest the player can find.
 
 ### The Grange (1911 to 1974)
 - **Chartered** June 21, 1911, by nine families, on the site of the old well. They knew something
@@ -122,8 +168,10 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **May 1974:** the county survey finds the cistern water black, the depth unsoundable ("a weighted
   line went out 60 ft and came back dry"), and the brick at the junction warm and wet. All of this
   fits lava tubes.
-- **The last meeting** was June 21, 1974, and the vote to brick over the cistern and passage was
-  11 to 0. The Watch book stayed with the hall, and the lamps went to the families.
+- **(suggestion)** The Grange (or the homestead before it) is who filled in the lower well, sealing
+  Fido into the cavern.
+- **The last meeting** was June 21, 1974, and the vote to brick over the cistern, the cavern and the
+  air shaft was 11 to 0. The Watch book stayed with the hall, and the lamps went to the families.
 
 ## Elias Crane (new canon)
 - **1977:** Crane, 23, bought the hall and read the Keepers' book "like a warranty." He went down
@@ -134,8 +182,11 @@ The entity works through two tiers of influence, and it uses both to get itself 
   he's chosen will dig, buy and sign anything.
 - This changes his `forum/pastor` post without changing a word of it: "I'm still myself" is
   true, and much worse than he means it.
-- **OPEN:** has Crane drunk from the Well? **(suggestion)** Yes, once, in 1977. That would explain
-  "cold all the time" and why his influence is so strong.
+- **Crane has drunk the foul water**, though the springs had been filled in. **OPEN:** how.
+  **(suggestion)** The Grange hall was raised on the old Harrow spring, and when Crane bought it in
+  1977, a little of that spring still seeped into the lower room. Other options: a sample the
+  Keepers kept, or a filled spring he dug back out because a dream told him where to look. Either
+  way it explains "cold all the time," and why he's so receptive.
 - **OPEN:** how much of the "deep lore" Crane really knows. **(suggestion)** Only what the dreams
   have shown him, which is partly lies, plus whatever account of the 1860s well is in the church
   archive.
@@ -171,9 +222,11 @@ The entity works through two tiers of influence, and it uses both to get itself 
 The current "true order" (`forum/upper/order`) is built on the old lore: ten deeds on the brick,
 the red lamp broken at 3:00 (now dropped), the three "given" at 3:15, and "He rises" at 4:00. Under
 the new canon:
-- **OPEN:** what really happens on the 31st. **(suggestion)** Crane's ritual is his own invention,
-  and the entity lets him believe in it. The real event is **the dig breaking through** the same
-  night, while the Board is in the lower room and Judgement House is full upstairs.
+- **Decided:** when the dig reaches the lava tubes, the entity gazes up, and that's when it has Crane
+  start the ritual, at the edge of the Well.
+- **OPEN:** what the ritual actually does, and what Crane *thinks* it does. **(suggestion)** Crane
+  believes he's leading it. Really, the entity is using the ritual to get the last of the well
+  cleared and the people it needs gathered at the edge.
 - **OPEN:** what happens to the three from the Pine Hollow wing (M. Tate, R. Pell, D. Kirsch).
 - **OPEN:** what Hannah's insurance policy is for, and what "a younger one" means now that there's
   no vessel.
@@ -190,7 +243,7 @@ Prophet's spirit and a mutated Beast. All of that is gone. (The old version is i
 - The deed to 411 is stolen. In the solved route the power goes out, a true believer hides under the
   bed and hits the player with a brick, and they wake at about 11:40 PM with the deed gone. Levi
   refuses to forge the signature because the chart names him. In the unsolved route he forges it.
-- The way down: the Grange shaft under the backyard shed at 411 (solved), or through the church
+- The way down: the air shaft under the backyard shed at 411 (solved), or through the church
   (unsolved).
 - Wendell's revolver, now paired with the **flashlight** instead of the red lantern.
 - Drury breaking with the Upper Room, over Hannah.
@@ -198,7 +251,7 @@ Prophet's spirit and a mutated Beast. All of that is gone. (The old version is i
 
 **OPEN:**
 - What the climax is, now that no hand refuses the deed. **(suggestion)** Stopping the crew before
-  they break the last bedrock layer.
+  they reach the lava tubes.
 - Paul's part in the finale (see "Paul Rennick: role needs rethinking").
 - What the player fights: Fido, the true believers, or something else from the tubes.
 - Whether the entity itself is ever seen. **(suggestion)** Never. At most, light from below, or a
@@ -252,7 +305,7 @@ rule gone, most of that role goes too.
   answer there is now the Upper Room's misreading, but the question lands harder: the real answer
   is something much further down.
 - **Drury and Tobias:** `forum/upper/hold`: Tobias was his great-grandfather.
-- **The Grange shaft under the shed:** 411 was the Oyler house (Clarence and Wendell, 1946 to 2003).
+- **The air shaft under the shed:** 411 was the Oyler house (Clarence and Wendell, 1946 to 2003).
   Wendell built the shed in 1952 over a shaft that meets the east passage and bricked it himself in
   1974. See `millbrookcounty.gov/assessor/411-harrow`, the 1974 survey and the 2003 Watch schedule.
 - **The revolver:** Wendell's Hartford Police Special .38, bought November 1931. Ron's page lists it as
@@ -297,12 +350,26 @@ These need rewriting before the new lore can be built. Nothing in sites.json has
 - `evangelicalsintl.org/images/keepers_book_p02.jpg`: Oyler's red lamp makes Harlan scream; E.C.'s
   note about doors given "before a notary."
 - `evangelicalsintl.org/forum/upper/order`: the whole true order.
-- `evangelicalsintl.org/forum/upper/dog`: E.C.'s False Prophet answer, the "gate," "a younger
-  one" and "He likes a clean house." This can stay as E.C.'s belief, but the vessel plot is gone.
+- `evangelicalsintl.org/forum/upper/dog`: E.C.'s False Prophet answer and the "gate" need to go.
+  "A younger one" and "He likes a clean house" can stay: the player's dream (every body and
+  every mouth a vessel) brings the vessel idea back.
 - `evangelicalsintl.org/forum/pastor`: still works, now as Crane's false belief. Check the wording.
 - `home.millnet.com/~0315`: "a lamp that was given cannot be taken. it can only be broken."
 - `members.webhaven.com/millbrookhistory`: says nobody knows who laid the cistern. Should point at
   the 1860s homestead well.
+
+**The layout (fit to the new cross-section):**
+- `millbrookcounty.gov/gis/harrow/1974-survey`: the cistern is full of black water that "did not
+  reflect our lamps," and past the junction under 411 "the passage slopes down and the floor goes
+  under water." Under the new layout, the way down is the buried well under the church, and the
+  junction at 411 is the air shaft. Decide whether the cistern still holds water above the fill.
+- `mercerconstruction.com/jobs/04-117` and `users.journalbox.com/jonah_m`: the dig starts as a
+  trench from the back of 412 toward Birch Ct, hits old brick on 9/26, joins the "old brick passage"
+  on 10/02, and is "under Harrow Lane" by 10/09. Under the new layout, the church sits right on top
+  of the Well, so the crew should be opening its way into the cavern, then digging *down* the
+  buried well from 10/14 on. The job log also needs nightly depth entries after the breach.
+- `millbrookcounty.gov/gis/harrow` (utility layer) and `millbrookcounty.gov/assessor/411-harrow`:
+  check that they describe the shaft under the 411 shed as an air shaft, not a Grange shaft.
 
 **The red lamp trail (remove):**
 - `bidhaus.com/item-2208131`, `bidhaus.com/member-0315`, `evangelicalsintl.org/images/lamp_red.jpg`,
