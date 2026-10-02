@@ -36,6 +36,12 @@ The finale's planned beats now have clues in sites.json. None of these pages sho
 - **The revolver:** Wendell's Hartford Police Special .38, bought November 1931. Ron's page lists it as
   SOLD "to the new guy who bought Grandpa's old house": it is the player's revolver on the office desk.
 - **The church archive:** `robots.txt` now disallows `/archive/`. E.C. says it stays in the building.
+- **The guestbook removal log (2026-10-02):** the public guestbook only shows friendly entries now.
+  The removed ones (Rosa, Esther's "E.", the excavator neighbor, Carol L., and Paul's 2003 "two
+  ledgers" post) are at `evangelicalsintl.org/cgi-bin/guestbook.pl`, linked from the `/cgi-bin/`
+  403 page. Each shows who N.D. forwarded it to.
+- **The pie quiz's question 3:** `millbrooktalk.net/viewtopic-5141`: someone from "the church on
+  Harrow" emailed pizzagod88 and asked him to remove "pick a board member".
 
 ## What's under the lane
 - **The Well** is a brick cistern under 412 (the old Harrow Grange hall), older than the Grange.
@@ -126,11 +132,12 @@ There are several red lights in the story, and they are not the same thing.
 - Tract sign #7, "displays red lights outdoors": the congregation has been taught red is satanic.
 
 ## Elias Crane
-He went down alone in 1977 and asked what it wanted: the lane. Something answered "from very far
-down", came up into him, and has been in him ever since: "patient and very old and always, always
-cold." He calls himself its **tenant**. It has never made him do anything, because it can only
-offer. He chose everything, and would choose it all again ("That is why He picked me"). After the
-31st, "He won't need a tenant."
+He went down alone in 1977 and asked what it wanted: the lane. Something answered "from a long
+way down", came up into him, and has been with him ever since: "very old and very patient, and it
+is cold all the time. I haven't been warm in twenty-seven years." He calls himself its **tenant**.
+It has never made him do anything, because all it can do is offer. He decided everything himself,
+and would decide it the same way again ("that's why it picked me"). After the 31st, "He won't need
+a tenant." (`forum/pastor`)
 
 - **(planned)** What lives in Crane is **the False Prophet's spirit**, the one called up without a
   body in 1931. The ritual is meant to give it its body back.
@@ -246,6 +253,11 @@ solid hit kills** (no health).
 - **Wendell** kept his hall light on all night at Millbrook Care Center. On 10/9 a "Grange" visitor
   came, the light was switched off at 3:15, and he died on 10/10. His red lamp, listed on BidHaus
   by his grandson Ron, was taken off Ron's porch the same night (see "The red lights").
+  The public newsletter (`millbrookcarecenter.com`) only says he passed. The strange details are in
+  the visitor log (`/visitors`, which links on) and the staff incident log (`/incidents`): the
+  keyed light switch, the 54-degree room, "He's been and gone," the pink scrapbook under his
+  shoes (10/8), Drury asking about "lamps or lanterns," and the organ on the unplugged dayroom radio
+  on 10/14.
 - **Ben Talley**, a Ledger reporter, died in 1992 working on a story. His notes were never found,
   and his car was crushed by Coyle before it could be inspected.
 
