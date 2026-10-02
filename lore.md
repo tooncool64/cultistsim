@@ -20,10 +20,9 @@ on the 31st.
     dig, night by night" below). The entity's psychic output surged up through the open cavern, and
     the player sleeps at 411, directly above the cavern's air shaft. Nobody on the lane slept closer
     to it.
-  - **OPEN (dates):** the site already dates the breach to the night of 10/13 into 10/14 (Jonah's
-    journal, Judith Mercer's job log). Either the dream is that same night and the player calls their
-    editor on the 14th, or the dig entries move one day later so the breach and the dream fall on
-    the night of the 14th.
+  - **Dates (decided):** the breach and the dream both happen on the **night of October 14**. The
+    player calls their editor on the morning of the 15th, and the game starts that day. (The site's
+    dig entries are a day early and need to move; see the last section.)
   - **(suggestion)** "Every mouth a vessel" can echo the drinkers' wet sores at the mouth, so the
     player recognizes the dream later in the Pine Hollow men.
 - Since then the player **refuses to sleep through the night**, so the entity can't reach them. They
@@ -40,8 +39,9 @@ on the 31st.
   mostly flooded, warm at depth. Nobody has mapped them.
 - Something **abyssal and primordial** is sealed deep in the earth, close to these tubes, with other
   primordial monsters that were sealed in with it. It went **dormant**, and it has **woken up**.
-  - **OPEN:** what sealed it, why it went dormant, and when and why it woke. (Options: the 1860s
-    well disturbed it; it has woken a little more with every dig; it never fully slept.)
+  - **OPEN:** what sealed it in the first place, and why it went dormant.
+  - **(suggestion)** The 1860s prospecting shaft started to wake it, and every dig since has woken
+    it a little more.
 - **It wants out.** It can't dig itself free, so it gets people to dig for it. Every hole on Harrow
   Lane, from the 1860s well to the Grange passages to Mercer's 2004 excavation, was somebody's own
   idea, or so they thought. It wants to be dug out of the earth.
@@ -77,7 +77,13 @@ on the 31st.
                       ...and somewhere deeper, the entity
 ```
 - **The Well** runs straight down from under the church, deep enough to reach the lava tubes. Its
-  top is the brick cistern (the round room). Everything below the cavern is **buried and filled**.
+  top is the brick cistern (the round room). Below that, the shaft is **buried and filled** by an old
+  earthquake (see "The well" under History).
+- **The cistern still holds water.** It's black, and it sits on top of the fill, seeping up from
+  below through the rubble. That fits the 1974 survey: the waterline is 26 ft down, the water "did
+  not reflect our lamps," and a weighted line "went out 60 ft and came back dry," because it hit
+  fill instead of a bottom. **(suggestion)** This is the foul water, and it's how the church has
+  been able to get at it at all.
 - **The miners' cavern** is the chamber the 1860s diggers cut out to work the well from. It runs
   about 200 ft east, under Harrow Lane, to 411. It's what the site calls the "passage" (1974 survey:
   "warm and wet to the touch").
@@ -135,16 +141,31 @@ The entity works through two tiers of influence, and it uses both to get itself 
 
 ## History (new canon dates)
 
-### The well (1860s)
-- In the **1860s** a homestead well was dug on the site of the old Harrow spring. It was cut like a
-  mine: the diggers carved out a working cavern and sank an air shaft so they could breathe while
-  they dug the well itself, deep enough to reach the lava tubes.
-- The diggers saw things down there and died. The well was **used anyway**, because it gave water,
-  until the water went foul.
+### The well (1860s and 1870s)
+- In the **1860s** prospectors sank a shaft on the site of the old Harrow spring. They cut a working
+  cavern partway down and an air shaft so they could breathe while they dug deeper. The shaft went
+  deep enough to break into the lava tubes.
+- The prospectors saw things down there and died.
+- The settlers who took over the claim **turned the shaft into a well**. Nobody thought that was
+  strange at the time. It was the entity's doing: its first known influence on anyone.
+- The well was used for years, because it gave water, until the water went foul.
 - Foul water also came up in springs around the lane. The older generation filled them in.
-- **OPEN:** whose well it was and who the diggers were. (Hiring miners to dig a well is unusual.
-  **(suggestion)** Out-of-work miners hired by the homestead family, or a prospecting shaft that hit
-  water and was turned into a well.)
+- **An earthquake buried the shaft** below the cavern, cutting the well off from the lava tubes.
+  **(suggestion)** Use the real **North Cascades earthquake of December 14, 1872**, one of the
+  largest in Washington's recorded history, which was felt across the region. That gives the player a real
+  date to find in an old Ledger or a settler's diary.
+- **OPEN:** why the entity didn't get out in the 1860s, when the shaft was open all the way down.
+  Options, which can be combined:
+  - **It was barely awake.** The prospectors' digging is what started to wake it. In the 1860s it
+    could nudge people, but it couldn't yet push hard enough to get them digging toward it.
+  - **The wrong kind of help.** The prospectors died and the settlers who drank went wrong in
+    unpredictable ways (tier 2). Raw, frightened people break before they're useful. Over the next
+    130 years it learns that what it really needs is organized, believing, sober workers who show
+    up every night: a church.
+  - **The earthquake got there first.** It was close, and the 1872 quake sealed the way before the
+    settlers finished. **(suggestion)** That's also when Fido got trapped in the cavern, cut off
+    from home.
+- **OPEN:** the settlers' family name, and what happened to them.
 - **(suggestion)** The family kept drinking until they changed. That's the first tier-2 story: a
   homestead record, a letter or an inquest the player can find.
 
@@ -168,8 +189,8 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **May 1974:** the county survey finds the cistern water black, the depth unsoundable ("a weighted
   line went out 60 ft and came back dry"), and the brick at the junction warm and wet. All of this
   fits lava tubes.
-- **(suggestion)** The Grange (or the homestead before it) is who filled in the lower well, sealing
-  Fido into the cavern.
+- **(suggestion)** Fido has been in the cavern since the earthquake. The Grange's lamps in the ten
+  niches, burning all night, are what kept it from coming up. That's what "keeping the lid on" meant.
 - **The last meeting** was June 21, 1974, and the vote to brick over the cistern, the cavern and the
   air shaft was 11 to 0. The Watch book stayed with the hall, and the lamps went to the families.
 
@@ -356,14 +377,16 @@ These need rewriting before the new lore can be built. Nothing in sites.json has
 - `evangelicalsintl.org/forum/pastor`: still works, now as Crane's false belief. Check the wording.
 - `home.millnet.com/~0315`: "a lamp that was given cannot be taken. it can only be broken."
 - `members.webhaven.com/millbrookhistory`: says nobody knows who laid the cistern. Should point at
-  the 1860s homestead well.
+  the 1860s prospecting shaft and the settlers' well.
 
 **The layout (fit to the new cross-section):**
 - `millbrookcounty.gov/gis/harrow/1974-survey`: the cistern is full of black water that "did not
   reflect our lamps," and past the junction under 411 "the passage slopes down and the floor goes
   under water." Under the new layout, the way down is the buried well under the church, and the
-  junction at 411 is the air shaft. Decide whether the cistern still holds water above the fill.
-- `mercerconstruction.com/jobs/04-117` and `users.journalbox.com/jonah_m`: the dig starts as a
+  junction at 411 is the air shaft. The cistern's water stays.
+- `mercerconstruction.com/jobs/04-117` and `users.journalbox.com/jonah_m`: the breach into the
+  round room is dated 10/13 (and Jonah's morning in the truck 10/14). Both need to move one day, to
+  the night of 10/14 and the morning of 10/15. Also, the dig starts as a
   trench from the back of 412 toward Birch Ct, hits old brick on 9/26, joins the "old brick passage"
   on 10/02, and is "under Harrow Lane" by 10/09. Under the new layout, the church sits right on top
   of the Well, so the crew should be opening its way into the cavern, then digging *down* the
