@@ -28,7 +28,7 @@ on the 31st.
   The game should never settle which one, at least until Halloween.
   - **(suggestion)** Let tiredness be a soft mechanic: the longer the player goes without rest, the
     more often the ambiguous scares happen. A daytime nap is safe; sleeping through 3 AM isn't.
-- Crane has chosen the player as one of his seven: **the skeptic** (see "The ritual of seven").
+- The player is **not** one of Crane's seven. Their editor is (see "The ritual of seven").
 
 ## What's under the lane (new canon)
 
@@ -67,8 +67,8 @@ on the 31st.
 - Abyssal things fear and hate light, any kind of light. Fido can't stand it, and the entity hates
   it too. This is why the Grange kept lamps lit all night. In gameplay, the player's **flashlight**
   does the job the red lantern used to do.
-- **OPEN:** does light keep away the dreams too? If sleeping with the lights on is enough, the
-  player could just do that, so the rules need to say why staying awake is the only safe option.
+- **Light does not block the dreams.** Keeping the lights on only helps the player stay awake. (This
+  is lore, not a gameplay rule.)
 
 ### The layout
 ```
@@ -176,13 +176,11 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **Halloween 1931.** Four Keepers (Pruitt, Strand, Coyle and Drury) put out their lamps and went
   down together to **exterminate the curse**. Fido attacked them, and being so close to the entity
   corrupted them.
-  - **Harlan Strand** was consumed by Fido. **CONFLICT:** the site says he was found in the cistern
-    the next morning and lived eleven more years in a back bedroom with every lamp lit, and the 1942
-    Ledger obituary agrees. Either "consumed" means his mind (he came back up empty), or the site's
-    version of Harlan changes.
+  - **Harlan Strand** was maimed by Fido. He was found in the cistern the next morning and lived
+    eleven more years in a back bedroom with every lamp lit, as the site already says.
   - Harlan's slate ("it had no body and it wanted one"): **Harlan was wrong.** He believed it, and
     it isn't true.
-  - **Tobias Drury** vanished. His lamp was found melted inward.
+  - **Tobias Drury** was eaten by Fido. Nobody ever found him, only his lamp, melted inward.
   - **Coyle's** hands were burned black.
   - **Pruitt** found writing left by the prospectors who died down there. **OPEN:** what it said,
     and whether it's why the Pruitts prospered afterward.
@@ -208,39 +206,57 @@ The entity works through two tiers of influence, and it uses both to get itself 
   shown him, which is partly lies, plus his family's papers and whatever the church archive holds.
 
 ## The ritual of seven (new canon)
-- **The entity needs seven deaths** at the edge of the Well to fully wake. It doesn't care who.
+- **The entity needs seven deaths** to fully wake. It doesn't care who.
 - **Crane cares.** He has chosen seven people, each with a role, because he believes the ritual is
   his and that the roles matter. They matter only to him.
+- **The deaths can't be natural.** That's why Wendell had to be killed before he died on his own.
+  The bodies of those who die early are kept on ice in the cavern until the ritual.
+  **(suggestion)** Confirm this rule: it's implied by Wendell and Paul both dying before the 31st.
 
-| Role | Person | Notes |
+| Role | Person | Why Crane chose them |
 |---|---|---|
-| The betrayer | **Paul Rennick** | The Board chair who turned on the church over Book B. |
+| The betrayer | **Paul Rennick** | The Board chair who turned on the church over Book B. Taken by the horde as early as night 4 and killed. |
 | The young | **Hannah Kettering** | Amos's daughter. **(suggestion)** The life policy Amos wrote on her in July is there so the church collects on her death. |
-| The old | **Wendell Oyler** | Killed before the game begins, because he was about to die of natural causes, and a natural death would have spoiled him for the ritual. His body is kept on ice in the cavern. |
-| The skeptic | **The player** | The reporter at 411. |
-| The prodigal | **Miriam Vole** | She kept Book B and has been deciding for six years whether to burn it. |
-| The true believer | **Vole** | **OPEN:** assumed to be **Aldous Vole**, Miriam's husband and the Board's treasurer. Confirm. |
-| True blood | **Crane's daughter** | The plot twist: "that which begets true blood." **OPEN:** who she is. |
+| The old | **Wendell Oyler** | Killed before the game begins, because he was about to die of natural causes. His body is kept on ice in the cavern. |
+| The skeptic | **Dana** | **OPEN:** assumed to be **Dana Ruiz**, the Ledger's editor, the one the player pitches the story to. Confirm. |
+| The prodigal | **Miriam Vole** | She strayed from the church (Book B) and came back. |
+| The true believer | **Aldous Vole** | When his wife went astray he stayed true to the church. Crane sees them as a matched pair. |
+| True blood | **Jess Morrow** | Crane's daughter: "that which begets true blood." |
 
-- **CONFLICT, Wendell:** the site says he died in his room at the care center on 10/10, a doctor
-  called it natural causes, and his obituary says services are at Grace Lutheran. **(suggestion)**
-  The "Grange" visitor on 10/9 killed him in a way that looked natural, and the body went missing
-  between the care center and the service. That could be a closed casket, or Pastor Anne noticing the
-  casket is too light, which makes a good clue.
-- **CONFLICT, the player:** the player is one of the seven, but in the finale they barge in. In the
-  current solved route, a true believer hits the player with a brick at about 11:40 PM and takes
-  the deed to 411. **(suggestion)** Make that the first attempt to take the player as a sacrifice.
-  It fails, or the player wakes in time, and they go down after the others.
-- **CONFLICT, Paul:** being the betrayer means he's taken. The old solved route had him leave town.
-- **Crane's daughter, OPEN:** the twist works best if she's already on the site under another name,
-  someone the player has learned to trust. Crane was born around 1954, so she'd be born in 1975 or
-  later. Some candidates:
-  - **Rosa Alvarez** (26): Wendell's aide, leaving for Olympia.
-  - **Jess Morrow:** the MCC poet who's holding Owen's tape.
-  - Someone new who's introduced early as an ally.
-- **Numbers:** the Grange still had ten Keepers and ten lamps, and the Board is still ten men. The
-  ritual is seven. Pages that tie the ritual to ten (ten deeds, ten doors, "the eight") need
-  rewriting.
+### Wendell (decided)
+- The "Grange" visitor on 10/9 killed him in a way that looked natural: the light switched off at
+  3:15, and he was found unresponsive in the morning. The care center's doctor wrote natural causes.
+- His body went missing between the care center and the funeral. The obituary already says "Services
+  will be private." **(suggestion)** A closed casket, or a casket that the pallbearers find too
+  light.
+- **(suggestion)** Night 6's new goal: find out where Wendell's body went, which leads to the cavern.
+
+### Paul (decided)
+- Paul is a **mentor** to the player early in the game.
+- He's also a dreamer. He's lived at 413 for decades and has dreamed about what's under the lane for
+  years, and he got close to the truth, but he's a little off the mark. **OPEN:** what he gets
+  wrong. That lets him teach the player useful things and a few wrong ones.
+- He keeps a red observing lamp, which is only an astronomer's habit.
+- **Night 4 (or so):** the horde (the infected cultists from Pine Hollow) takes him and kills him. He
+  can't be saved. His body goes on ice with Wendell's.
+
+### Jess Morrow (decided)
+- Crane's daughter. When Crane went to prison for fraud, his wife was pregnant with her. She divorced
+  him and left town, and Jess grew up away from Millbrook before coming back to go to school nearby
+  (MCC). **OPEN:** whether Jess knows.
+- She's already on the site: poems at `members.webhaven.com/jessm`, vocals in Seismometer, holding
+  Owen's copy of the HARROW tape in her sock drawer, and the Watch log has already reported her
+  (10/08: "A girl named Jess took it. Dorm C.").
+- **CONFLICT, her age:** the site has Crane **sentenced in June 1998, at 44**
+  (`millbrookledger.com/archive/1998-crane`). A daughter conceived then would be about 6 in 2004,
+  but Jess is a college student, born around 1985. Ways to fix it:
+  - **An earlier conviction.** Crane served a short sentence for fraud around 1984 to 1985, before
+    the pantry case. His wife left then, pregnant. The 1998 case was his second offense. This fits
+    best, since a repeat offender getting three years is believable.
+  - **She left for a different reason.** His wife left in about 1985, pregnant, around the time of
+    the Little Lambs case. The "prison" part is dropped.
+  - **Change the dates of the pantry fraud.** This is the most work, because the 1997 pantry
+    flyer, the 1999 article and Book B (1993 to 1997) all depend on them.
 
 ## The groups
 - **The congregation and the eight** (Aldous Vole, Nathaniel Drury, Samuel Pell, Isaac Mercer,
@@ -258,19 +274,21 @@ The entity works through two tiers of influence, and it uses both to get itself 
   - **watchman**, Deputy Daniel Drury: not on the Board; wants to "hold Him" and point Him at evil.
 
   Each believes he'll be the one holding it afterwards.
-- **Pine Hollow is a secret insane asylum.** Its people look after the ones who drank the water and
-  prepare them. The Lodge's "deliverance wing" is where the drinkers are kept.
+- **Pine Hollow is a secret insane asylum** for the people the water has changed.
+  - **The caretakers are in charge:** the Lodge staff (Brother Samuel, Sister Joan). They look after
+    and prepare the infected.
+  - **The residents of lots 24 to 40 are the infected:** true-believing cultists who drank the water,
+    separate from the main congregation. These are **the horde**: the men with wet sores at the
+    mouth who bought out the buckshot, who take Paul, and who fight in the finale.
   - **OPEN:** prepare them for what?
-  - **OPEN:** who are the drinkers: Ruth Pell, Mrs. Tate and Dale Kirsch (the three from the wing in
-    the old plan)?
-  - **CONFLICT:** the men on lots 24 to 40 were "Crane's true believers," and one has a wet sore at
-    the mouth, which marks him as a drinker. Are those men the keepers or the kept?
+  - **OPEN:** whether the deliverance wing (Ruth Pell, Mrs. Tate, Dale Kirsch) are infected, or
+    just held there.
 - **The diggers.** **(suggestion)** Ashby Staffing recruits men who need work and housing, like Dale
   Kirsch, for "the warehouse," which nobody can find. The warehouse is the dig.
 - **Miriam Vole (née Hale)** has read the whole book. She is "the last one who can still choose" and
   one of Crane's seven.
 
-## Halloween night (the finale)
+## Halloween night (the finale): needs more thought
 - **The climax is the gathering of the seven** at the edge of the Well, once the dig reaches the lava
   tubes and the entity gazes up. The player barges in to stop it.
 - There are still two Halloween nights, depending on whether the player solved the case (finished
@@ -283,17 +301,17 @@ The entity works through two tiers of influence, and it uses both to get itself 
 ### OPEN: how the player stops it
 The entity doesn't care about Crane's roles, so the player can't win by spoiling the symbolism. Only
 the count, the hole and the light matter. Ideas, which can be combined:
-1. **Break the count.** Seven deaths are needed. Free the living sacrifices (Paul, Hannah, Miriam,
-   Aldous, the daughter) so there can't be seven. **Wendell's body on ice** is a puzzle in itself:
-   take it, and the count can't be made that night. Good stealth gameplay, and it pays off the
-   investigation.
+1. **Break the count.** Seven deaths are needed. Free the living sacrifices (Hannah, Dana, Miriam,
+   Aldous and Jess) so there can't be seven. **Wendell's and Paul's bodies on ice** are a puzzle in
+   themselves: take them, and the count can't be made that night. Good stealth gameplay, and it pays
+   off the investigation.
 2. **Light it up.** Mercer's generator and work lights are already down there, and "the room doesn't
    like the work light." When the entity gazes up, the player turns every light on and points it
    down the Well. It's the flashlight mechanic at its biggest.
 3. **Bury it again.** Recreate the 1872 earthquake: Mercer's blasting charges, the excavator, the
    cistern wall. Collapse the Well back over the tubes and trap it the way the earthquake did. This
    rhymes with the history the player has uncovered.
-4. **True blood refuses.** Crane's daughter turns on him at the edge. It doesn't stop the entity,
+4. **True blood refuses.** Jess turns on her father at the edge. It doesn't stop the entity,
    but it breaks Crane, and the believers fall apart without him.
 
 **(suggestion)** Solved route: 1, then 2, then 3. The player frees enough of the seven to buy time,
@@ -305,6 +323,7 @@ church survives.
 - What the player fights on the way in: Fido, the Pine Hollow men, or both.
 - Whether Drury still breaks with the Upper Room over Hannah, and whether Fido takes him for it.
 - What happens to Crane.
+- Both endings, in general. They need more thought before anything here is decided.
 
 ## Notes
 - **Night 6 needs a new goal.** It used to be "find where the red lamp went." **(suggestion)** Find
@@ -345,14 +364,15 @@ church survives.
 ## People (quick reference)
 - **Paul Rennick** (413) was Board chair from 1999 to 2001 and was pushed out in March 2003 for
   asking about Book B. His mortgage was assigned to Crane Holdings on 9/27, and the trustee's sale
-  is 11/1. He keeps a red observing lamp, which is only an astronomer's habit. He's Crane's
-  **betrayer**.
+  is 11/1. The player's early mentor; killed around night 4. Crane's **betrayer**.
+- **Dana Ruiz**, the Ledger's editor (assumed): Crane's **skeptic**.
 - **Rosa Alvarez** (409) is a CNA at Millbrook Care Center who looked after Wendell. She's leaving
   for Olympia.
 - **Carol Lindqvist**, of Little Lambs (1977 to 1986, 405 Harrow), now quilts in Spokane.
 - **Hannah Kettering** works the Judgement House ticket table and the Prayer Watch. She's Crane's
   **young**.
-- **Miriam and Aldous Vole:** the **prodigal** and (assumed) the **true believer**.
+- **Miriam and Aldous Vole:** the **prodigal** and the **true believer**.
+- **Jess Morrow** (MCC, Seismometer): Crane's daughter, **true blood**.
 - **Dale Kirsch** (newbrother_d) is in the deliverance wing.
 - **MCC:** Owen Hart's HARROW doc (cancelled) and his band Seismometer (Jess, Priya, Tyler, Owen).
   Their "315" field recording has a voice under the hum.
@@ -393,10 +413,12 @@ These need rewriting before the new lore can be built. Nothing in sites.json has
   the Crane family's well.
 - `millbrookledger.com/archive/1977-grange-sold`: should hint that Crane came back to his family's
   land, or at least not contradict it.
-- `millbrookledger.com/obituaries`, `millbrookcarecenter.com/incidents`: Wendell's death and funeral
-  (see "CONFLICT, Wendell").
-- `millbrookledger.com/archive/1942-strand` and `members.webhaven.com/millbrookhistory`: Harlan
-  living eleven years (see "CONFLICT" under 1931).
+- `millbrookledger.com/obituaries`: fine as is ("Services will be private"), but a later page could
+  show the missing body.
+- `millbrookledger.com/archive/1998-crane` (and any page dating Crane's prison term): depends on the
+  fix for Jess's age.
+- `members.webhaven.com/jessm`, `soundhaus.com/seismometer`: room for early hints that Jess isn't
+  from Millbrook, or that her mother won't talk about her father.
 
 **The layout (fit to the new cross-section):**
 - `millbrookcounty.gov/gis/harrow/1974-survey`: past the junction under 411 "the passage slopes down
