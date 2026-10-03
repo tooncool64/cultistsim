@@ -303,7 +303,7 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **The body** went missing between the care center and the private service. The blotter has an
   alarm at **Beckett Funeral Home** on 10/12 at 2:50 AM: rear door unlocked, "nothing missing," Dep.
   Drury responding. The obituary says "Services will be private."
-- **Wendell's journal.** Ron sold his grandfather's Keeper's journal (1931 to 1998: dates, hours,
+- **Wendell's journal.** Ron sold his grandfather's Keeper's journal (1931 to March 2003, when he went into the care home: dates, hours,
   "3:15, ground," and "awake" over and over, with a drawing of the old workings in the back) on
   BidHaus. h\*\*\*e won it at 3:14:59 on 10/9 after asking whether it had a map, a Strand Title sedan
   took it off Ron's porch that night, and it's in Levi's vault at 403 Harrow (`oyler_journal.jpg`:
@@ -517,6 +517,11 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - Whether the phenomena that started around 10/05, before the breach, are the dig getting close to
   the cavern. (The site has the hum "every night since at least 10/05.")
 - How deep the bottom of the old well is, and how fast the crew gets there night by night.
+- **Where the horde got the water before 10/14.** The cistern and cavern were sealed until the breach,
+  and Crane's 1983 vial was a single drink, yet the Pine Hollow men were already changed in early
+  October. On the site E.C. only says "They drank what I gave them." **(suggestion)** Crane dug out
+  one of the old filled springs years ago, on church land (perhaps 401 Harrow, merged into 412 in
+  06/2004).
 
 **History**
 - Whether the Pruitt papers are why the Pruitts prospered after 1931.
