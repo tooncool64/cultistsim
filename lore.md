@@ -114,9 +114,11 @@ on the 31st.
 - **When they reach the lava tubes, the entity gazes up at them,** and that's when it has Crane begin
   the ritual of seven at the edge of the Well. **(suggestion)** That happens on the night of the
   31st.
-- **OPEN:** where the 3:15 phenomena that started around 10/05 come from, before the breach.
-  **(suggestion)** The dig getting close to the cavern.
-- **OPEN:** what the 3:15 hum is, and why that time.
+- **The 3:15 hum is the entity's restlessness:** small movements as it stirs in its sleep. That's
+  why it gets more frequent and more intense as the dig gets closer. Why 3:15? Because it's cool.
+  (Nobody in the game ever learns why.)
+- **OPEN:** whether the phenomena that started around 10/05, before the breach, are the dig getting
+  close to the cavern.
 
 ### How it reaches people
 The entity works through two tiers of influence, and it uses both to get itself free.
@@ -161,8 +163,10 @@ The entity works through two tiers of influence, and it uses both to get itself 
   before it could get anyone to dig deeper. **(suggestion)** Add that the mad, drinking Cranes broke
   before they were any use. Over the next 130 years it learns that what it really needs is
   organized, believing, sober workers who show up every night: a church.
-- **OPEN:** what happened to the Cranes after they went mad, and how the land passed out of the
-  family before the Grange built on it in 1911.
+- **What happened to the Cranes:** the family scattered. Some died and some were committed. The
+  patriarch's granddaughter had Elias out of wedlock, so Elias is the last of the line, and nobody on
+  the lane connects him to the old family.
+- **OPEN:** how the well site passed out of the family before the Grange built on it in 1911.
 
 ### The Grange (1911 to 1974)
 - **Chartered** June 21, 1911, by nine families, on the site of the old well. The Grange knew a fair
@@ -182,8 +186,13 @@ The entity works through two tiers of influence, and it uses both to get itself 
     it isn't true.
   - **Tobias Drury** was eaten by Fido. Nobody ever found him, only his lamp, melted inward.
   - **Coyle's** hands were burned black.
-  - **Pruitt** found writing left by the prospectors who died down there. **OPEN:** what it said,
-    and whether it's why the Pruitts prospered afterward.
+  - **Pruitt** found writing left by one of the prospectors who died down there. It describes
+    **Fido**, **the earthquake**, **the entity's glow** far below, and what being near it did to the
+    writer and the other miners.
+    - **(suggestion)** The glow fits an abyssal thing that hates light: deep things make their own
+      light and hate everyone else's.
+    - **OPEN:** whether this writing is why the Pruitts prospered afterward, and where it is now (the
+      Pruitt line, Lydia Greaves, the church archive).
   - W. (Wendell) Oyler kept his lamp lit and stayed up on the lane.
 - **May 1974:** the county survey finds the cistern water black, the depth unsoundable, and the
   brick at the junction warm and wet.
@@ -191,11 +200,24 @@ The entity works through two tiers of influence, and it uses both to get itself 
   air shaft was 11 to 0. The Watch book stayed with the hall, and the lamps went to the families.
 
 ## Elias Crane (new canon)
-- **He is the last of the Crane family.** In 1977, at 23, he bought the Grange hall, which was his
-  family's old land. **(suggestion)** Nobody on the lane knows that.
-- He read the Keepers' book "like a warranty," and he found a **sealed vial** that he thought was
-  moonshine and drank. It was the foul water. **OPEN:** where he found it (with the Grange's things,
-  in the lower room, or among Crane family papers).
+- **He is the last of the Crane family**, born to the patriarch's granddaughter out of wedlock. In
+  1977, at 23, he bought the Grange hall, which stood on his family's old land. **(suggestion)**
+  Nobody on the lane knows that.
+- He read the Keepers' book "like a warranty."
+- **The vial:** Crane found a sealed vial inside a wall of **his family's house** while renovating it
+  to sell. He thought it was moonshine and drank it. It was the foul water.
+- **The buyer was Paul Rennick.** The house is **413 Harrow Lane**, and the assessor already shows
+  Paul acquiring it in **1983**. Paul has been sleeping in the Crane house, next to the Well, for 21
+  years, which is part of why he dreams.
+  - **CONFLICT, the house:** the assessor says 413's house was **built in 1952**, and the 1977 Ledger
+    story has Crane living in "his rented house down the street." **(suggestion)** A Crane relative
+    built the 1952 house on the old family plot. Elias rented it from the estate in 1977, inherited
+    it, and renovated it to sell in 1983. The vial was hidden in the old part, or carried over from
+    the first homestead. Selling in 1983 also fits money trouble just before his first fraud
+    conviction (1984 to 1985).
+  - **(suggestion)** That means Crane drank in 1983, not 1977. The 1977 trip to the lower room,
+    "something answered him from a long way down," came from dreams alone, and the vial is what
+    tipped him over.
 - **Crane believes he is possessed.** He believes the entity lives in him and chose him, and he has
   a grand idea of himself as its tenant and its chosen one. **None of that is true.** The entity has
   only ever worked on him from far away, through dreams and the water. It flatters him because a man
@@ -255,7 +277,7 @@ The entity works through two tiers of influence, and it uses both to get itself 
 ### Jess Morrow (decided)
 - Crane's daughter. When Crane went to prison for fraud, his wife was pregnant with her. She divorced
   him and left town, and Jess grew up away from Millbrook before coming back to go to school nearby
-  (MCC). **OPEN:** whether Jess knows.
+  (MCC). **Jess knows** that her father is a crazy preacher, and that's all she knows.
 - She's already on the site: poems at `members.webhaven.com/jessm`, vocals in Seismometer, holding
   Owen's copy of the HARROW tape in her sock drawer, and the Watch log has already reported her
   (10/08: "A girl named Jess took it. Dorm C.").
@@ -281,8 +303,12 @@ The entity works through two tiers of influence, and it uses both to get itself 
   Each believes he'll be the one holding it afterwards.
 - **Pine Hollow is a secret insane asylum** for the people the water has changed.
   - **The leaders are the Lodge caretakers** (Brother Samuel, Sister Joan). They are **not
-    infected**, and they don't fully understand what's going on. Crane tells them to look after the
-    residents as charity, and they do.
+    infected**, and they think they're running a retirement home and asylum for the sick and needy.
+    Crane asked them to look after the residents as charity, and some caretakers are related to
+    people in the congregation. Crane quotes 1 Timothy 5:8 at them: anyone who doesn't provide for
+    their own family "is worse than an unbeliever."
+  - They **aren't preparing anyone for anything**, and they don't believe they are. Some of them have
+    doubts.
   - **The residents of lots 24 to 40 are the infected:** true-believing cultists who drank the water,
     separate from the main congregation, and slightly mutated. They are **the horde**, Crane's
     private army, as much as a bunch of slightly mutated, crazed people can be. They do the dirty
@@ -429,6 +455,9 @@ These need rewriting before the new lore can be built. Nothing in sites.json has
   POINTS ON A STAR. 8 ARE LIT", the "NEW FACTS" lamp counts) and "3 AM IS THE DEVIL'S HOUR," and keep
   the church-business accusations. Optionally add a few small slips that match `~prennick`'s
   phrasing, so the player can connect them.
+- `millbrookcounty.gov/assessor/413-harrow`, `home.millnet.com/~prennick`: room to show that Paul bought
+  413 from Elias Crane in 1983 (seller of record, or a line in Paul's history). Check against the
+  "CONFLICT, the house" fix.
 - `millbrookledger.com/staff`: Dana Ruiz is already listed as editor. Room to give her a voice, such
   as a skeptical line on the staff page.
 - `members.webhaven.com/jessm`, `soundhaus.com/seismometer`: room for early hints that Jess isn't
