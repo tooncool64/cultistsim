@@ -67,16 +67,16 @@ on the 31st.
 
 ### Light
 - Abyssal things fear and hate light, any kind of light. Fido can't stand it, and the entity hates
-  it too. This is why the Grange kept lamps lit all night. In gameplay, the player's **flashlight**
-  does the job the red lantern used to do.
+  it too. In gameplay, the player's **flashlight** does the job the red lantern used to do.
 - **Light does not block the dreams.** Keeping the lights on only helps the player stay awake. (This
   is lore, not a gameplay rule.)
 - **The church's war on lights.** Crane has the church, the HOA and the Prayer Watch treat any light
   left burning at night as an occult sign: Tract #7 ("leaves a light burning outdoors all night"),
   "Satan in Suburbia" slide 9 ("the night vigil"), HOA Sec. 4.7, and the dedication's rule that
   nobody brings a light below the lower hall. Nobody but the Upper Room knows why.
-- **There is no red-light rule.** Paul's lamp has a red filter only because he's an astronomer. The
-  townspeople who once trusted red (Kayleigh's dad, the glow-stick costume posts) now trust light.
+- **There is no red-light rule and no lamp motif.** Paul's red lamp is an ordinary shop lamp with a
+  red bulb, because he's an astronomer. The townspeople who once trusted red (Kayleigh's dad, the
+  glow-stick costume posts) now trust light in general.
 
 ### The layout
 ```
@@ -154,16 +154,19 @@ The entity works through two tiers of influence, and it uses both to get itself 
   families, Harvest Fellowship workers, the Birch Court duplexes).
   - **411** matters most, because the air shaft is under its shed (`forum/star`).
   - **413** Crane wants "for his own reasons": it's his family's homestead.
-- **The ten-point star** (eight lit, two dark) is the Board's symbol for the ten parcels around the
-  Well. It shows up all over town: Walt's model railroad, Joan's figurines, Barb's quilt, the altar
-  cloths, harmonic_truth's counting. It's still true on the new canon: eight parcels are the
-  church's, and 411 and 413 are the two left.
+- **The ten-point star** (eight of ten) stands for one thing only: **the church spreading through
+  Millbrook**, parcel by parcel. The ten points are the ten parcels around the Well, eight are the
+  church's, and 411 and 413 are the two left. It shows up in `forum/star` ("ours" and "not yet"), the
+  Board page ("Eight are His"), Walt's model railroad (eight houses painted church white), Joan's
+  "Good Neighbors" figurines, Barb's "Ten Houses" quilt (the gold ones "have come into the church
+  family"), the Christian Web Ring rejections and harmonic_truth's counting ("EVERY HOUSE THEY COUNT
+  IS A HOUSE THEY TOOK"). It is never about lamps or light.
 
 ## History
 
 ### The Crane family and the well (1866 to 1872)
-- **Josiah Crane** came up from Portland in 1866 with money from the river trade and bought most of
-  what is now Harrow Lane. In **1868** he hired men from the played-out diggings to sink a shaft where
+- **Josiah Crane** came west in 1866 from the Carolina low country with what the Civil War had left of
+  a cotton fortune made on enslaved labor, and bought most of what is now Harrow Lane. In **1868** he hired men from the played-out diggings to sink a shaft where
   the old Harrow spring rose. They cut a working cavern and an air shaft and dug deep enough to break
   into the lava tubes.
 - Three of the crew died that first winter. One letter from the crew survives: they "heard it before
@@ -182,9 +185,23 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **After:** the family scattered. Some died and some were committed. The **well lot** was put in
   trust and later given to the town.
 - **The homestead** (413) stayed with one branch of the family. The original house burned in 1919,
-  and Josiah's grandson **Abner Crane** rebuilt it in **1921**. Abner knew about the well, kept a
-  lamp in every window, wrote a great deal in notebooks, and **hid a vial of the foul water in one of
-  the walls**. He died in 1976.
+  and Josiah's grandson **Abner Crane** rebuilt it in **1921**. Abner knew about the well, never let the
+  house go dark, wrote a great deal in notebooks, and **hid a vial of the foul water in one of the
+  walls**. He died in 1976.
+- **The Crane misfortunes**, as Abner counted them: cousins who went insane, the heir (Abner's older
+  brother) killed in France in 1918, and the next heir (a nephew) killed on Guadalcanal.
+- **Abner's note** (decided), the one that sends Elias down in 1977: it says that Abner's grandfather,
+  Josiah, found something down in the well that brought misfortune and doom on the whole family, and
+  lists what it cost them. Abner believed the family was **cursed for its slaveholding**, that the
+  Cranes had "brought their trouble with them from Carolina, and earned every bit of it there," and
+  he begged whoever read it not to go down.
+  - This is one more character explaining the entity in their own terms. Abner's guilt reading is
+    wrong about the cause (the entity is no one's judgment) and right about the family. Elias reads
+    the same note and sees an invitation: in `forum/pastor`, "He thought it was a judgment on us. I
+    thought it was an invitation."
+  - On the site: `millbrookhistory/crane-well` (the cotton fortune "nobody here asked about," the
+    brother in France, the nephew on Guadalcanal, the Carolina line) and `forum/pastor`. The note
+    itself isn't on the site.
 - **Elias Crane** is the son of a Crane granddaughter, born out of wedlock around 1954. Elias calls
   Abner his uncle, though Abner was really his mother's cousin. The estate went to Elias in 1981.
 
@@ -195,33 +212,42 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - The Grange knew a fair amount: that a curse lay under the lane and bore ill will toward the town
   and everyone in it, that it worked on sleepers and drinkers, and that it hated light. Master Hale
   read it as the Beast of Revelation 13. That reading is wrong, but the rules were right: keep the
-  lamps lit, don't drink, don't dig, don't go down (`keepers_book_p01.jpg`).
-- There were ten Keepers with ten brass lamps, lit dusk to dawn. The Oyler lamp, nearest the Well,
-  was "first lit, last out." There is **no red lamp**.
-- **(suggestion)** The Grange's lamps burning all night kept Fido down in the cavern. That's what
-  "keeping the lid on" meant.
+  Watch, don't drink, don't dig, don't go down (`keepers_book_p01.jpg`).
+- **The Watch.** There were ten Keepers, one for each household nearest the Well, and every night of
+  the year one of them **sat up from dusk until dawn**, with a light in his window, writing down what
+  he heard. "So long as one man on the lane is awake, it cannot have all of us at once." The Oylers,
+  nearest the Well, kept the last hours, three until first light, every night. This is the Grange's
+  answer to the dreams, and it's the same thing the player is doing in 2004. There are **no Grange
+  lamps**.
+  - The 1911 map marks each Watch house with a small open eye; the Oyler eye is drawn larger.
+  - The ten niches in the round room are black with soot that nobody can explain.
+  - Wendell kept the last watch at home for sixty years after 1931 and logged it in a journal (see
+    "Wendell" below). Clarence called it "keeping the lid on."
 - **Halloween 1931.** Pruitt argued the Grange had spent twenty years keeping a lid on a pot when it
-  ought to put out the fire. Four Keepers (Pruitt, Strand, Coyle and Drury) took their lamps off
-  their porches, along with shotguns and kerosene, and went down to **exterminate the curse**. Fido
+  ought to put out the fire. The four Keepers who had the Watch that night (Pruitt, Strand, Coyle
+  and Drury) left their windows dark and went down with shotguns, lanterns and kerosene to
+  **exterminate the curse**. Wendell sat up alone for the three o'clock watch. Fido
   attacked them, and being so close to the entity corrupted them (`keepers_book_p02.jpg`, the 1931
   Ledger).
   - **Harlan Strand** was maimed. Wendell found him at the bottom of the cistern "torn about the legs
-    and the side." He lived eleven more years in a back bedroom with every lamp lit.
+    and the side." He lived eleven more years in a back bedroom with every light in the house burning, because he
+    screamed when the rooms went dark.
   - Harlan's slate ("it had no body and it wanted one"): **Harlan was wrong.** In `forum/upper/dog`,
     E.C. tells Levi that Harlan "had it backward."
-  - **Tobias Drury** was eaten. Only his melted lamp and one boot were found.
+  - **Tobias Drury** was eaten. Only his shotgun, its barrel bent double, and one boot were found.
   - **Coyle's** hands were burned black.
   - **Pruitt** brought up writing left by one of the 1868 crew, describing Fido, the earthquake, a
     deep hum far below, and what being down there did to the men.
     - He **sold it to the Millbrook Historical Society in 1954**. After Clarence Oyler died in
       December 1997, the Society found its folder empty, with no sign of forced entry
       (`millbrookhistory/crane-well`). The horde stole it, and it's in the **church archive**.
-  - W. (Wendell) Oyler kept his lamp lit and stayed up on the lane.
+  - W. (Wendell) Oyler kept the Watch and stayed up on the lane.
 - **May 1974:** the county survey finds the cistern water black and warm, the depth unsoundable, and
   the old workings running 200 ft east to the Oyler air shaft. Wendell stood in the middle of the
-  chamber the whole time, holding his lamp as high as it would go.
+  chamber the whole time, holding a work light as high as it would go.
 - **The last meeting** was June 21, 1974, and the vote to brick over the cistern, the cavern and the
-  air shaft was 11 to 0. The Watch book stayed with the hall, and the lamps went to the families.
+  air shaft was 11 to 0. The Watch book stayed with the hall. In 1977 Wendell told the Ledger the Watch
+  had ended with the Grange "except at my house, where it hasn't."
 
 ## Elias Crane
 - **He is the last of the Crane family.** Nobody on the lane connects him to the old family, but the
@@ -229,8 +255,8 @@ The entity works through two tiers of influence, and it uses both to get itself 
   twice, and E.C.'s pencil note in the Keepers' book ("My family's name is spelled correctly, at
   least").
 - **1977:** Elias comes back to Millbrook and rents Abner's house from the estate, which the Ledger
-  calls "his rented house down the street." In one of Abner's notebooks he finds a note about the
-  well that says what's under the hall, and says not to go down. The town sells him the land for
+  calls "his rented house down the street." In one of Abner's notebooks he finds **Abner's note**
+  (see above), which begs whoever reads it not to go down. The town sells him the land for
   $1,200 and the Grange's trustees sell him the hall and its contents ("a song, and not a long one").
   He goes down into the lower room alone, something answers him "from a long way down," and the
   dreams begin. He turns the hall into his church.
@@ -277,10 +303,14 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **The body** went missing between the care center and the private service. The blotter has an
   alarm at **Beckett Funeral Home** on 10/12 at 2:50 AM: rear door unlocked, "nothing missing," Dep.
   Drury responding. The obituary says "Services will be private."
-- The church also took his **Grange lamp**: Ron listed it on BidHaus, h\*\*\*e won it at 3:14:59 on
-  10/9, a Strand Title sedan took "something that glowed" off Ron's porch, and it's in Levi's vault
-  at 403 Harrow (`lamp_oyler.jpg`: "403 vault, shelf B. Do not light."). The church is gathering up
-  the Grange's lamps so that none of them can be lit again.
+- **Wendell's journal.** Ron sold his grandfather's Keeper's journal (1931 to 1998: dates, hours,
+  "3:15, ground," and "awake" over and over, with a drawing of the old workings in the back) on
+  BidHaus. h\*\*\*e won it at 3:14:59 on 10/9 after asking whether it had a map, a Strand Title sedan
+  took it off Ron's porch that night, and it's in Levi's vault at 403 Harrow (`oyler_journal.jpg`:
+  "403 vault, shelf B. Do not read it alone."). Drury asked the care center about "notebooks or
+  journals." The church wanted the map.
+- The images folder also has `parcel_01.jpg` to `parcel_10.jpg`, the Board's photos of each house as
+  it comes into the church; 09 and 10 are empty placeholders dated 10/31.
 
 ### Paul
 - Paul is a **mentor** to the player early in the game. He sends the player to the pantry reports
@@ -299,8 +329,10 @@ The entity works through two tiers of influence, and it uses both to get itself 
     Paul's advice to trust.
   - `home.millnet.com/~0315` is **not** Paul's. It's the church's calendar, and Paul links to it as
     "THEY KEEP A CALENDAR."
-- His lamp is one of the brass Grange lamps. Wendell gave it to him in 1983 because "that house needs
-  a light more than most." Paul put a red filter on it for his night vision.
+- His red lamp is an old shop lamp with a red bulb. When he moved in, Wendell told him that house
+  needed a light on at night more than most, and that somebody on the lane ought to be awake at
+  three. Paul has done both ever since, which is why Wendell's death leaves him the last one sitting
+  up.
 - **Around night 4:** the horde takes him and kills him. He can't be saved. His body goes on ice with
   Wendell's.
 
@@ -427,7 +459,8 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **Added:** `millbrookledger.com/archive/1985-crane` (Crane's first conviction and Ellen) and
   `members.webhaven.com/millbrookhistory/crane-well` (the Cranes, the earthquake, the stolen Pruitt
   papers).
-- **Renamed:** `evangelicalsintl.org/images/lamp_red.jpg` is now `lamp_oyler.jpg`.
+- **Renamed:** `evangelicalsintl.org/images/lamp_red.jpg` is now `oyler_journal.jpg`, and
+  `millbrookledger.com/archive/1931-lamps` is now `1931-watch`.
 - **The church's lore pages:** the Keepers' book (both pages), the 1911 map, `~0315`, the Lower Hall
   order of service and `forum/star`, all four Upper Room threads that changed (`pastor`, `order`,
   `seven`, `dog`), the Remnant Brigade guestbook, the watchlog, "Satan in Suburbia," the tracts and
@@ -436,7 +469,16 @@ The entity works through two tiers of influence, and it uses both to get itself 
   Clarence's Grange history, the 1974 survey and the 413 assessor record.
 - **The dig:** Mercer's job log and Jonah's journal (breach moved to 10/14, digging down from 10/15),
   and a Beckett Funeral Home alarm added to the blotter.
-- **The lamp trail:** BidHaus (item, member, index) and Ron's page, with the red glass removed.
+- **The lamp trail became Wendell's journal:** BidHaus (item, member, index), Ron's pages, the
+  blotter, the images index and FTP log, the care center incident log, the obituary and KMLB.
+- **Second pass (lamps and the star):** the Grange's lamps became the Watch everywhere (Keepers'
+  book, map, 1911, 1931, 1974 and 1977 Ledger stories, Clarence's history, `forum/upper/hold`), Paul's
+  lamp became an ordinary red shop lamp, and the eight-of-ten counting now always means houses the
+  church has taken (Walt, Joan, Barb, the harvest results, the classifieds, `forum/star`,
+  `~harmonic`). The Crane family's Carolina cotton money, Abner's brother and nephew, and Abner's
+  Carolina line were added to `millbrookhistory/crane-well` and `forum/pastor`.
+- **New image assets needed:** the journal pages use `@img:oyler_journal@` and
+  `@img:oyler_journal:200@` in place of the old `grange_lantern` image.
 - **Paul:** `~prennick` (bought 413 from Crane, dreams), his log (the 10/15 morning with the player)
   and `~harmonic` (now his, wrong about a machine and buried money, right about the businesses).
 - **Pine Hollow:** the POA page, the Lodge (charity residents, 1 Timothy 5:8) and the roster.
@@ -464,8 +506,8 @@ The entity works through two tiers of influence, and it uses both to get itself 
 
 **Gameplay**
 - **Night 6's goal.** It used to be "find where the red lamp went." **(suggestion)** Find out where
-  Wendell's body went: the funeral home alarm, the private service, the cavern. The lamp trail still
-  exists on the site and can be a side thread.
+  Wendell's body went: the funeral home alarm, the private service, the cavern. Wendell's journal
+  (BidHaus, the porch, Levi's vault) can be a side thread, and it holds the map of the old workings.
 - **Judgement House** still runs October 29 to 31 but has no part in the new plot. **(suggestion)**
   It puts hundreds of people on the lane on the nights the dig is closest, it covers for the crowd
   and the noise on the 31st, or its fog machine runs on Well water.
@@ -477,7 +519,6 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - How deep the bottom of the old well is, and how fast the crew gets there night by night.
 
 **History**
-- What the note in Abner's notebook says, word for word.
 - Whether the Pruitt papers are why the Pruitts prospered after 1931.
 - How much of the deep lore Crane really knows. **(suggestion)** Only what the dreams have shown him,
   which is partly lies, plus Abner's notebooks and the stolen Pruitt papers.
