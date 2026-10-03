@@ -209,16 +209,16 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **The entity needs seven deaths** to fully wake. It doesn't care who.
 - **Crane cares.** He has chosen seven people, each with a role, because he believes the ritual is
   his and that the roles matter. They matter only to him.
-- **The deaths can't be natural.** That's why Wendell had to be killed before he died on his own.
-  The bodies of those who die early are kept on ice in the cavern until the ritual.
-  **(suggestion)** Confirm this rule: it's implied by Wendell and Paul both dying before the 31st.
+- **The deaths can't be natural.** Each of the seven must be **killed with malicious intent**. That's
+  why Wendell had to be killed before he died on his own. The bodies of those killed early are kept
+  on ice in the cavern until the ritual.
 
 | Role | Person | Why Crane chose them |
 |---|---|---|
 | The betrayer | **Paul Rennick** | The Board chair who turned on the church over Book B. Taken by the horde as early as night 4 and killed. |
 | The young | **Hannah Kettering** | Amos's daughter. **(suggestion)** The life policy Amos wrote on her in July is there so the church collects on her death. |
 | The old | **Wendell Oyler** | Killed before the game begins, because he was about to die of natural causes. His body is kept on ice in the cavern. |
-| The skeptic | **Dana** | **OPEN:** assumed to be **Dana Ruiz**, the Ledger's editor, the one the player pitches the story to. Confirm. |
+| The skeptic | **Dana Ruiz** | The Ledger's editor, the one the player pitches the story to. |
 | The prodigal | **Miriam Vole** | She strayed from the church (Book B) and came back. |
 | The true believer | **Aldous Vole** | When his wife went astray he stayed true to the church. Crane sees them as a matched pair. |
 | True blood | **Jess Morrow** | Crane's daughter: "that which begets true blood." |
@@ -233,11 +233,23 @@ The entity works through two tiers of influence, and it uses both to get itself 
 
 ### Paul (decided)
 - Paul is a **mentor** to the player early in the game.
-- He's also a dreamer. He's lived at 413 for decades and has dreamed about what's under the lane for
-  years, and he got close to the truth, but he's a little off the mark. **OPEN:** what he gets
-  wrong. That lets him teach the player useful things and a few wrong ones.
+- He's also a dreamer. He's lived at 413 for decades, next to the Well, and the dreams have made him
+  **a little crazy**. He got close to the truth but is somewhat off the mark, so he teaches the
+  player useful things and a few wrong ones.
+- **He was the first to point the blame at the church**, and he worked out a lot about its earthly
+  businesses: the liens, the towing, Strand Title, Crane Holdings, the pantry money. On the money
+  he's right.
+- **He runs the conspiracy site.** `home.millnet.com/~harmonic` ("THE 3:15 TRUTH") and the handle
+  **harmonic_truth** are Paul's. It's already seeded: "PUT YOUR HAND ON YOUR TELESCOPE PIER AT 3:15.
+  (IF YOU HAVE ONE. SOME OF US DO.)", "ASK WHO BOUGHT THE DAYCARE," and the hum "WALKING TOWARD
+  411." His own homepage and observing log (`~prennick`) are calm and careful. The anonymous all-caps
+  site is what the dreams have done to him.
+  - **(suggestion)** The player works out that their mentor is harmonic_truth partway through. It's
+    a good mid-game reveal, and it makes the player wonder how much of Paul's advice to trust.
+  - `home.millnet.com/~0315` is **not** Paul's. `~harmonic` links to it as "THEY KEEP A CALENDAR,"
+    so it reads as the church's own page.
 - He keeps a red observing lamp, which is only an astronomer's habit.
-- **Night 4 (or so):** the horde (the infected cultists from Pine Hollow) takes him and kills him. He
+- **Around night 4:** the horde (the infected residents of Pine Hollow) takes him and kills him. He
   can't be saved. His body goes on ice with Wendell's.
 
 ### Jess Morrow (decided)
@@ -247,16 +259,9 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - She's already on the site: poems at `members.webhaven.com/jessm`, vocals in Seismometer, holding
   Owen's copy of the HARROW tape in her sock drawer, and the Watch log has already reported her
   (10/08: "A girl named Jess took it. Dorm C.").
-- **CONFLICT, her age:** the site has Crane **sentenced in June 1998, at 44**
-  (`millbrookledger.com/archive/1998-crane`). A daughter conceived then would be about 6 in 2004,
-  but Jess is a college student, born around 1985. Ways to fix it:
-  - **An earlier conviction.** Crane served a short sentence for fraud around 1984 to 1985, before
-    the pantry case. His wife left then, pregnant. The 1998 case was his second offense. This fits
-    best, since a repeat offender getting three years is believable.
-  - **She left for a different reason.** His wife left in about 1985, pregnant, around the time of
-    the Little Lambs case. The "prison" part is dropped.
-  - **Change the dates of the pantry fraud.** This is the most work, because the 1997 pantry
-    flyer, the 1999 article and Book B (1993 to 1997) all depend on them.
+- **Her age (decided):** Crane served a short prison sentence for an **earlier fraud, around 1984 to
+  1985**. His wife left him then, pregnant with Jess, and divorced him. Jess was born around 1985.
+  The 1998 pantry case is his **second offense**, which is why he got three years.
 
 ## The groups
 - **The congregation and the eight** (Aldous Vole, Nathaniel Drury, Samuel Pell, Isaac Mercer,
@@ -275,12 +280,14 @@ The entity works through two tiers of influence, and it uses both to get itself 
 
   Each believes he'll be the one holding it afterwards.
 - **Pine Hollow is a secret insane asylum** for the people the water has changed.
-  - **The caretakers are in charge:** the Lodge staff (Brother Samuel, Sister Joan). They look after
-    and prepare the infected.
+  - **The leaders are the Lodge caretakers** (Brother Samuel, Sister Joan). They are **not
+    infected**, and they don't fully understand what's going on. Crane tells them to look after the
+    residents as charity, and they do.
   - **The residents of lots 24 to 40 are the infected:** true-believing cultists who drank the water,
-    separate from the main congregation. These are **the horde**: the men with wet sores at the
-    mouth who bought out the buckshot, who take Paul, and who fight in the finale.
-  - **OPEN:** prepare them for what?
+    separate from the main congregation, and slightly mutated. They are **the horde**, Crane's
+    private army, as much as a bunch of slightly mutated, crazed people can be. They do the dirty
+    work (taking Paul, the shotgun fire on the 10/13 blotter, the buckshot at Route 9 Sporting) and
+    attack the player from time to time throughout the game.
   - **OPEN:** whether the deliverance wing (Ruth Pell, Mrs. Tate, Dale Kirsch) are infected, or
     just held there.
 - **The diggers.** **(suggestion)** Ashby Staffing recruits men who need work and housing, like Dale
@@ -288,7 +295,7 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **Miriam Vole (née Hale)** has read the whole book. She is "the last one who can still choose" and
   one of Crane's seven.
 
-## Halloween night (the finale): needs more thought
+## Halloween night (the finale): to be figured out later
 - **The climax is the gathering of the seven** at the edge of the Well, once the dig reaches the lava
   tubes and the entity gazes up. The player barges in to stop it.
 - There are still two Halloween nights, depending on whether the player solved the case (finished
@@ -364,8 +371,9 @@ church survives.
 ## People (quick reference)
 - **Paul Rennick** (413) was Board chair from 1999 to 2001 and was pushed out in March 2003 for
   asking about Book B. His mortgage was assigned to Crane Holdings on 9/27, and the trustee's sale
-  is 11/1. The player's early mentor; killed around night 4. Crane's **betrayer**.
-- **Dana Ruiz**, the Ledger's editor (assumed): Crane's **skeptic**.
+  is 11/1. The player's early mentor, secretly harmonic_truth; killed around night 4. Crane's
+  **betrayer**.
+- **Dana Ruiz**, the Ledger's editor: Crane's **skeptic**.
 - **Rosa Alvarez** (409) is a CNA at Millbrook Care Center who looked after Wendell. She's leaving
   for Olympia.
 - **Carol Lindqvist**, of Little Lambs (1977 to 1986, 405 Harrow), now quilts in Spokane.
@@ -415,8 +423,14 @@ These need rewriting before the new lore can be built. Nothing in sites.json has
   land, or at least not contradict it.
 - `millbrookledger.com/obituaries`: fine as is ("Services will be private"), but a later page could
   show the missing body.
-- `millbrookledger.com/archive/1998-crane` (and any page dating Crane's prison term): depends on the
-  fix for Jess's age.
+- `millbrookledger.com/archive/1998-crane`: should mention a prior conviction around 1984 to 1985.
+  The Ledger archive index could gain a story about it, and `~0315` could gain its date.
+- `home.millnet.com/~harmonic`: now Paul's. Keep the voice, but cut the lamp and star counting ("10
+  POINTS ON A STAR. 8 ARE LIT", the "NEW FACTS" lamp counts) and "3 AM IS THE DEVIL'S HOUR," and keep
+  the church-business accusations. Optionally add a few small slips that match `~prennick`'s
+  phrasing, so the player can connect them.
+- `millbrookledger.com/staff`: Dana Ruiz is already listed as editor. Room to give her a voice, such
+  as a skeptical line on the staff page.
 - `members.webhaven.com/jessm`, `soundhaus.com/seismometer`: room for early hints that Jess isn't
   from Millbrook, or that her mother won't talk about her father.
 
