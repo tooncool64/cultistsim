@@ -1,9 +1,10 @@
 # 411 Harrow Lane: lore bible
 
-**Canon is `data/sites.json`**, except where this file marks something **(new canon, 2026-10-02)**.
-Those sections replace the old Revelation and red-light lore, and the site text still needs to catch
-up with them (see "Pages that contradict the new canon" at the end). Items marked **OPEN** haven't
-been decided yet. Items marked **(suggestion)** are ideas, not decisions.
+**Canon is `data/sites.json`**, except where this file marks something **(new canon)**. Those
+sections replace the old Revelation and red-light lore, and the site text still needs to catch up with
+them (see "Pages that contradict the new canon" at the end). Items marked **OPEN** haven't been
+decided yet. Items marked **(suggestion)** are ideas, not decisions. Items marked **CONFLICT** are
+places where a decision clashes with another decision or with the site.
 
 The player is the Ledger's night reporter on the Harrow Lane beat, hired in March 2003, living at
 411 Harrow Lane. The game covers October 15 to 31, 2004. The Ledger publishes Monday, Wednesday and
@@ -11,53 +12,65 @@ Friday. The first Harrow Lane story runs in the **Monday, November 1** edition, 
 on the 31st.
 
 ## The player (new canon)
-- On the night of **October 14, 2004**, the night before the game starts, the player has a dream that
-  disturbs them so badly that they call their editor the next morning and pitch the Harrow Lane
-  investigation.
+- On the **night of October 14, 2004**, the church breaks through into the miners' cavern, and the
+  same night the player has a dream that disturbs them so badly that they call their editor the next
+  morning and pitch the Harrow Lane investigation. The game starts that day, the 15th.
 - **The dream:** the destruction of the lane. A wriggling mass comes up out of the earth, and every
   body and every mouth is a vessel for it.
-  - **Why the player:** that same night the church broke through into the miners' cavern (see "The
-    dig, night by night" below). The entity's psychic output surged up through the open cavern, and
-    the player sleeps at 411, directly above the cavern's air shaft. Nobody on the lane slept closer
-    to it.
-  - **Dates (decided):** the breach and the dream both happen on the **night of October 14**. The
-    player calls their editor on the morning of the 15th, and the game starts that day. (The site's
-    dig entries are a day early and need to move; see the last section.)
+  - **What it is:** a **victory cry** from the entity, sent out when the cavern opened. It wasn't
+    aimed at the player. They were simply the closest sleeper: 411 sits directly over the cavern's
+    air shaft.
   - **(suggestion)** "Every mouth a vessel" can echo the drinkers' wet sores at the mouth, so the
-    player recognizes the dream later in the Pine Hollow men.
+    player recognizes the dream later in the people at Pine Hollow.
 - Since then the player **refuses to sleep through the night**, so the entity can't reach them. They
   work nights, nap in daylight and drink a lot of coffee.
 - So every scare has two readings: it really happened, or the player is exhausted and hallucinating.
   The game should never settle which one, at least until Halloween.
   - **(suggestion)** Let tiredness be a soft mechanic: the longer the player goes without rest, the
     more often the ambiguous scares happen. A daytime nap is safe; sleeping through 3 AM isn't.
+- Crane has chosen the player as one of his seven: **the skeptic** (see "The ritual of seven").
 
 ## What's under the lane (new canon)
 
-### The ground
+### The One Who Slithers Beneath
 - Under Millbrook there's a vast system of **lava tubes**: old volcanic tunnels, black basalt,
   mostly flooded, warm at depth. Nobody has mapped them.
-- Something **abyssal and primordial** is sealed deep in the earth, close to these tubes, with other
-  primordial monsters that were sealed in with it. It went **dormant**, and it has **woken up**.
-  - **OPEN:** what sealed it in the first place, and why it went dormant.
-  - **(suggestion)** The 1860s prospecting shaft started to wake it, and every dig since has woken
-    it a little more.
+- Deeper still, near the tubes, something **abyssal and primordial** lies sealed in the earth with
+  other primordial monsters. This is **The One Who Slithers Beneath**, the entity. Nobody in the game
+  ever calls it that except, perhaps, Crane.
+- **How it woke:** it lay dormant until the 1860s prospectors' digging stirred it. The **earthquake
+  of 1872** woke it further, and the same earthquake buried the shaft and trapped it. It has been
+  awake, patient and stuck ever since.
+  - **OPEN:** what sealed it there in the first place, if anything did.
 - **It wants out.** It can't dig itself free, so it gets people to dig for it. Every hole on Harrow
-  Lane, from the 1860s well to the Grange passages to Mercer's 2004 excavation, was somebody's own
-  idea, or so they thought. It wants to be dug out of the earth.
-- **"Fido"** is one of the lesser monsters sealed in with it, and what the Upper Room calls "the
-  guard dog." It is **not** the entity. Fido is the dog; the entity is far below.
-  - Fido came up out of the tubes long ago and has been living in **the miners' cavern** (see "The
-    layout" below), shut in since the Grange sealed everything.
-  - Once the cavern is open, the entity, **working through Crane**, drives Fido up the **air shaft**,
-    which comes out under the shed in the player's backyard at 411.
-  - **OPEN:** how Crane's hold on Fido works (does he think he commands it?), and when during the
-    game Fido first comes up the shaft.
-- **Light.** Abyssal things fear and hate light, any kind of light. Fido can't stand it, and the
-  entity hates it too. This is why the Grange kept lamps lit all night. In gameplay, the player's
-  **flashlight** does the job the red lantern used to do.
+  Lane, from the 1860s well to Mercer's 2004 excavation, was somebody's own idea, or so they
+  thought.
+- **To fully wake, it needs seven deaths** at the edge of the Well (see "The ritual of seven").
+- **If it gets out,** the whole town goes mad and corrupt, and the people of Millbrook become a
+  source of psychic energy for it.
+- **It is seen once,** in a single scare that the player can take as a
+  hallucination. Otherwise it stays offscreen.
 
-### The layout (new canon)
+### Fido
+- **"Fido"** is one of the lesser primordial monsters, what the Upper Room calls "the guard dog." It
+  is **not** the entity.
+- It came up out of the lava tubes through the 1860s shaft and was trapped in **the miners'
+  cavern** when the 1872 earthquake buried the way back down.
+- **Night 5, 3:15 AM:** Fido comes up the **air shaft** into the shed in the player's backyard at
+  411, and from then on it terrorizes the player. (This is mainly a gameplay beat.)
+- **The entity controls Fido, not Crane.** The entity keeps it from attacking church members, as
+  long as they follow the plan.
+  - **(suggestion)** That makes "following the plan" a matter of life and death inside the church.
+    Anyone who breaks ranks, like Drury over Hannah, loses that protection, and Fido knows it.
+
+### Light
+- Abyssal things fear and hate light, any kind of light. Fido can't stand it, and the entity hates
+  it too. This is why the Grange kept lamps lit all night. In gameplay, the player's **flashlight**
+  does the job the red lantern used to do.
+- **OPEN:** does light keep away the dreams too? If sleeping with the lights on is enough, the
+  player could just do that, so the rules need to say why staying awake is the only safe option.
+
+### The layout
 ```
    412: THE CHURCH                                   411: THE SHED (player's backyard)
    (old Grange hall)                                 (built 1952 by Wendell Oyler)
@@ -68,47 +81,42 @@ on the 31st.
         |   THE MINERS' CAVERN  (~200 ft, the site's "passage")     |
         |  +--------------------------------------------------------+
         |//|
-        |//|  <- the rest of the Well, buried and filled
+        |//|  <- the rest of the Well, buried by the 1872 earthquake
         |//|     (dug out a little more each night, 10/14 to 10/31)
         |//|
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  ~~~  LAVA TUBES  (flooded, warm, unmapped)   ~~~  Fido's kind came up from here  ~~~
+  ~~~  LAVA TUBES  (flooded, warm, unmapped)       ~~~  Fido came up from here  ~~~
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                      ...and somewhere deeper, the entity
+                      ...and somewhere deeper, The One Who Slithers Beneath
 ```
 - **The Well** runs straight down from under the church, deep enough to reach the lava tubes. Its
-  top is the brick cistern (the round room). Below that, the shaft is **buried and filled** by an old
-  earthquake (see "The well" under History).
+  top is the brick cistern (the round room). Below that, the shaft is buried.
 - **The cistern still holds water.** It's black, and it sits on top of the fill, seeping up from
   below through the rubble. That fits the 1974 survey: the waterline is 26 ft down, the water "did
   not reflect our lamps," and a weighted line "went out 60 ft and came back dry," because it hit
-  fill instead of a bottom. **(suggestion)** This is the foul water, and it's how the church has
-  been able to get at it at all.
-- **The miners' cavern** is the chamber the 1860s diggers cut out to work the well from. It runs
-  about 200 ft east, under Harrow Lane, to 411. It's what the site calls the "passage" (1974 survey:
-  "warm and wet to the touch").
-- **The air shaft** was dug so the miners had air while they excavated the well. It comes up at 411,
-  and it's the shaft Wendell built the shed over in 1952 and bricked up in 1974.
+  fill instead of a bottom.
+- **The miners' cavern** is the chamber the prospectors cut out to work the shaft from. It runs about
+  200 ft east, under Harrow Lane, to 411. It's what the site calls the "passage" (1974 survey: "warm
+  and wet to the touch"). **(suggestion)** It's also the "lower room" the Grange, the Board and
+  Crane all talk about.
+- **The air shaft** was dug so the prospectors had air while they worked. It comes up at 411, and
+  it's the shaft Wendell built the shed over in 1952 and bricked up in 1974.
 - **The springs.** Foul water from the deep used to come up in springs around the lane. The older
   generation filled them in. The old Harrow spring is the one the Grange hall was built on.
-- **(suggestion)** The miners' cavern is the "lower room" the Grange, the Board and Crane all talk
-  about.
 
-### The dig, night by night (new canon)
-- **The night of the breach.** The church breaks through into the miners' cavern. This reopens the
-  way down for the first time since 1974, and the surge from below reaches the player (see "The
-  player"). Already on the site: Jonah's journal ("we broke into the old part tonight... like the
-  inside of a well"), Judith Mercer's job log (Jonah sat in the truck for an hour and "won't say what
-  he saw"), and "the room doesn't like" the work light.
+### The dig, night by night
+- **The night of October 14:** the church breaks through into the miners' cavern. This reopens the
+  way down for the first time since 1974, and the entity's victory cry reaches the player.
 - **Every night after,** the crew digs out more of the buried well, going down toward the lava
   tubes. Each night's progress makes things worse: Bill's seismometer pulses get stronger, more
   people dream, the phenomena get stranger, and the player's scares escalate.
-- **The cavern has more of the foul water.** Opening it gives the church a supply, which is how the
-  true believers (and anyone else Crane chooses) keep drinking.
-- **When they reach the lava tubes, the entity gazes up at them.** That is the moment it has Crane
-  begin his ritual, at the edge of the Well. **(suggestion)** That happens on the night of the 31st.
-- **OPEN:** whether the 3:15 phenomena that started around 10/05 come from the dig getting close
-  before the breach, or from the entity simply stirring.
+- **The cavern has more of the foul water.** Opening it gives the church a supply.
+- **When they reach the lava tubes, the entity gazes up at them,** and that's when it has Crane begin
+  the ritual of seven at the edge of the Well. **(suggestion)** That happens on the night of the
+  31st.
+- **OPEN:** where the 3:15 phenomena that started around 10/05 come from, before the breach.
+  **(suggestion)** The dig getting close to the cavern.
+- **OPEN:** what the 3:15 hum is, and why that time.
 
 ### How it reaches people
 The entity works through two tiers of influence, and it uses both to get itself free.
@@ -117,100 +125,122 @@ The entity works through two tiers of influence, and it uses both to get itself 
    slow and cumulative, and it gets stronger the closer they sleep and the longer they live there.
    They start wanting things: to dig, to buy, to stay, to bring others. They think the ideas are
    their own.
-2. **Drinkers change.** Anyone who has drunk water from the Well is reached much more strongly, and
+2. **Drinkers change.** Anyone who has drunk the foul water is reached much more strongly, and
    unpredictably. The water does things to the mind and the body that nobody can predict, and the
    entity doesn't fully control it either.
-   - Seeded already: Crane's true believers at Pine Hollow, one of whom "has a wet sore at the
-     mouth"; the "frothing" believers in the finale notes; Coyle's hands "burned black" in 1931.
+   - Seeded already: the Pine Hollow men, one of whom "has a wet sore at the mouth," and Coyle's
+     hands "burned black" in 1931.
    - **(suggestion)** Body effects could include: never feeling warm, wet sores, sleepwalking
-     toward the Well, hearing the 3:15 hum when nobody else can, knowing things they shouldn't.
-
-- **The 3:15 hum.** Something happens under the lane every night from 3:15 to 3:21, and Bill's
-  seismometer shows it getting stronger every night toward the 31st.
-  - **OPEN:** what the hum is now. (Options: the entity's dreaming at its peak, Fido moving in the
-    tubes, or the sound of whatever the diggers are getting close to.)
+     toward the Well, hearing the hum when nobody else can, knowing things they shouldn't.
 
 ### Deeds and doors
-- The old rule, "it cannot take what is not given," **is no longer a real rule.** It's what the
-  Grange and the Upper Room *believe*, because they read the whole thing through Revelation.
+- The old rule, "it cannot take what is not given," **is not a real rule.** It's what the Grange and
+  the Upper Room *believe*, because they read everything through Revelation.
 - The church buys up the lane for practical reasons: to control the land above the dig, keep the
   county and the neighbors out, and pack the lane with sleepers who can be reached (church
-  families, Harvest Fellowship workers, the Birch Court duplexes).
-- **OPEN:** whether any version of "given" still matters, for example whether a person has to
-  drink the water willingly.
+  families, Harvest Fellowship workers, the Birch Court duplexes). 411 matters most, because the air
+  shaft is under its shed.
 
-## History (new canon dates)
+## History (new canon)
 
-### The well (1860s and 1870s)
-- In the **1860s** prospectors sank a shaft on the site of the old Harrow spring. They cut a working
-  cavern partway down and an air shaft so they could breathe while they dug deeper. The shaft went
-  deep enough to break into the lava tubes.
+### The Crane family and the well (1860s to 1872)
+- The **Crane family** were the original settlers on Harrow Lane, and they were rich. In the 1860s
+  they hired prospectors to sink a shaft on the site of the old Harrow spring. The prospectors cut a
+  working cavern partway down and an air shaft so they could breathe, and they dug deep enough to
+  break into the lava tubes.
 - The prospectors saw things down there and died.
-- The settlers who took over the claim **turned the shaft into a well**. Nobody thought that was
-  strange at the time. It was the entity's doing: its first known influence on anyone.
-- The well was used for years, because it gave water, until the water went foul.
+- The digging stirred the entity. Its first known influence: the Cranes **turned the shaft into a
+  well**, and nobody thought that was strange. They used it because it gave water, until the water
+  went foul. By then the Cranes had gone mad.
 - Foul water also came up in springs around the lane. The older generation filled them in.
-- **An earthquake buried the shaft** below the cavern, cutting the well off from the lava tubes.
-  **(suggestion)** Use the real **North Cascades earthquake of December 14, 1872**, one of the
-  largest in Washington's recorded history, which was felt across the region. That gives the player a real
-  date to find in an old Ledger or a settler's diary.
-- **OPEN:** why the entity didn't get out in the 1860s, when the shaft was open all the way down.
-  Options, which can be combined:
-  - **It was barely awake.** The prospectors' digging is what started to wake it. In the 1860s it
-    could nudge people, but it couldn't yet push hard enough to get them digging toward it.
-  - **The wrong kind of help.** The prospectors died and the settlers who drank went wrong in
-    unpredictable ways (tier 2). Raw, frightened people break before they're useful. Over the next
-    130 years it learns that what it really needs is organized, believing, sober workers who show
-    up every night: a church.
-  - **The earthquake got there first.** It was close, and the 1872 quake sealed the way before the
-    settlers finished. **(suggestion)** That's also when Fido got trapped in the cavern, cut off
-    from home.
-- **OPEN:** the settlers' family name, and what happened to them.
-- **(suggestion)** The family kept drinking until they changed. That's the first tier-2 story: a
-  homestead record, a letter or an inquest the player can find.
+- **The earthquake of 1872** woke the entity further and buried the shaft below the cavern, which
+  trapped both the entity and Fido. **(suggestion)** Use the real **North Cascades earthquake of
+  December 14, 1872**, one of the largest in Washington's recorded history, so the player has a real
+  date to find in an old Ledger or a diary.
+- **Why it didn't get out then:** it had only just been stirred, and the earthquake sealed the way
+  before it could get anyone to dig deeper. **(suggestion)** Add that the mad, drinking Cranes broke
+  before they were any use. Over the next 130 years it learns that what it really needs is
+  organized, believing, sober workers who show up every night: a church.
+- **OPEN:** what happened to the Cranes after they went mad, and how the land passed out of the
+  family before the Grange built on it in 1911.
 
 ### The Grange (1911 to 1974)
-- **Chartered** June 21, 1911, by nine families, on the site of the old well. They knew something
-  was down there and read it as the Beast of Revelation 13. That reading is wrong, but the practical
-  rules they worked out were mostly right: keep it lit, don't drink, don't dig.
+- **Chartered** June 21, 1911, by nine families, on the site of the old well. The Grange knew a fair
+  amount: that a curse lay under the lane and bore ill will toward the town and everyone in it. They
+  read it as the Beast of Revelation 13. That reading is wrong, but the practical rules they worked
+  out were mostly right: keep it lit, don't drink, don't dig.
 - There were ten Keepers with ten brass lamps, lit dusk to dawn. The lamps were light against the
-  dark, nothing more. There is **no red lamp** (see "The red lamp: dropped" below).
-- **Halloween 1931.** Pruitt argued that it pays well, so four Keepers (Pruitt, Strand, Coyle and
-  Drury) put out their lamps and went down together.
-  - Harlan Strand was found in the cistern and lived eleven years in a back bedroom with every lamp
-    burning. He wrote one thing on his slate: "it had no body and it wanted one." **OPEN:** does
-    that line still fit, now that the entity wants out rather than a body? It could be Fido, or
-    Harlan could simply have been wrong.
-  - Tobias Drury vanished into the east passage. His lamp was found melted inward.
-  - Coyle's hands were burned black.
-  - Pruitt came back up and prospered. His line runs to Gary Pruitt, and then to Lydia Greaves.
-    **(suggestion)** Pruitt drank. His family's luck is the entity's influence.
+  dark, nothing more. There is **no red lamp**.
+- **(suggestion)** The Grange's lamps in the ten niches, burning all night, kept Fido down in the
+  cavern. That's what "keeping the lid on" meant.
+- **Halloween 1931.** Four Keepers (Pruitt, Strand, Coyle and Drury) put out their lamps and went
+  down together to **exterminate the curse**. Fido attacked them, and being so close to the entity
+  corrupted them.
+  - **Harlan Strand** was consumed by Fido. **CONFLICT:** the site says he was found in the cistern
+    the next morning and lived eleven more years in a back bedroom with every lamp lit, and the 1942
+    Ledger obituary agrees. Either "consumed" means his mind (he came back up empty), or the site's
+    version of Harlan changes.
+  - Harlan's slate ("it had no body and it wanted one"): **Harlan was wrong.** He believed it, and
+    it isn't true.
+  - **Tobias Drury** vanished. His lamp was found melted inward.
+  - **Coyle's** hands were burned black.
+  - **Pruitt** found writing left by the prospectors who died down there. **OPEN:** what it said,
+    and whether it's why the Pruitts prospered afterward.
   - W. (Wendell) Oyler kept his lamp lit and stayed up on the lane.
-- **May 1974:** the county survey finds the cistern water black, the depth unsoundable ("a weighted
-  line went out 60 ft and came back dry"), and the brick at the junction warm and wet. All of this
-  fits lava tubes.
-- **(suggestion)** Fido has been in the cavern since the earthquake. The Grange's lamps in the ten
-  niches, burning all night, are what kept it from coming up. That's what "keeping the lid on" meant.
+- **May 1974:** the county survey finds the cistern water black, the depth unsoundable, and the
+  brick at the junction warm and wet.
 - **The last meeting** was June 21, 1974, and the vote to brick over the cistern, the cavern and the
   air shaft was 11 to 0. The Watch book stayed with the hall, and the lamps went to the families.
 
 ## Elias Crane (new canon)
-- **1977:** Crane, 23, bought the hall and read the Keepers' book "like a warranty." He went down
-  alone, and something answered him "from a long way down."
-- **Crane believes he is possessed.** He believes the entity lives in him and chose him, and he has a
-  grand idea of himself as its tenant and its chosen one. **None of that is true.** The entity has
-  only ever worked on him from far away, through dreams. It flatters him because a man who thinks
-  he's chosen will dig, buy and sign anything.
+- **He is the last of the Crane family.** In 1977, at 23, he bought the Grange hall, which was his
+  family's old land. **(suggestion)** Nobody on the lane knows that.
+- He read the Keepers' book "like a warranty," and he found a **sealed vial** that he thought was
+  moonshine and drank. It was the foul water. **OPEN:** where he found it (with the Grange's things,
+  in the lower room, or among Crane family papers).
+- **Crane believes he is possessed.** He believes the entity lives in him and chose him, and he has
+  a grand idea of himself as its tenant and its chosen one. **None of that is true.** The entity has
+  only ever worked on him from far away, through dreams and the water. It flatters him because a man
+  who thinks he's chosen will dig, buy and sign anything.
 - This changes his `forum/pastor` post without changing a word of it: "I'm still myself" is
   true, and much worse than he means it.
-- **Crane has drunk the foul water**, though the springs had been filled in. **OPEN:** how.
-  **(suggestion)** The Grange hall was raised on the old Harrow spring, and when Crane bought it in
-  1977, a little of that spring still seeped into the lower room. Other options: a sample the
-  Keepers kept, or a filled spring he dug back out because a dream told him where to look. Either
-  way it explains "cold all the time," and why he's so receptive.
-- **OPEN:** how much of the "deep lore" Crane really knows. **(suggestion)** Only what the dreams
-  have shown him, which is partly lies, plus whatever account of the 1860s well is in the church
-  archive.
+- **OPEN:** how much of the deep lore Crane really knows. **(suggestion)** Only what the dreams have
+  shown him, which is partly lies, plus his family's papers and whatever the church archive holds.
+
+## The ritual of seven (new canon)
+- **The entity needs seven deaths** at the edge of the Well to fully wake. It doesn't care who.
+- **Crane cares.** He has chosen seven people, each with a role, because he believes the ritual is
+  his and that the roles matter. They matter only to him.
+
+| Role | Person | Notes |
+|---|---|---|
+| The betrayer | **Paul Rennick** | The Board chair who turned on the church over Book B. |
+| The young | **Hannah Kettering** | Amos's daughter. **(suggestion)** The life policy Amos wrote on her in July is there so the church collects on her death. |
+| The old | **Wendell Oyler** | Killed before the game begins, because he was about to die of natural causes, and a natural death would have spoiled him for the ritual. His body is kept on ice in the cavern. |
+| The skeptic | **The player** | The reporter at 411. |
+| The prodigal | **Miriam Vole** | She kept Book B and has been deciding for six years whether to burn it. |
+| The true believer | **Vole** | **OPEN:** assumed to be **Aldous Vole**, Miriam's husband and the Board's treasurer. Confirm. |
+| True blood | **Crane's daughter** | The plot twist: "that which begets true blood." **OPEN:** who she is. |
+
+- **CONFLICT, Wendell:** the site says he died in his room at the care center on 10/10, a doctor
+  called it natural causes, and his obituary says services are at Grace Lutheran. **(suggestion)**
+  The "Grange" visitor on 10/9 killed him in a way that looked natural, and the body went missing
+  between the care center and the service. That could be a closed casket, or Pastor Anne noticing the
+  casket is too light, which makes a good clue.
+- **CONFLICT, the player:** the player is one of the seven, but in the finale they barge in. In the
+  current solved route, a true believer hits the player with a brick at about 11:40 PM and takes
+  the deed to 411. **(suggestion)** Make that the first attempt to take the player as a sacrifice.
+  It fails, or the player wakes in time, and they go down after the others.
+- **CONFLICT, Paul:** being the betrayer means he's taken. The old solved route had him leave town.
+- **Crane's daughter, OPEN:** the twist works best if she's already on the site under another name,
+  someone the player has learned to trust. Crane was born around 1954, so she'd be born in 1975 or
+  later. Some candidates:
+  - **Rosa Alvarez** (26): Wendell's aide, leaving for Olympia.
+  - **Jess Morrow:** the MCC poet who's holding Owen's tape.
+  - Someone new who's introduced early as an ally.
+- **Numbers:** the Grange still had ten Keepers and ten lamps, and the Board is still ten men. The
+  ritual is seven. Pages that tie the ritual to ten (ten deeds, ten doors, "the eight") need
+  rewriting.
 
 ## The groups
 - **The congregation and the eight** (Aldous Vole, Nathaniel Drury, Samuel Pell, Isaac Mercer,
@@ -228,87 +258,63 @@ The entity works through two tiers of influence, and it uses both to get itself 
   - **watchman**, Deputy Daniel Drury: not on the Board; wants to "hold Him" and point Him at evil.
 
   Each believes he'll be the one holding it afterwards.
-- **Crane's true believers**: Pine Hollow lots 24 to 40, gathered by Crane himself. They've read the
-  whole book and come anyway. **(suggestion)** They're heavy drinkers of the water (tier 2), which
-  is why they're changing in body as well as mind. They're armed (the buckshot at Route 9 Sporting,
-  the shotgun fire on the 10/13 blotter).
+- **Pine Hollow is a secret insane asylum.** Its people look after the ones who drank the water and
+  prepare them. The Lodge's "deliverance wing" is where the drinkers are kept.
+  - **OPEN:** prepare them for what?
+  - **OPEN:** who are the drinkers: Ruth Pell, Mrs. Tate and Dale Kirsch (the three from the wing in
+    the old plan)?
+  - **CONFLICT:** the men on lots 24 to 40 were "Crane's true believers," and one has a wet sore at
+    the mouth, which marks him as a drinker. Are those men the keepers or the kept?
 - **The diggers.** **(suggestion)** Ashby Staffing recruits men who need work and housing, like Dale
-  Kirsch, for "the warehouse," which nobody can find. The warehouse is the dig. See Mercer's job log
-  (variance 04-117: the crew stops every night at 3:10 "by order of the client"), the classified
-  ad for "night equipment operators, close quarters, church family preferred," and Jonah Mercer
-  hitting old curved brick.
-- **Miriam Vole (née Hale)** has read the whole book. She is "the last one who can still choose".
+  Kirsch, for "the warehouse," which nobody can find. The warehouse is the dig.
+- **Miriam Vole (née Hale)** has read the whole book. She is "the last one who can still choose" and
+  one of Crane's seven.
 
-## The 10/31 plan: needs rework
-The current "true order" (`forum/upper/order`) is built on the old lore: ten deeds on the brick,
-the red lamp broken at 3:00 (now dropped), the three "given" at 3:15, and "He rises" at 4:00. Under
-the new canon:
-- **Decided:** when the dig reaches the lava tubes, the entity gazes up, and that's when it has Crane
-  start the ritual, at the edge of the Well.
-- **OPEN:** what the ritual actually does, and what Crane *thinks* it does. **(suggestion)** Crane
-  believes he's leading it. Really, the entity is using the ritual to get the last of the well
-  cleared and the people it needs gathered at the edge.
-- **OPEN:** what happens to the three from the Pine Hollow wing (M. Tate, R. Pell, D. Kirsch).
-- **OPEN:** what Hannah's insurance policy is for, and what "a younger one" means now that there's
-  no vessel.
-- The trustee's sale on 413 is still November 1.
-
-## Halloween night (the finale): needs rework
-The old finale depended on the red lantern, the giant hand refusing an unsigned deed, the False
-Prophet's spirit and a mutated Beast. All of that is gone. (The old version is in git history.)
-
-**Still works as written:**
-- There are two Halloween nights, depending on whether the player solved the case (finished the
-  chart) on October 30. Losing shows a Ledger clipping and replays from the last checkpoint. One
+## Halloween night (the finale)
+- **The climax is the gathering of the seven** at the edge of the Well, once the dig reaches the lava
+  tubes and the entity gazes up. The player barges in to stop it.
+- There are still two Halloween nights, depending on whether the player solved the case (finished
+  the chart) on October 30. Losing shows a Ledger clipping and replays from the last checkpoint. One
   solid hit kills.
-- The deed to 411 is stolen. In the solved route the power goes out, a true believer hides under the
-  bed and hits the player with a brick, and they wake at about 11:40 PM with the deed gone. Levi
-  refuses to forge the signature because the chart names him. In the unsolved route he forges it.
-- The way down: the air shaft under the backyard shed at 411 (solved), or through the church
-  (unsolved).
-- Wendell's revolver, now paired with the **flashlight** instead of the red lantern.
-- Drury breaking with the Upper Room, over Hannah.
+- The way down: the air shaft under the shed at 411 (solved), or through the church (unsolved).
+- The player's tools: Wendell's revolver and the flashlight.
 - Monday, November 1: the front page runs; Walter and Levi testify; a church archive is found.
 
-**OPEN:**
-- What the climax is, now that no hand refuses the deed. **(suggestion)** Stopping the crew before
-  they reach the lava tubes.
-- Paul's part in the finale (see "Paul Rennick: role needs rethinking").
-- What the player fights: Fido, the true believers, or something else from the tubes.
-- Whether the entity itself is ever seen. **(suggestion)** Never. At most, light from below, or a
-  sense of scale.
+### OPEN: how the player stops it
+The entity doesn't care about Crane's roles, so the player can't win by spoiling the symbolism. Only
+the count, the hole and the light matter. Ideas, which can be combined:
+1. **Break the count.** Seven deaths are needed. Free the living sacrifices (Paul, Hannah, Miriam,
+   Aldous, the daughter) so there can't be seven. **Wendell's body on ice** is a puzzle in itself:
+   take it, and the count can't be made that night. Good stealth gameplay, and it pays off the
+   investigation.
+2. **Light it up.** Mercer's generator and work lights are already down there, and "the room doesn't
+   like the work light." When the entity gazes up, the player turns every light on and points it
+   down the Well. It's the flashlight mechanic at its biggest.
+3. **Bury it again.** Recreate the 1872 earthquake: Mercer's blasting charges, the excavator, the
+   cistern wall. Collapse the Well back over the tubes and trap it the way the earthquake did. This
+   rhymes with the history the player has uncovered.
+4. **True blood refuses.** Crane's daughter turns on him at the edge. It doesn't stop the entity,
+   but it breaks Crane, and the believers fall apart without him.
 
-## The red lamp: dropped (new canon)
-There is **no special red lamp** and **no red-light rule.** Red has no power over anything.
-- **Cut:** the Grange's red-globed lamp and its whole trail (Wendell's lamp on BidHaus at 3:14:59, the
-  sedan taking "something that glowed" off Ron's porch, `lamp_red.jpg` and FTP_LOG.TXT, Levi's vault
-  at 403 Harrow, Crane breaking it at 3:00 on the 31st).
-- **Cut:** the church teaching that red lights are satanic (Tract #7, "Satan in Suburbia"). If the
-  church keeps a war on lights, it's against all outdoor lights at night, which still fits the HOA's
-  window and lighting rules.
-- **Keep, as ordinary:** Paul's red observing lamp at 413. It's an astronomer's habit, because red
-  light doesn't ruin your night vision. Any light at all holds Fido back a little, and Paul's is one
-  more light on a dark street.
-- **Cut or soften:** the storm-drain red glow, the REC light in Owen's tape, Rosa's Christmas lights
-  as protection, Carol refusing to use red, "red never stopped anybody who meant it."
-- **(suggestion)** The night-6 goal that the lamp trail used to fill needs a replacement.
+**(suggestion)** Solved route: 1, then 2, then 3. The player frees enough of the seven to buy time,
+floods the Well with light so it recoils, and brings the cistern down. Unsolved route: the player
+can only do 3, some of the seven die, the entity isn't fully awake but isn't buried either, and the
+church survives.
 
-## Paul Rennick: role needs rethinking
-Paul was built as the keeper of the red light: the old Board chair who kept a red lamp burning, paid
-the street's fines, phoned the player with "the red rule" and left them his lantern. With the red
-rule gone, most of that role goes too.
-- **Still works:** Board chair 1999 to 2001, pushed out in March 2003 for asking about Book B; his
-  mortgage assigned to Crane Holdings on 9/27 and the trustee's sale on 11/1; Bill's seismometer on
-  his telescope pier; his observing log noticing the 3:15 shaking; paying the neighbors' fines.
-- **OPEN:** what he's for now. Some options:
-  - **The skeptic who's right for the wrong reasons.** He thinks it's all fraud and land-grabbing,
-    and he's right about the money, which makes him the player's best source on the paper trail.
-  - **A tier-1 dreamer who's fighting it.** He's lived at 413 for decades, next to the Well. He
-    keeps a light on and stays up all night because he's been dreaming too, like the player. He's
-    what the player could turn into.
-  - **The one who knows the history.** He got close to Wendell and knows about the 1860s well and
-    the Grange.
-- **OPEN:** whether he still leaves town (solved route) or is supposedly killed (unsolved route).
+**Still OPEN:**
+- What the player fights on the way in: Fido, the Pine Hollow men, or both.
+- Whether Drury still breaks with the Upper Room over Hannah, and whether Fido takes him for it.
+- What happens to Crane.
+
+## Notes
+- **Night 6 needs a new goal.** It used to be "find where the red lamp went." **(suggestion)** Find
+  out where Wendell's body went, which leads to the cavern and the ritual.
+- **Pages left over from the lamp trail:** BidHaus member **h\*\*\*e**, the `~0315` page and the
+  10/09 porch theft on the blotter were all part of the lamp trail. Cut them, or repurpose them
+  (for example, the porch theft becomes something else of Wendell's: his Grange papers, or Book B).
+- **Judgement House** still runs October 29 to 31 but has no part in the new plot. **(suggestion)**
+  Give it one: it puts hundreds of people on the lane on the nights the dig is closest, it covers for
+  the crowd and the noise on the 31st, or its fog machine runs on Well water.
 
 ## The paper trail
 - **Book B.** The pantry kept two ledgers. The county got the first, and it was the $212,000 case.
@@ -327,8 +333,8 @@ rule gone, most of that role goes too.
   is something much further down.
 - **Drury and Tobias:** `forum/upper/hold`: Tobias was his great-grandfather.
 - **The air shaft under the shed:** 411 was the Oyler house (Clarence and Wendell, 1946 to 2003).
-  Wendell built the shed in 1952 over a shaft that meets the east passage and bricked it himself in
-  1974. See `millbrookcounty.gov/assessor/411-harrow`, the 1974 survey and the 2003 Watch schedule.
+  Wendell built the shed in 1952 over the shaft and bricked it himself in 1974. See
+  `millbrookcounty.gov/assessor/411-harrow`, the 1974 survey and the 2003 Watch schedule.
 - **The revolver:** Wendell's Hartford Police Special .38, bought November 1931. Ron's page lists it as
   SOLD "to the new guy who bought Grandpa's old house."
 - **The church archive:** `robots.txt` disallows `/archive/`. E.C. says it stays in the building.
@@ -339,11 +345,14 @@ rule gone, most of that role goes too.
 ## People (quick reference)
 - **Paul Rennick** (413) was Board chair from 1999 to 2001 and was pushed out in March 2003 for
   asking about Book B. His mortgage was assigned to Crane Holdings on 9/27, and the trustee's sale
-  is 11/1. His role is being rethought (see above).
+  is 11/1. He keeps a red observing lamp, which is only an astronomer's habit. He's Crane's
+  **betrayer**.
 - **Rosa Alvarez** (409) is a CNA at Millbrook Care Center who looked after Wendell. She's leaving
   for Olympia.
 - **Carol Lindqvist**, of Little Lambs (1977 to 1986, 405 Harrow), now quilts in Spokane.
-- **Hannah Kettering** works the Judgement House ticket table and the Prayer Watch.
+- **Hannah Kettering** works the Judgement House ticket table and the Prayer Watch. She's Crane's
+  **young**.
+- **Miriam and Aldous Vole:** the **prodigal** and (assumed) the **true believer**.
 - **Dale Kirsch** (newbrother_d) is in the deliverance wing.
 - **MCC:** Owen Hart's HARROW doc (cancelled) and his band Seismometer (Jess, Priya, Tyler, Owen).
   Their "315" field recording has a voice under the hum.
@@ -355,9 +364,9 @@ rule gone, most of that role goes too.
 - Abuse is only ever an accusation the church manufactures. It is never shown.
 - Every scare the player sees could be real or a sign of exhaustion. Don't confirm which until
   Halloween.
-- The entity stays offscreen. Fido stays offscreen until Halloween.
+- The entity is seen once, as a possible hallucination. Fido stays offscreen until night 5.
 - Nobody in the game understands the entity. Every character explains it in their own terms
-  (Revelation, the Grange's rules, Crane's chosen-one story, harmonic_truth's conspiracy), and every
+  (Revelation, the Grange's curse, Crane's chosen-one story, harmonic_truth's conspiracy), and every
   one of them is partly wrong.
 - Every death, and every ending, is a Millbrook Ledger clipping; deaths quote the police report.
 
@@ -366,39 +375,47 @@ These need rewriting before the new lore can be built. Nothing in sites.json has
 
 **Core lore pages (must change):**
 - `evangelicalsintl.org/images/keepers_book_p01.jpg`: "cannot take what is not given," ten doors, the
-  red lamp rule. It can keep the Revelation framing as the Grange's belief, but the red-lamp
-  rule has to go, and the well's origin should hint at the 1860s family.
-- `evangelicalsintl.org/images/keepers_book_p02.jpg`: Oyler's red lamp makes Harlan scream; E.C.'s
-  note about doors given "before a notary."
-- `evangelicalsintl.org/forum/upper/order`: the whole true order.
+  red lamp rule. It can keep the Revelation framing as the Grange's belief, but should describe a
+  curse with ill will toward the town, and hint at the Crane well.
+- `evangelicalsintl.org/images/keepers_book_p02.jpg`: Pruitt argues to bargain with the Beast, and
+  Oyler's red lamp makes Harlan scream. Under the new canon the four went down to exterminate the
+  curse, Fido attacked them, and Pruitt found the prospectors' writing. E.C.'s note about doors
+  given "before a notary" goes too.
+- `evangelicalsintl.org/forum/upper/order`: the whole true order. It becomes the ritual of seven.
+- `evangelicalsintl.org/forum/upper/seven` ("the eight", "the eight are the doors"): rework around the
+  seven.
 - `evangelicalsintl.org/forum/upper/dog`: E.C.'s False Prophet answer and the "gate" need to go.
-  "A younger one" and "He likes a clean house" can stay: the player's dream (every body and
-  every mouth a vessel) brings the vessel idea back.
-- `evangelicalsintl.org/forum/pastor`: still works, now as Crane's false belief. Check the wording.
+  "A younger one" and "He likes a clean house" can stay and now point at Hannah as the young.
+- `evangelicalsintl.org/forum/pastor`: still works, now as Crane's false belief. Add the vial and the
+  family land if wanted.
 - `home.millnet.com/~0315`: "a lamp that was given cannot be taken. it can only be broken."
 - `members.webhaven.com/millbrookhistory`: says nobody knows who laid the cistern. Should point at
-  the 1860s prospecting shaft and the settlers' well.
+  the Crane family's well.
+- `millbrookledger.com/archive/1977-grange-sold`: should hint that Crane came back to his family's
+  land, or at least not contradict it.
+- `millbrookledger.com/obituaries`, `millbrookcarecenter.com/incidents`: Wendell's death and funeral
+  (see "CONFLICT, Wendell").
+- `millbrookledger.com/archive/1942-strand` and `members.webhaven.com/millbrookhistory`: Harlan
+  living eleven years (see "CONFLICT" under 1931).
 
 **The layout (fit to the new cross-section):**
-- `millbrookcounty.gov/gis/harrow/1974-survey`: the cistern is full of black water that "did not
-  reflect our lamps," and past the junction under 411 "the passage slopes down and the floor goes
-  under water." Under the new layout, the way down is the buried well under the church, and the
-  junction at 411 is the air shaft. The cistern's water stays.
+- `millbrookcounty.gov/gis/harrow/1974-survey`: past the junction under 411 "the passage slopes down
+  and the floor goes under water." Under the new layout, the way down is the buried well under the
+  church, and the junction at 411 is the air shaft. The cistern's water stays.
 - `mercerconstruction.com/jobs/04-117` and `users.journalbox.com/jonah_m`: the breach into the
   round room is dated 10/13 (and Jonah's morning in the truck 10/14). Both need to move one day, to
-  the night of 10/14 and the morning of 10/15. Also, the dig starts as a
-  trench from the back of 412 toward Birch Ct, hits old brick on 9/26, joins the "old brick passage"
-  on 10/02, and is "under Harrow Lane" by 10/09. Under the new layout, the church sits right on top
-  of the Well, so the crew should be opening its way into the cavern, then digging *down* the
-  buried well from 10/14 on. The job log also needs nightly depth entries after the breach.
+  the night of 10/14 and the morning of 10/15. Also, the dig starts as a trench from the back of 412
+  toward Birch Ct, hits old brick on 9/26, joins the "old brick passage" on 10/02, and is "under
+  Harrow Lane" by 10/09. Under the new layout, the church sits right on top of the Well, so the crew
+  should be opening its way into the cavern, then digging *down* the buried well from 10/14 on. The
+  job log also needs nightly depth entries after the breach.
 - `millbrookcounty.gov/gis/harrow` (utility layer) and `millbrookcounty.gov/assessor/411-harrow`:
   check that they describe the shaft under the 411 shed as an air shaft, not a Grange shaft.
 
-**The red lamp trail (remove):**
+**The red lamp trail (remove or repurpose; see Notes):**
 - `bidhaus.com/item-2208131`, `bidhaus.com/member-0315`, `evangelicalsintl.org/images/lamp_red.jpg`,
   `evangelicalsintl.org/images/FTP_LOG.TXT`, the 10/09 3:30 AM entry in
   `millbrookcounty.gov/police/blotter`, the Strand Title vault in `bizsearch.sos.gov/strand-title`
-  (the lamp trail)
 - `kmlb.com/quiethours` ("You kept it lit long enough") and `home.millnet.com/~y2kron` (Ron's lamp
   listing), if they mention the lamp
 
