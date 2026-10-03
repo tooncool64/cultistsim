@@ -166,7 +166,23 @@ The entity works through two tiers of influence, and it uses both to get itself 
 - **What happened to the Cranes:** the family scattered. Some died and some were committed. The
   patriarch's granddaughter had Elias out of wedlock, so Elias is the last of the line, and nobody on
   the lane connects him to the old family.
-- **OPEN:** how the well site passed out of the family before the Grange built on it in 1911.
+- **The land:** after the family fell apart, the well site was put **in trust**, and the trust later
+  gave it to the **city**. In 1977 the city sold it back to Elias Crane, who turned the hall over the
+  Well into his church.
+  - **CONFLICT, the Grange:** the Grange was chartered on this site in 1911 and built its hall there,
+    and the 1977 Ledger story says the **Grange's trustees** sold the hall to Crane.
+    **(suggestion)** The city owned the land and leased it to the Grange in 1911, and the Grange
+    built and owned the hall. When the Grange disbanded in 1974, the lease ended. In 1977 the city
+    sold Crane the land, and the trustees sold him the hall and its contents ("a song, and not a long
+    one"). The 1977 story only needs a line about the city's half of the sale.
+- **The Crane homestead** stood on a separate plot down the lane, where **413** is now. The original
+  house burned down, and **Elias's uncle** built a new house on the old homestead. He was a Crane who
+  knew about the well, and he hid away a vial of the foul water in one of its walls.
+  - **CONFLICT, the house's age:** the assessor dates 413's house to **1952**, and you want it older.
+    **(suggestion)** Change it to around **1920**, after the first house burned. Then the uncle would
+    be a much older relative (a great-uncle) who died before 1977. A Crane uncle born around 1890
+    works for both the fire and a notebook full of family knowledge. **OPEN:** confirm the year, and
+    whether he's an uncle or a great-uncle.
 
 ### The Grange (1911 to 1974)
 - **Chartered** June 21, 1911, by nine families, on the site of the old well. The Grange knew a fair
@@ -187,12 +203,14 @@ The entity works through two tiers of influence, and it uses both to get itself 
   - **Tobias Drury** was eaten by Fido. Nobody ever found him, only his lamp, melted inward.
   - **Coyle's** hands were burned black.
   - **Pruitt** found writing left by one of the prospectors who died down there. It describes
-    **Fido**, **the earthquake**, **the entity's glow** far below, and what being near it did to the
-    writer and the other miners.
-    - **(suggestion)** The glow fits an abyssal thing that hates light: deep things make their own
-      light and hate everyone else's.
-    - **OPEN:** whether this writing is why the Pruitts prospered afterward, and where it is now (the
-      Pruitt line, Lydia Greaves, the church archive).
+    **Fido**, **the earthquake**, **a deep hum** far below, and what being near it did to the writer
+    and the other miners.
+    - **Where it went:** Pruitt sold it to the **Millbrook Historical Society**. The horde later stole
+      it, and it's now in the **church archive**.
+    - **(suggestion)** Clarence Oyler's Historical Society page (1996) asks readers to write to him
+      about the Grange, and Clarence died in December 1997. The account could be stolen from the
+      Society's collection after his death, which a Society notice or a Ledger brief could record.
+    - **OPEN:** whether the account is why the Pruitts prospered afterward.
   - W. (Wendell) Oyler kept his lamp lit and stayed up on the lane.
 - **May 1974:** the county survey finds the cistern water black, the depth unsoundable, and the
   brick at the junction warm and wet.
@@ -200,24 +218,23 @@ The entity works through two tiers of influence, and it uses both to get itself 
   air shaft was 11 to 0. The Watch book stayed with the hall, and the lamps went to the families.
 
 ## Elias Crane (new canon)
-- **He is the last of the Crane family**, born to the patriarch's granddaughter out of wedlock. In
-  1977, at 23, he bought the Grange hall, which stood on his family's old land. **(suggestion)**
-  Nobody on the lane knows that.
-- He read the Keepers' book "like a warranty."
-- **The vial:** Crane found a sealed vial inside a wall of **his family's house** while renovating it
-  to sell. He thought it was moonshine and drank it. It was the foul water.
-- **The buyer was Paul Rennick.** The house is **413 Harrow Lane**, and the assessor already shows
-  Paul acquiring it in **1983**. Paul has been sleeping in the Crane house, next to the Well, for 21
-  years, which is part of why he dreams.
-  - **CONFLICT, the house:** the assessor says 413's house was **built in 1952**, and the 1977 Ledger
-    story has Crane living in "his rented house down the street." **(suggestion)** A Crane relative
-    built the 1952 house on the old family plot. Elias rented it from the estate in 1977, inherited
-    it, and renovated it to sell in 1983. The vial was hidden in the old part, or carried over from
-    the first homestead. Selling in 1983 also fits money trouble just before his first fraud
-    conviction (1984 to 1985).
-  - **(suggestion)** That means Crane drank in 1983, not 1977. The 1977 trip to the lower room,
-    "something answered him from a long way down," came from dreams alone, and the vial is what
-    tipped him over.
+- **He is the last of the Crane family**, born to the patriarch's granddaughter out of wedlock.
+  **(suggestion)** Nobody on the lane connects him to the old family.
+- **1977:** Elias comes back to Millbrook and lives in his late uncle's house, the old homestead at
+  413. In **his uncle's notebook** he finds a note about the well, and it sends him down. He buys the
+  land and the Grange hall, goes down into the lower room alone, and something answers him "from a
+  long way down." That is when the dreams begin. He builds his church over the Well.
+  - The 1977 Ledger story calls it "his rented house down the street." **(suggestion)** Change that
+    to "his late uncle's house down the street," or leave it as a small lie Crane told the paper.
+  - He also reads the Keepers' book "like a warranty."
+  - **OPEN:** what the note in the notebook says.
+- **1983: the vial.** Renovating the uncle's house to sell it, Crane finds the **sealed vial** his
+  uncle hid in the wall. He thinks it's moonshine and drinks it. It's the foul water. Until then it
+  was the dreams; the vial is what tips him over.
+- **The buyer is Paul Rennick.** The assessor already shows Paul acquiring 413 in **1983**. Paul has
+  been sleeping in the Crane house for 21 years, close to the Well, which is part of why he dreams.
+  Selling in 1983 also fits Crane's money trouble just before his first fraud conviction (1984 to
+  1985).
 - **Crane believes he is possessed.** He believes the entity lives in him and chose him, and he has
   a grand idea of himself as its tenant and its chosen one. **None of that is true.** The entity has
   only ever worked on him from far away, through dreams and the water. It flatters him because a man
@@ -314,8 +331,17 @@ The entity works through two tiers of influence, and it uses both to get itself 
     private army, as much as a bunch of slightly mutated, crazed people can be. They do the dirty
     work (taking Paul, the shotgun fire on the 10/13 blotter, the buckshot at Route 9 Sporting) and
     attack the player from time to time throughout the game.
-  - **OPEN:** whether the deliverance wing (Ruth Pell, Mrs. Tate, Dale Kirsch) are infected, or
-    just held there.
+- **The deliverance wing** (Ruth Pell, Mrs. Tate, Dale Kirsch) are **not infected**. The church
+  believes each of them knows an important secret about the Well, so they're held at the Lodge
+  against their will. The caretakers think they're there for counseling.
+  - **OPEN:** what each one is believed to know. Some ideas:
+    - **Mrs. Tate** (81, from Birch Court): one of the old lane families, who heard the Grange stories
+      as a girl, or who knew Wendell.
+    - **Dale Kirsch:** worked the dig as "the warehouse" and saw something below, then filed a Labor
+      Board complaint.
+    - **Ruth Pell:** Samuel's daughter, who overheard something at home, or saw something at
+      Judgement House.
+  - **OPEN:** whether the church is right that they know anything.
 - **The diggers.** **(suggestion)** Ashby Staffing recruits men who need work and housing, like Dale
   Kirsch, for "the warehouse," which nobody can find. The warehouse is the dig.
 - **Miriam Vole (née Hale)** has read the whole book. She is "the last one who can still choose" and
@@ -407,7 +433,8 @@ church survives.
   **young**.
 - **Miriam and Aldous Vole:** the **prodigal** and the **true believer**.
 - **Jess Morrow** (MCC, Seismometer): Crane's daughter, **true blood**.
-- **Dale Kirsch** (newbrother_d) is in the deliverance wing.
+- **Dale Kirsch** (newbrother_d) is in the deliverance wing, held because the church thinks he knows
+  something about the Well.
 - **MCC:** Owen Hart's HARROW doc (cancelled) and his band Seismometer (Jess, Priya, Tyler, Owen).
   Their "315" field recording has a voice under the hum.
 - **Grace Lutheran** (Pastor Anne Sorensen) runs a Tuesday circle for people leaving high-demand
@@ -455,9 +482,13 @@ These need rewriting before the new lore can be built. Nothing in sites.json has
   POINTS ON A STAR. 8 ARE LIT", the "NEW FACTS" lamp counts) and "3 AM IS THE DEVIL'S HOUR," and keep
   the church-business accusations. Optionally add a few small slips that match `~prennick`'s
   phrasing, so the player can connect them.
-- `millbrookcounty.gov/assessor/413-harrow`, `home.millnet.com/~prennick`: room to show that Paul bought
-  413 from Elias Crane in 1983 (seller of record, or a line in Paul's history). Check against the
-  "CONFLICT, the house" fix.
+- `millbrookcounty.gov/assessor/413-harrow`: the house's build year (1952) needs to move earlier, and
+  there's room to show Elias Crane as the seller in 1983. `home.millnet.com/~prennick` could mention
+  it too.
+- `millbrookledger.com/archive/1977-grange-sold`: "his rented house down the street" and the sale by
+  the Grange's trustees (see "CONFLICT, the Grange").
+- `members.webhaven.com/millbrookhistory`: the Historical Society page could mention that the Society
+  once had a prospector's account, or that it went missing.
 - `millbrookledger.com/staff`: Dana Ruiz is already listed as editor. Room to give her a voice, such
   as a skeptical line on the staff page.
 - `members.webhaven.com/jessm`, `soundhaus.com/seismometer`: room for early hints that Jess isn't
