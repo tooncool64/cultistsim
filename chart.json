@@ -1,0 +1,1008 @@
+{
+	"title": "Harrow Lane: The Wall",
+	"intro": "Everyone and everything you've found, pinned up. Fill every box from the names and organizations you've collected. Answers only lock in when at least three new ones are right at once.",
+	"sections": [
+		{
+			"id": "church",
+			"title": "THE MOTHER CHURCH"
+		},
+		{
+			"id": "well",
+			"title": "UNDER THE LANE"
+		},
+		{
+			"id": "county",
+			"title": "WHO SIGNS OFF"
+		},
+		{
+			"id": "upper",
+			"title": "UPSTAIRS"
+		},
+		{
+			"id": "board",
+			"title": "THE BOARD OF TEN",
+			"per_row": 5
+		},
+		{
+			"id": "victims",
+			"title": "WHO THEY TOOK"
+		},
+		{
+			"id": "pipeline",
+			"title": "HOW THEY FIND THEM"
+		},
+		{
+			"id": "neighbors",
+			"title": "NEXT DOOR"
+		},
+		{
+			"id": "ours",
+			"title": "WHO'S ON YOUR SIDE"
+		}
+	],
+	"cards": [
+		{
+			"id": "pastor",
+			"section": "church",
+			"heading": "SENIOR PASTOR",
+			"width": 300,
+			"note": "Bought the old Grange hall in 1977, \"for a song, and not a long one,\" and made it a church.",
+			"slots": [
+				{
+					"id": "pastor",
+					"category": "name",
+					"answer": "Elias Crane",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "pastor_org",
+					"category": "org",
+					"answer": "Crane Holdings LLC",
+					"label": "company:",
+					"hint": "Whose name is on the deeds?"
+				}
+			]
+		},
+		{
+			"id": "pantry",
+			"section": "church",
+			"heading": "THE PANTRY, 1993 TO 1997",
+			"width": 260,
+			"note": "$212,000 went missing. Somebody kept the books.",
+			"slots": [
+				{
+					"id": "pantry_org",
+					"category": "org",
+					"answer": "Harrow Lane Food Pantry",
+					"label": "the charity:",
+					"hint": ""
+				},
+				{
+					"id": "pantry_books",
+					"category": "name",
+					"answer": "Miriam Hale",
+					"label": "kept the books (and testified):",
+					"hint": "Took the immunity deal."
+				}
+			]
+		},
+		{
+			"id": "well",
+			"section": "well",
+			"heading": "THE CRANE WELL, 1868",
+			"width": 260,
+			"note": "Dug where the old spring rose. The family drank from it for four years, until the earthquake of 1872.",
+			"slots": [
+				{
+					"id": "well_dug",
+					"category": "name",
+					"answer": "Josiah Crane",
+					"label": "dug it:",
+					"hint": "Whoever came west first."
+				},
+				{
+					"id": "well_413",
+					"category": "name",
+					"answer": "Abner Crane",
+					"label": "rebuilt the homestead at 413:",
+					"hint": "1921."
+				}
+			]
+		},
+		{
+			"id": "grange",
+			"section": "well",
+			"heading": "THE HALL AT 412",
+			"width": 240,
+			"note": "Built over the Well in 1911. Ten Keepers, and every night one of them sat up until dawn with a light in his window.",
+			"slots": [
+				{
+					"id": "grange_org",
+					"category": "org",
+					"answer": "Harrow Grange No. 212",
+					"label": "who built it:",
+					"hint": ""
+				}
+			]
+		},
+		{
+			"id": "1931",
+			"section": "well",
+			"heading": "HALLOWE'EN, 1931",
+			"width": 260,
+			"note": "Four windows went dark. Four men went down to end it.",
+			"slots": [
+				{
+					"id": "1931_red",
+					"category": "name",
+					"answer": "Wendell Oyler",
+					"label": "kept the three o'clock watch alone:",
+					"hint": "Still keeping it."
+				},
+				{
+					"id": "1931_given",
+					"category": "name",
+					"answer": "Harlan Strand",
+					"label": "found the next morning:",
+					"hint": "Never spoke again."
+				},
+				{
+					"id": "1931_lost",
+					"category": "name",
+					"answer": "Tobias Drury",
+					"label": "never came back:",
+					"hint": "Only a boot came back."
+				}
+			]
+		},
+		{
+			"id": "county",
+			"section": "county",
+			"heading": "THE COUNTY",
+			"width": 240,
+			"note": "Every deed recorded, every variance approved.",
+			"slots": [
+				{
+					"id": "county_recorder",
+					"category": "name",
+					"answer": "Gloria Pruitt",
+					"label": "County Recorder:",
+					"hint": "\"Keeps the county's copy.\""
+				},
+				{
+					"id": "county_no",
+					"category": "name",
+					"answer": "Alice Brandt",
+					"label": "the only one who objected:",
+					"hint": "Read the minutes."
+				}
+			]
+		},
+		{
+			"id": "upper",
+			"section": "upper",
+			"heading": "THE UPPER ROOM",
+			"width": 280,
+			"reuse": true,
+			"note": "Four members. A private forum the rest of the Board doesn't know about. These are the ones who KNOW.",
+			"slots": [
+				{
+					"id": "upper_ec",
+					"category": "name",
+					"answer": "Elias Crane",
+					"label": "E.C.",
+					"hint": ""
+				},
+				{
+					"id": "upper_ii",
+					"category": "name",
+					"answer": "Walter Greaves",
+					"label": "horn_ii:",
+					"hint": "400 block. \"The rules.\""
+				},
+				{
+					"id": "upper_vii",
+					"category": "name",
+					"answer": "Levi Strand",
+					"label": "horn_vii:",
+					"hint": "\"The office.\" \"The stamp.\""
+				},
+				{
+					"id": "upper_watch",
+					"category": "name",
+					"answer": "Daniel Drury",
+					"label": "watchman:",
+					"hint": "Taught Sunday school."
+				}
+			]
+		},
+		{
+			"id": "seven",
+			"section": "upper",
+			"heading": "THE SEVEN, 10/31",
+			"width": 280,
+			"reuse": true,
+			"note": "\"He asks for seven. He doesn't care which seven, so I have chosen them.\" -- E.C. Everyone here is somewhere else on the wall too.",
+			"slots": [
+				{
+					"id": "seven_old",
+					"category": "name",
+					"answer": "Wendell Oyler",
+					"label": "the old:",
+					"hint": "\"Already with us, below, where it's cold.\""
+				},
+				{
+					"id": "seven_betrayer",
+					"category": "name",
+					"answer": "Paul Rennick",
+					"label": "the betrayer:",
+					"hint": ""
+				},
+				{
+					"id": "seven_skeptic",
+					"category": "name",
+					"answer": "Dana Ruiz",
+					"label": "the skeptic:",
+					"hint": "\"Thinks we are a zoning dispute.\""
+				},
+				{
+					"id": "seven_young",
+					"category": "name",
+					"answer": "Hannah Kettering",
+					"label": "the young:",
+					"hint": "\"He asked for a young one.\""
+				},
+				{
+					"id": "seven_prodigal",
+					"category": "name",
+					"answer": "Miriam Vole",
+					"label": "the prodigal:",
+					"hint": ""
+				},
+				{
+					"id": "seven_believer",
+					"category": "name",
+					"answer": "Aldous Vole",
+					"label": "the true believer:",
+					"hint": ""
+				},
+				{
+					"id": "seven_blood",
+					"category": "name",
+					"answer": "Jess Morrow",
+					"label": "true blood:",
+					"hint": "\"Mine to bring. Don't ask me about it.\""
+				}
+			]
+		},
+		{
+			"id": "b1",
+			"section": "board",
+			"heading": "BOARD SEAT 1",
+			"note": "Board Treasurer. An accountant.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b1",
+					"category": "name",
+					"answer": "Aldous Vole",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b1_org",
+					"category": "org",
+					"answer": "Vole & Associates CPA",
+					"label": "runs:",
+					"hint": ""
+				},
+				{
+					"id": "b1_fam",
+					"category": "name",
+					"answer": "Miriam Vole",
+					"label": "family:",
+					"hint": "Left. Came back."
+				}
+			]
+		},
+		{
+			"id": "b2",
+			"section": "board",
+			"heading": "BOARD SEAT 2",
+			"note": "Board seat: the Harrow Lane neighborhood.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b2",
+					"category": "name",
+					"answer": "Walter Greaves",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b2_org",
+					"category": "org",
+					"answer": "Harrow Lane Homeowners Association",
+					"label": "runs:",
+					"hint": "Mind your lawn."
+				},
+				{
+					"id": "b2_fam",
+					"category": "name",
+					"answer": "Lydia Greaves",
+					"label": "family:",
+					"hint": "Check the bottom of your mail."
+				}
+			]
+		},
+		{
+			"id": "b3",
+			"section": "board",
+			"heading": "BOARD SEAT 3",
+			"note": "Board seat: the Birch Court neighborhood.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b3",
+					"category": "name",
+					"answer": "Nathaniel Drury",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b3_org",
+					"category": "org",
+					"answer": "Birch Court Community Association",
+					"label": "runs:",
+					"hint": "Who files the liens?"
+				},
+				{
+					"id": "b3_fam",
+					"category": "name",
+					"answer": "Daniel Drury",
+					"label": "family:",
+					"hint": "Wears a badge to the door."
+				}
+			]
+		},
+		{
+			"id": "b4",
+			"section": "board",
+			"heading": "BOARD SEAT 4",
+			"note": "Board seat: Pine Hollow Estates.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b4",
+					"category": "name",
+					"answer": "Samuel Pell",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b4_org",
+					"category": "org",
+					"answer": "Pine Hollow Estates POA",
+					"label": "runs:",
+					"hint": "They wouldn't open the gate."
+				},
+				{
+					"id": "b4_fam",
+					"category": "name",
+					"answer": "Ruth Pell",
+					"label": "family:",
+					"hint": "Missing posters."
+				}
+			]
+		},
+		{
+			"id": "b5",
+			"section": "board",
+			"heading": "BOARD SEAT 5",
+			"note": "Board seat: Buildings & Grounds.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b5",
+					"category": "name",
+					"answer": "Isaac Mercer",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b5_org",
+					"category": "org",
+					"answer": "Mercer Construction",
+					"label": "runs:",
+					"hint": "Whose trucks are those?"
+				},
+				{
+					"id": "b5_fam",
+					"category": "name",
+					"answer": "Jonah Mercer",
+					"label": "family:",
+					"hint": "Night shift, heavy equipment."
+				},
+				{
+					"id": "b5_fam2",
+					"category": "name",
+					"answer": "Judith Mercer",
+					"label": "family:",
+					"hint": "Somebody signs the overtime."
+				}
+			]
+		},
+		{
+			"id": "b6",
+			"section": "board",
+			"heading": "BOARD SEAT 6",
+			"note": "Board seat: Vehicles & Transportation.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b6",
+					"category": "name",
+					"answer": "Jeremiah Coyle",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b6_org",
+					"category": "org",
+					"answer": "Coyle Auto Repair & Towing",
+					"label": "runs:",
+					"hint": "Where did your car go?"
+				},
+				{
+					"id": "b6_fam",
+					"category": "name",
+					"answer": "Abel Coyle",
+					"label": "family:",
+					"hint": "Works nights. Hooks and chains."
+				},
+				{
+					"id": "b6_fam2",
+					"category": "name",
+					"answer": "Deborah Coyle",
+					"label": "family:",
+					"hint": "Also sits on a commission."
+				}
+			]
+		},
+		{
+			"id": "b7",
+			"section": "board",
+			"heading": "BOARD SEAT 7",
+			"note": "Board seat: Property Transfers.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b7",
+					"category": "name",
+					"answer": "Levi Strand",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b7_org",
+					"category": "org",
+					"answer": "Strand Title & Escrow",
+					"label": "runs:",
+					"hint": "Every sale closes in one office."
+				},
+				{
+					"id": "b7_fam",
+					"category": "name",
+					"answer": "Naomi Strand",
+					"label": "family:",
+					"hint": "Check the stamps."
+				}
+			]
+		},
+		{
+			"id": "b8",
+			"section": "board",
+			"heading": "BOARD SEAT 8",
+			"note": "Board seat: Member Employment.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b8",
+					"category": "name",
+					"answer": "Gideon Ashby",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b8_org",
+					"category": "org",
+					"answer": "Ashby Staffing Services",
+					"label": "runs:",
+					"hint": "Read the complaints."
+				},
+				{
+					"id": "b8_fam",
+					"category": "name",
+					"answer": "Thomas Ashby",
+					"label": "family:",
+					"hint": "A college kid with a clipboard."
+				}
+			]
+		},
+		{
+			"id": "b9",
+			"section": "board",
+			"heading": "BOARD SEAT 9",
+			"note": "Board seat: Member Housing.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b9",
+					"category": "name",
+					"answer": "Harold Finch",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b9_org",
+					"category": "org",
+					"answer": "Finch Property Management",
+					"label": "runs:",
+					"hint": "58 units, one landlord."
+				},
+				{
+					"id": "b9_fam",
+					"category": "name",
+					"answer": "Joan Finch",
+					"label": "family:",
+					"hint": "Collects in person."
+				}
+			]
+		},
+		{
+			"id": "b10",
+			"section": "board",
+			"heading": "BOARD SEAT 10",
+			"note": "Board seat: Member Protection.",
+			"width": 216,
+			"slots": [
+				{
+					"id": "b10",
+					"category": "name",
+					"answer": "Amos Kettering",
+					"label": "",
+					"hint": ""
+				},
+				{
+					"id": "b10_org",
+					"category": "org",
+					"answer": "Kettering Insurance Agency",
+					"label": "runs:",
+					"hint": "Check the beneficiary."
+				},
+				{
+					"id": "b10_fam",
+					"category": "name",
+					"answer": "Hannah Kettering",
+					"label": "family:",
+					"hint": "Says her prayers every night."
+				},
+				{
+					"id": "b10_fam2",
+					"category": "name",
+					"answer": "Ruth Kettering",
+					"label": "family:",
+					"hint": "Her mother makes quilts."
+				}
+			]
+		},
+		{
+			"id": "1986",
+			"section": "victims",
+			"heading": "405 HARROW, 1986",
+			"width": 230,
+			"note": "Said no to the Pastor twice. Then the children \"remembered.\"",
+			"slots": [
+				{
+					"id": "1986_org",
+					"category": "org",
+					"answer": "Little Lambs Home Daycare",
+					"label": "the business:",
+					"hint": ""
+				},
+				{
+					"id": "1986_owner",
+					"category": "name",
+					"answer": "Carol Lindqvist",
+					"label": "the owner:",
+					"hint": "Moved east. Audio only."
+				}
+			]
+		},
+		{
+			"id": "wing",
+			"section": "victims",
+			"heading": "THE DELIVERANCE WING",
+			"width": 230,
+			"note": "Pine Hollow Lodge, rooms 8 to 10. Room 9 is somebody's daughter.",
+			"slots": [
+				{
+					"id": "wing_8",
+					"category": "name",
+					"answer": "Margaret Tate",
+					"label": "room 8:",
+					"hint": "81. Who signs for her?"
+				},
+				{
+					"id": "wing_10",
+					"category": "name",
+					"answer": "Dale Kirsch",
+					"label": "room 10:",
+					"hint": "His sister is still asking."
+				}
+			]
+		},
+		{
+			"id": "harvest",
+			"section": "pipeline",
+			"heading": "FIND WORK. FIND FAMILY.",
+			"width": 230,
+			"note": "Free pizza. \"Would anyone notice if you took a semester off?\"",
+			"slots": [
+				{
+					"id": "harvest_org",
+					"category": "org",
+					"answer": "Harvest Fellowship",
+					"label": "the ministry:",
+					"hint": ""
+				},
+				{
+					"id": "harvest_where",
+					"category": "org",
+					"answer": "Millbrook Community College",
+					"label": "where it recruits:",
+					"hint": ""
+				}
+			]
+		},
+		{
+			"id": "413",
+			"section": "neighbors",
+			"heading": "413 HARROW",
+			"width": 230,
+			"note": "The old Crane homestead. One of the two houses around the Well the church doesn't have yet.",
+			"slots": [
+				{
+					"id": "413_owner",
+					"category": "name",
+					"answer": "Paul Rennick",
+					"label": "owner:",
+					"hint": ""
+				},
+				{
+					"id": "413_tenant",
+					"category": "name",
+					"answer": "Rosa Alvarez",
+					"label": "tenant at 409:",
+					"hint": ""
+				},
+				{
+					"id": "413_bank",
+					"category": "org",
+					"answer": "Millbrook Savings & Loan",
+					"label": "sold his mortgage:",
+					"hint": "09/27."
+				}
+			]
+		},
+		{
+			"id": "ledger",
+			"section": "ours",
+			"heading": "THE LEDGER",
+			"width": 230,
+			"note": "Your paper. Your first Harrow Lane story runs November 1.",
+			"slots": [
+				{
+					"id": "ledger_org",
+					"category": "org",
+					"answer": "Millbrook Ledger",
+					"label": "the paper:",
+					"hint": ""
+				},
+				{
+					"id": "ledger_editor",
+					"category": "name",
+					"answer": "Dana Ruiz",
+					"label": "editor:",
+					"hint": ""
+				},
+				{
+					"id": "ledger_talley",
+					"category": "name",
+					"answer": "Ben Talley",
+					"label": "the last reporter on this story:",
+					"hint": "1992. No notes."
+				}
+			]
+		},
+		{
+			"id": "grace",
+			"section": "ours",
+			"heading": "THE TUESDAY CIRCLE",
+			"width": 240,
+			"note": "For people who left high-demand churches. You are not crazy, and you are not alone.",
+			"slots": [
+				{
+					"id": "grace_org",
+					"category": "org",
+					"answer": "Grace Lutheran Church",
+					"label": "where it meets:",
+					"hint": ""
+				},
+				{
+					"id": "grace_pastor",
+					"category": "name",
+					"answer": "Anne Sorensen",
+					"label": "pastor:",
+					"hint": ""
+				},
+				{
+					"id": "grace_mother",
+					"category": "name",
+					"answer": "Esther Pell",
+					"label": "a mother who comes every week:",
+					"hint": ""
+				},
+				{
+					"id": "grace_red",
+					"category": "name",
+					"answer": "Mark Sandoval",
+					"label": "afraid of the dark:",
+					"hint": "Turned down a seat."
+				}
+			]
+		},
+		{
+			"id": "film",
+			"section": "ours",
+			"heading": "HARROW (22 MIN.)",
+			"width": 220,
+			"note": "The screening was cancelled. The tape is somewhere safe.",
+			"slots": [
+				{
+					"id": "film_maker",
+					"category": "name",
+					"answer": "Owen Hart",
+					"label": "made it:",
+					"hint": ""
+				},
+				{
+					"id": "film_tape",
+					"category": "name",
+					"answer": "Jess Morrow",
+					"label": "has the copy:",
+					"hint": "Not in the dorm."
+				}
+			]
+		}
+	],
+	"links": [
+		[
+			"pastor",
+			"b1"
+		],
+		[
+			"pastor",
+			"b2"
+		],
+		[
+			"pastor",
+			"b3"
+		],
+		[
+			"pastor",
+			"b4"
+		],
+		[
+			"pastor",
+			"b5"
+		],
+		[
+			"pastor",
+			"b6"
+		],
+		[
+			"pastor",
+			"b7"
+		],
+		[
+			"pastor",
+			"b8"
+		],
+		[
+			"pastor",
+			"b9"
+		],
+		[
+			"pastor",
+			"b10"
+		],
+		[
+			"b1",
+			"b2"
+		],
+		[
+			"b1",
+			"b3"
+		],
+		[
+			"b1",
+			"b4"
+		],
+		[
+			"b2",
+			"b6"
+		],
+		[
+			"b3",
+			"b6"
+		],
+		[
+			"b3",
+			"b7"
+		],
+		[
+			"b2",
+			"b7"
+		],
+		[
+			"b8",
+			"b9"
+		],
+		[
+			"b8",
+			"b4"
+		],
+		[
+			"pantry",
+			"pastor"
+		],
+		[
+			"pantry",
+			"b1"
+		],
+		[
+			"upper",
+			"pastor"
+		],
+		[
+			"upper",
+			"b2"
+		],
+		[
+			"upper",
+			"b7"
+		],
+		[
+			"upper",
+			"b3"
+		],
+		[
+			"grange",
+			"pastor"
+		],
+		[
+			"1931",
+			"grange"
+		],
+		[
+			"1931",
+			"b7"
+		],
+		[
+			"1931",
+			"upper"
+		],
+		[
+			"1986",
+			"b9"
+		],
+		[
+			"1986",
+			"pastor"
+		],
+		[
+			"wing",
+			"b4"
+		],
+		[
+			"wing",
+			"b8"
+		],
+		[
+			"harvest",
+			"b8"
+		],
+		[
+			"harvest",
+			"wing"
+		],
+		[
+			"county",
+			"b2"
+		],
+		[
+			"county",
+			"b7"
+		],
+		[
+			"413",
+			"b2"
+		],
+		[
+			"413",
+			"b3"
+		],
+		[
+			"413",
+			"pantry"
+		],
+		[
+			"ledger",
+			"413"
+		],
+		[
+			"film",
+			"ledger"
+		],
+		[
+			"grace",
+			"wing"
+		],
+		[
+			"grace",
+			"1986"
+		],
+		[
+			"well",
+			"pastor"
+		],
+		[
+			"well",
+			"grange"
+		],
+		[
+			"well",
+			"413"
+		],
+		[
+			"seven",
+			"upper"
+		],
+		[
+			"seven",
+			"413"
+		],
+		[
+			"seven",
+			"b1"
+		],
+		[
+			"seven",
+			"b10"
+		],
+		[
+			"seven",
+			"ledger"
+		],
+		[
+			"seven",
+			"film"
+		],
+		[
+			"1931",
+			"well"
+		]
+	]
+}
