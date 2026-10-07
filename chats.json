@@ -31,23 +31,8 @@
 		},
 		"xXskaterboi91Xx": {
 			"name": "xXskaterboi91Xx",
-			"who": "13, youth group, Barb's grandson's friend",
+			"who": "13, church youth group",
 			"profile": "HALO 2 IN 10 DAYS"
-		},
-		"barb_t": {
-			"name": "Barb",
-			"who": "Barb Gunderson, quilter, Hannah's grandma",
-			"profile": "Quilter, Grandma, Moose's Mom!! Barb is away"
-		},
-		"lydia_g": {
-			"name": "Lydia Greaves",
-			"who": "HOA Secretary, Planning Commission Chair",
-			"profile": "Harrow Lane HOA. 7-time blue ribbon, apple. Please do not contact after 10 PM."
-		},
-		"walt_hw": {
-			"name": "Walt",
-			"who": "Walter Greaves, HOA President (horn_ii)",
-			"profile": "Harrow & Western Railroad, HO scale, est. 1988!"
 		},
 		"prennick": {
 			"name": "Paul",
@@ -114,6 +99,11 @@
 			"who": "Hannah Kettering",
 			"profile": "~*~ Jeremiah 29:11 ~*~"
 		},
+		"guest4127": {
+			"name": "guest4127",
+			"who": "an unregistered guest connecting from the church's server; never says who it is",
+			"profile": "(guest)"
+		},
 		"dd_watch": {
 			"name": "dd_watch",
 			"who": "Dep. Daniel Drury, lurking. Never speaks.",
@@ -127,12 +117,12 @@
 	},
 	"flags": {
 		"said_reporter": "You told the room you're the Ledger's night reporter.",
-		"defied_lydia": "You pushed back on Lydia in public at least once.",
-		"refused_forms": "You told Lydia you won't sign the Strand Title forms.",
+		"defied_hoa": "You pushed back on the HOA in the room at least once.",
+		"refused_forms": "You told guest4127 you won't sign at the lower hall.",
 		"told_dream": "You mentioned the dream in the room.",
 		"priya_ally": "You asked Priya what she thinks instead of taking Paul's word.",
 		"rosa_date": "You know Rosa leaves Thursday morning.",
-		"know_cams": "Walt told you where the HOA cameras point, or that the password was never changed.",
+		"know_cams": "Rick told you about the HOA cameras on your window, or the unchanged password.",
 		"know_scrapbook": "Ron let slip that he's holding a pink scrapbook for a lady.",
 		"told_thomas": "You told Thomas you own your house and have no family nearby.",
 		"asked_dale": "You asked Thomas where Dale Kirsch is.",
@@ -144,7 +134,7 @@
 		"searched_413": "You went over to 413 with Ron and Rosa the night Paul vanished.",
 		"called_state": "You had Rosa call the state patrol about Paul.",
 		"paul_taken": "You told the room Paul didn't walk off on his own.",
-		"lydia_dana": "Lydia whispered a warning about Dana working alone at the office.",
+		"said_paper": "You told the room Paul's disappearance is going in the paper (dd_watch was listening).",
 		"van_asked": "You asked the room about the Pine Hollow van.",
 		"knows_harmonic": "You agreed with Priya that harmonic_truth was Paul.",
 		"shed_said": "You told the room something was in your shed.",
@@ -159,8 +149,7 @@
 		"beckett_clue": "You pointed Ron at the Beckett Funeral Home alarm.",
 		"jess_hint": "You pointed Jess at the county court index (Crane, Ellen v. Crane, Elias).",
 		"jess_wait": "You told Jess to wait until after Sunday.",
-		"barb_safe": "Barb is staying home on the 31st instead of going to the service.",
-		"skater_safe": "The skater kid will leave Judgement House with his group before 11.",
+		"skater_safe": "The skater kid and his mom won't stay for the special service on the 31st.",
 		"named_miriam": "You called a_friend by Miriam's name."
 	},
 	"nights": [
@@ -194,8 +183,8 @@
 							"text": "i do. its retro"
 						},
 						{
-							"from": "barb_t",
-							"text": "Hello night411!! Welcome to the chat room!! What does a/s/l mean? Hannah set me up on here and she's at youth group."
+							"from": "kayleigh_s",
+							"text": "hi new person!! ignore him, he's been making that joke since 1999"
 						},
 						{
 							"prompt": [
@@ -211,8 +200,8 @@
 											"text": "wait 411. like the HOUSE 411. the one with the blue screen in the back window at 3am"
 										},
 										{
-											"from": "barb_t",
-											"text": "Oh you're Paul's neighbor!! He's such a nice man, he did the star party for my grandson's Cub Scouts."
+											"from": "kayleigh_s",
+											"text": "everybody knows that window lol. it's like the only light on the whole street"
 										}
 									]
 								},
@@ -223,16 +212,12 @@
 									],
 									"reply": [
 										{
-											"from": "barb_t",
-											"text": "A REPORTER!! Are you writing about the Harvest Festival? My quilt won Best in Show!!"
+											"from": "kayleigh_s",
+											"text": "omg a real reporter. are you doing the harvest festival, my friend's little brother grew a 301 pound pumpkin"
 										},
 										{
 											"from": "pizzagod88",
-											"text": "barb hes not here for the quilt"
-										},
-										{
-											"from": "barb_t",
-											"text": "Everyone is here for the quilt hon."
+											"text": "hes not here for the pumpkin kayleigh"
 										}
 									]
 								},
@@ -248,139 +233,62 @@
 											"text": "hes a cop"
 										},
 										{
-											"from": "barb_t",
-											"text": "Are you a policeman dear? Deputy Drury is very nice, he does a seminar about Satanists."
+											"from": "kayleigh_s",
+											"text": "if ur a cop u have to tell us. thats the law"
 										}
 									]
 								}
 							]
-						},
-						{
-							"from": "*",
-							"text": "lydia_g has joined #millbrook"
-						},
-						{
-							"from": "lydia_g",
-							"text": "Good evening, everyone! Walt says this is where the young people chat, so I thought I'd pop in and say hello."
-						},
-						{
-							"from": "pizzagod88",
-							"text": "oh no its the HOA"
-						},
-						{
-							"from": "lydia_g",
-							"text": "And welcome to our newest neighbor at 411! We're all so glad you're here. I couldn't help noticing your back window is uncovered again tonight, dear. Section 4.2!"
 						},
 						{
 							"from": "tacoma_steve",
-							"text": "she can SEE you from her house?? 410 is across the street lol"
+							"text": "real advice tho. if your back window faces the church, close the curtain. they can see it from the lot and they WILL send a letter. i got a 4.2 notice at rosas for HER window"
 						},
 						{
-							"from": "lydia_g",
-							"text": "It's a small street, Steven."
+							"from": "pizzagod88",
+							"text": "the hoa doesnt sleep. its like a shark"
 						},
 						{
 							"prompt": [
-								{
-									"text": "Evening, Mrs. Greaves. I'll look into the curtains.",
-									"reply": [
-										{
-											"from": "lydia_g",
-											"text": "Lydia, please! And thank you, that's all we ask."
-										}
-									]
-								},
 								{
 									"text": "I work nights. The light stays on.",
 									"set": [
-										"defied_lydia"
+										"defied_hoa"
 									],
 									"reply": [
-										{
-											"from": "lydia_g",
-											"text": "Oh, we know, dear. We all know."
-										},
-										{
-											"from": "pizzagod88",
-											"text": "lmao"
-										}
-									]
-								},
-								{
-									"text": "How did you know I'm on here?",
-									"reply": [
-										{
-											"from": "lydia_g",
-											"text": "Your screen name has your house number in it, dear."
-										},
 										{
 											"from": "tacoma_steve",
-											"text": "she got you there"
-										}
-									]
-								}
-							]
-						},
-						{
-							"from": "lydia_g",
-							"whisper": true,
-							"text": "One more little thing, just between us. Brother Levi has a few forms for you at Strand Title, and Naomi is in on Sundays. No rush! Before the end of the month."
-						},
-						{
-							"prompt": [
-								{
-									"text": "I'm not signing anything without a lawyer.",
-									"whisper_to": "lydia_g",
-									"set": [
-										"refused_forms"
-									],
-									"reply": [
-										{
-											"from": "lydia_g",
-											"whisper": true,
-											"text": "Of course! Bring anyone you like."
+											"text": "respect. say goodbye to $150 a day"
 										}
 									]
 								},
 								{
-									"text": "What kind of forms?",
-									"whisper_to": "lydia_g",
+									"text": "Who actually sends the letters?",
 									"reply": [
 										{
-											"from": "lydia_g",
-											"whisper": true,
-											"text": "Oh, just paperwork. Levi explains it all so much better than I can."
+											"from": "tacoma_steve",
+											"text": "nobody knows. they just show up in the mailbox. no stamp, no envelope, typed, with a section number"
+										},
+										{
+											"from": "kayleigh_s",
+											"text": "my dad says the HOA is a P.O. box at strand title and a lot of ladies with binoculars"
 										}
 									]
 								},
 								{
-									"text": "(don't answer)",
-									"silent": true,
+									"text": "I'll get a curtain.",
 									"reply": [
 										{
-											"from": "lydia_g",
-											"whisper": true,
-											"text": "Sleep well, neighbor!"
+											"from": "pizzagod88",
+											"text": "smart. live to fight another day"
 										}
 									]
 								}
 							]
-						},
-						{
-							"from": "*",
-							"text": "lydia_g has left #millbrook"
-						},
-						{
-							"from": "barb_t",
-							"text": "Well I have to get to bed, it is way past my bedtime. Moose says goodnight!! Keep your porch light on hon, it's a dark street."
-						},
-						{
-							"from": "*",
-							"text": "barb_t has left #millbrook (Moose says nite!!)"
 						},
 						{
 							"from": "xXskaterboi91Xx",
-							"text": "i should be asleep too. dont tell my mom"
+							"text": "i should be asleep. dont tell my mom"
 						},
 						{
 							"from": "pizzagod88",
@@ -629,20 +537,12 @@
 							"text": "abel waves at everybody. abel waved at me while he towed my moms camry from the dees lot"
 						},
 						{
-							"from": "*",
-							"text": "lydia_g has joined #millbrook"
-						},
-						{
-							"from": "lydia_g",
-							"text": "Hi Rosa! The driveway at 409 counts as on the lane for Section 6.1 purposes. It's in the covenants, page 3."
-						},
-						{
 							"from": "rosa_a",
-							"text": "Lydia it's 9:30 at night. how are you here this fast"
+							"text": "there was a notice under his wiper when we got to the tow yard. it says the driveway at 409 counts as \"on the lane\" under Section 6.1. see Section 1.4, definitions. somebody typed that up in the middle of the night and walked it out to the tow yard before we got there"
 						},
 						{
-							"from": "lydia_g",
-							"text": "Walt has the computer in the kitchen now!"
+							"from": "tacoma_steve",
+							"text": "page numbers and everything. at 9 pm. who DOES that"
 						},
 						{
 							"prompt": [
@@ -656,18 +556,18 @@
 									]
 								},
 								{
-									"text": "Lydia, a driveway isn't a street.",
+									"text": "A driveway isn't a street.",
 									"set": [
-										"defied_lydia"
+										"defied_hoa"
 									],
 									"reply": [
 										{
-											"from": "lydia_g",
-											"text": "Section 1.4, definitions. I'll e-mail it to you, dear!"
+											"from": "rosa_a",
+											"text": "tell that to Section 1.4. I called the number on the notice and it's Strand Title's answering machine."
 										},
 										{
 											"from": "tacoma_steve",
-											"text": "she has the page numbers memorized. this is a horror movie"
+											"text": "of course it is"
 										}
 									]
 								},
@@ -687,111 +587,87 @@
 						},
 						{
 							"from": "rosa_a",
-							"text": "anyway. I worked a double. good night, everybody. I'm leaving the Christmas lights on in my window, and the HOA can put that in the newsletter."
+							"text": "anyway. I worked a double. good night, everybody. I'm leaving the Christmas lights on in my window, and the HOA can put that in their newsletter."
 						},
 						{
 							"from": "*",
 							"text": "rosa_a has left #millbrook"
-						},
-						{
-							"from": "lydia_g",
-							"text": "We will! Good night, Rosa."
-						},
-						{
-							"from": "*",
-							"text": "lydia_g has left #millbrook"
 						}
 					]
 				},
 				{
-					"id": "n2_walt",
+					"id": "n2_cams",
 					"notify_at": "11:45 PM",
-					"notification": "walt_hw in #millbrook: Is this thing on?",
+					"notification": "rick_ke7rhm in #millbrook: a PSA about camera boxes",
 					"beats": [
 						{
-							"from": "*",
-							"text": "walt_hw has joined #millbrook"
+							"from": "rick_ke7rhm",
+							"text": "PSA from your friendly MillNet tech, since people keep asking me about \"the cameras on harrow.\" yes, there's a 4-channel WebWatch DVR on a line i wired in August. no, i can't say whose. yes, the customer was told three times to change the factory password."
 						},
 						{
-							"from": "walt_hw",
-							"text": "Testing testing. Is this thing on? Lydia set me up a screen name."
+							"from": "tvoss_productions",
+							"text": "what cameras"
+						},
+						{
+							"from": "rick_ke7rhm",
+							"text": "one on the church lot, one on the dig, one on 413's yard, one on 411's back window. it's on their own web site. [[harrowlanehoa.org/cams|board members only]], allegedly."
 						},
 						{
 							"from": "pizzagod88",
-							"text": "hi mr greaves"
-						},
-						{
-							"from": "walt_hw",
-							"text": "Hello young man! Say, does anybody on here know how to make a picture smaller for the Internet? The camera box for the Association puts out pictures so big they take ten minutes to load on dial-up."
-						},
-						{
-							"from": "tvoss_productions",
-							"text": "what camera box"
-						},
-						{
-							"from": "walt_hw",
-							"text": "The Association's safety cameras. Four channels! It's on the HOA web site, [[harrowlanehoa.org/cams|board members only]], but you can probably see it anyhow, I'm not sure how the password page works."
-						},
-						{
-							"from": "tvoss_productions",
-							"text": "mr greaves you cant just say that on the internet"
+							"text": "411 youre on camera bro"
 						},
 						{
 							"prompt": [
 								{
-									"text": "Which way do the cameras point, Walt?",
+									"text": "How long have they been watching my window?",
 									"set": [
 										"know_cams"
 									],
 									"reply": [
 										{
-											"from": "walt_hw",
-											"text": "Oh, all over! The church lot, the dig, Paul's yard and yours. All for safety. Lydia, what's the rule about saying that out loud?"
-										},
-										{
-											"from": "walt_hw",
-											"text": "She says the rule is no."
+											"from": "rick_ke7rhm",
+											"text": "the box went live in August. the channel 4 label says \"411 rear (new owner).\" make of that what you will."
 										}
 									]
 								},
 								{
-									"text": "Use Paint. Image, then Stretch/Skew, 50 percent.",
-									"reply": [
-										{
-											"from": "walt_hw",
-											"text": "Well I'll be! Lydia, come look, the Paul one is half the size now."
-										},
-										{
-											"from": "tvoss_productions",
-											"text": "the PAUL one??"
-										}
-									]
-								},
-								{
-									"text": "Mr. Greaves, did you ever change the password on that box?",
+									"text": "Did they ever change the password?",
 									"set": [
 										"know_cams"
 									],
 									"reply": [
 										{
-											"from": "walt_hw",
-											"text": "After Halloween! That's what I keep telling Lydia. There are too many passwords in this house already."
+											"from": "rick_ke7rhm",
+											"text": "not as of last week. the customer said \"after Halloween.\" [[webwatchdvr.com/support|the factory one is on the manufacturer's support page]], which i'm only mentioning so you can be outraged about it."
+										}
+									]
+								},
+								{
+									"text": "Rick, why are you telling us this?",
+									"reply": [
+										{
+											"from": "rick_ke7rhm",
+											"text": "because a box i wired is pointed at a guy's bedroom window and i don't like it. and because they asked my boss who dialup-217 is, twice."
 										}
 									]
 								}
 							]
 						},
 						{
-							"from": "walt_hw",
-							"text": "Well, I'm going to go see about my trains. The Harrow & Western runs a midnight special on Mondays. Good night, everybody, and keep it down after ten!"
+							"from": "tvoss_productions",
+							"text": "i am putting this in HOA ATTACKS 2"
 						},
 						{
 							"from": "*",
-							"text": "walt_hw has left #millbrook"
+							"text": "dd_watch has joined #millbrook"
 						},
 						{
-							"from": "tvoss_productions",
-							"text": "i am putting him in HOA ATTACKS 2"
+							"from": "*",
+							"text": "dd_watch has left #millbrook"
+						},
+						{
+							"from": "rick_ke7rhm",
+							"text": "and that's my cue. 73."
 						}
 					]
 				},
@@ -1174,20 +1050,16 @@
 							"text": "we're in the MCC lot with bill and six telescopes. totality until 8:44. paul was supposed to bring his 10-inch and he's not answering his phone."
 						},
 						{
-							"from": "barb_t",
-							"text": "I'm on the back porch with Moose!! It looks like a big cherry Lifesaver. Is it supposed to be that red??"
+							"from": "xXskaterboi91Xx",
+							"text": "why is it RED. is it supposed to be red"
 						},
 						{
 							"from": "priya_n",
-							"text": "yes barb. it's every sunrise and sunset on earth at once, landing on the moon."
+							"text": "yes. it's every sunrise and sunset on earth at once, landing on the moon."
 						},
 						{
-							"from": "barb_t",
-							"text": "Well isn't that something. LOL (lots of love)"
-						},
-						{
-							"from": "tacoma_steve",
-							"text": "barb no"
+							"from": "xXskaterboi91Xx",
+							"text": "ok thats actually sick"
 						},
 						{
 							"prompt": [
@@ -1213,11 +1085,11 @@
 									]
 								},
 								{
-									"text": "Barb, that's the nicest thing I've read all week.",
+									"text": "Priya, that's the nicest way anyone's ever explained anything to me.",
 									"reply": [
 										{
-											"from": "barb_t",
-											"text": "Aw hon!! You come to the potluck sometime. Lydia has won the pie seven years running!"
+											"from": "priya_n",
+											"text": "i stole it from sagan. don't tell bill."
 										}
 									]
 								}
@@ -1232,8 +1104,8 @@
 							"text": "the dogs on birch ct are going NUTS"
 						},
 						{
-							"from": "barb_t",
-							"text": "Moose went under the porch and won't come out. Silly boy."
+							"from": "tacoma_steve",
+							"text": "rosas cat just went under the bed and wont come out"
 						},
 						{
 							"from": "kayleigh_s",
@@ -1276,10 +1148,6 @@
 						{
 							"from": "kayleigh_s",
 							"text": "the moon is back!!! everyone say thank you moon"
-						},
-						{
-							"from": "barb_t",
-							"text": "Thank you moon!!"
 						},
 						{
 							"from": "tacoma_steve",
@@ -1350,28 +1218,16 @@
 							]
 						},
 						{
-							"from": "*",
-							"text": "lydia_g has joined #millbrook"
-						},
-						{
-							"from": "lydia_g",
-							"text": "What a quiet night on Harrow! I can't remember the last time the whole lane was dark after ten."
+							"from": "tacoma_steve",
+							"text": "uh. the HOA email list just sent something. subject line \"A Quiet Night on Harrow!\" body is one sentence: \"Thank you, neighbors, for a dark and peaceful evening.\" sent 11:58 PM"
 						},
 						{
 							"from": "rosa_a",
-							"text": "Lydia. Paul is missing."
+							"text": "Paul is MISSING and they're sending thank you notes."
 						},
 						{
-							"from": "lydia_g",
-							"text": "Oh, I'm sure he's visiting family, dear. Good night, everyone!"
-						},
-						{
-							"from": "*",
-							"text": "lydia_g has left #millbrook"
-						},
-						{
-							"from": "rosa_a",
-							"text": "Paul doesn't have any family."
+							"from": "y2k_ron",
+							"text": "how did they know it was dark. who's counting the lights"
 						}
 					]
 				},
@@ -1451,60 +1307,63 @@
 				{
 					"id": "n5_missing",
 					"notify_at": "10:15 PM",
-					"notification": "barb_t in #millbrook: MISSING: Paul Rennick",
+					"notification": "y2k_ron in #millbrook: they took the flyers down",
 					"beats": [
 						{
-							"from": "barb_t",
-							"text": "I made a MISSING flyer for Paul at the Kinko's in Tacoma. 200 copies!! If you see him please call the Sheriff. Or call me, 555-0162, I'm home."
+							"from": "kayleigh_s",
+							"text": "my dad and i made MISSING flyers for paul at kinko's. 200 copies. please put them up if you're anywhere near harrow or dee's"
 						},
 						{
 							"from": "rosa_a",
-							"text": "made it to Olympia. my sister's couch has never felt so good. Barb, thank you. please put one up at Dee's."
+							"text": "made it to Olympia. my sister's couch has never felt so good. Kayleigh, thank you."
 						},
 						{
 							"from": "y2k_ron",
-							"text": "i put one on every pole on harrow. they were gone by dinner. every single one."
+							"text": "i put one on every pole on harrow this afternoon. they were gone by dinner. every one. and there was a typed notice tucked in my screen door. \"Section 7.8: no signage on utility poles.\" no name. no envelope."
 						},
 						{
-							"from": "*",
-							"text": "lydia_g has joined #millbrook"
-						},
-						{
-							"from": "lydia_g",
-							"text": "Barb, dear, the Association doesn't allow flyers on the poles. Section 7.8. But I'm sure Paul will turn up!"
-						},
-						{
-							"from": "lydia_g",
-							"text": "And just so everyone knows, the trustee's sale on 413 is still Monday morning at 10, on the County Building steps, for anyone interested."
+							"from": "pizzagod88",
+							"text": "also the ledger classifieds still have the trustee sale for 413. monday 10 am, county building steps. like nothing happened"
 						},
 						{
 							"from": "rosa_a",
-							"text": "he's been missing for one day, Lydia."
+							"text": "he's been missing ONE day."
 						},
 						{
 							"prompt": [
 								{
-									"text": "Lydia, a man is missing and you're advertising his house.",
+									"text": "They're not even pretending.",
 									"set": [
-										"defied_lydia"
+										"defied_hoa"
 									],
 									"reply": [
 										{
-											"from": "lydia_g",
-											"text": "I'm only sharing public information, dear. You of all people should appreciate that."
+											"from": "y2k_ron",
+											"text": "why would they. nobody's ever made them."
 										}
 									]
 								},
 								{
 									"text": "It's going in the paper. All of it.",
 									"set": [
-										"lydia_dana"
+										"said_paper"
 									],
 									"reply": [
 										{
-											"from": "lydia_g",
-											"whisper": true,
-											"text": "I'd think very carefully about what goes in the paper, neighbor. Dana works so hard, and she's all alone at that office so late."
+											"from": "rosa_a",
+											"text": "good. put the notice in too. put the time on it."
+										},
+										{
+											"from": "*",
+											"text": "dd_watch has joined #millbrook"
+										},
+										{
+											"from": "*",
+											"text": "dd_watch has left #millbrook"
+										},
+										{
+											"from": "pizzagod88",
+											"text": "ok that guy shows up every time somebody says something real. who IS that"
 										}
 									]
 								},
@@ -1515,10 +1374,6 @@
 									],
 									"reply": [
 										{
-											"from": "barb_t",
-											"text": "A van?? I was asleep hon, I'm always asleep by ten."
-										},
-										{
 											"from": "rosa_a",
 											"text": "Pine Hollow plates, Paul thought. Birch Court side. that's all anybody's got."
 										}
@@ -1527,12 +1382,8 @@
 							]
 						},
 						{
-							"from": "*",
-							"text": "lydia_g has left #millbrook"
-						},
-						{
-							"from": "barb_t",
-							"text": "Well I'm putting the flyers up again tomorrow, and they can fine me!! Section 7.8 my foot."
+							"from": "kayleigh_s",
+							"text": "my dad's putting them up again tomorrow at 7 AM and standing next to them. let them fine him."
 						}
 					]
 				},
@@ -1660,9 +1511,17 @@
 							"text": "411. is it the shed. grandpa's shed."
 						},
 						{
-							"from": "lydia_g",
+							"from": "*",
+							"text": "guest4127 has joined #millbrook"
+						},
+						{
+							"from": "guest4127",
 							"whisper": true,
-							"text": "Your shed door is open, dear. You might want to close it."
+							"text": "Your shed door is open."
+						},
+						{
+							"from": "*",
+							"text": "guest4127 has left #millbrook"
 						},
 						{
 							"from": "y2k_ron",
@@ -1755,12 +1614,8 @@
 							"text": "at the homecoming game. we are losing to tacoma south 21 to 3. under the sea more like under the C"
 						},
 						{
-							"from": "*",
-							"text": "lydia_g has joined #millbrook"
-						},
-						{
-							"from": "lydia_g",
-							"text": "Opening night! 212 tickets sold already. Thank you, Millbrook! And please don't park in front of 411 or 413, Brother Abel will tow."
+							"from": "pizzagod88",
+							"text": "PSA they put cones in front of 411 and 413. abel is parked at the corner with the rollback running. don't even think about it"
 						},
 						{
 							"from": "kayleigh_s",
@@ -1794,15 +1649,11 @@
 									]
 								},
 								{
-									"text": "Lydia, why is the basement roped off?",
+									"text": "Why is the basement roped off?",
 									"reply": [
 										{
-											"from": "lydia_g",
-											"text": "Construction, dear! It says so right on the sign."
-										},
-										{
-											"from": "*",
-											"text": "lydia_g has left #millbrook"
+											"from": "kayleigh_s",
+											"text": "sign says construction. i asked abel and he didn't say anything, he just looked at me until i went back in line"
 										}
 									]
 								}
@@ -2092,35 +1943,43 @@
 							"text": "youth group is making me do judgement house again"
 						},
 						{
-							"from": "barb_t",
-							"text": "I'm bringing scotcheroos to Judgement House!! Lydia says I can stay for the special service after, she says it's for the families and very moving."
+							"from": "xXskaterboi91Xx",
+							"text": "and my mom says we're staying for the \"special service\" after. she says it's for the families and very moving"
 						},
 						{
 							"from": "kayleigh_s",
-							"text": "BARB NO"
+							"text": "NO"
 						},
 						{
-							"from": "barb_t",
-							"text": "Why not hon??"
+							"from": "xXskaterboi91Xx",
+							"text": "why not"
 						},
 						{
 							"prompt": [
 								{
-									"text": "Barb, please go home after the scotcheroos. Trust me on this.",
+									"text": "Leave with your group before 11. Don't stay for the service.",
 									"set": [
-										"barb_safe"
+										"skater_safe"
 									],
 									"reply": [
 										{
-											"from": "barb_t",
-											"text": "Well... ok hon. Moose has been acting funny anyway and I hate to leave him. I'll watch my programs."
+											"from": "xXskaterboi91Xx",
+											"text": "my mom won't leave early. she never leaves early"
+										},
+										{
+											"from": "kayleigh_s",
+											"text": "tell her there's trunk or treat at grace. FULL SIZE candy bars. mrs pell is doing it. moms love mrs pell"
+										},
+										{
+											"from": "xXskaterboi91Xx",
+											"text": "...ok that might actually work"
 										}
 									]
 								},
 								{
 									"text": "Everybody stay home tomorrow night with every light on.",
 									"set": [
-										"barb_safe"
+										"skater_safe"
 									],
 									"reply": [
 										{
@@ -2128,28 +1987,21 @@
 											"text": "411 has entered his prophet era"
 										},
 										{
-											"from": "barb_t",
-											"text": "Well the HOA can fine me!! I'll stay home with Moose and the porch light. LOL"
+											"from": "xXskaterboi91Xx",
+											"text": "ill tell my mom i have a fever. i kind of do. from fear"
 										}
 									]
 								},
 								{
-									"text": "Skater kid, leave with your group before 11.",
-									"set": [
-										"skater_safe"
-									],
+									"text": "What's the special service for?",
 									"reply": [
 										{
 											"from": "xXskaterboi91Xx",
-											"text": "the last group goes through at like 10:45 so yeah. my mom wants to stay for \"fellowship\" though"
+											"text": "idk. a dedication? only the board goes downstairs. families wait in the fellowship hall and pray. my mom says its an honor to be asked"
 										},
 										{
 											"from": "kayleigh_s",
-											"text": "come to trunk or treat at grace after!! FULL SIZE candy bars"
-										},
-										{
-											"from": "xXskaterboi91Xx",
-											"text": "FULL SIZE??? asking my mom"
+											"text": "please just come to grace after"
 										}
 									]
 								}
@@ -2170,70 +2022,83 @@
 					]
 				},
 				{
-					"id": "n7_lydia",
+					"id": "n7_notice",
 					"notify_at": "12:40 AM",
-					"notification": "lydia_g in #millbrook: A friendly reminder for tomorrow night!",
+					"notification": "tacoma_steve in #millbrook: did everyone get the letter",
 					"beats": [
 						{
-							"from": "*",
-							"text": "lydia_g has joined #millbrook"
+							"from": "tacoma_steve",
+							"text": "did everyone on harrow get the letter. rosa's neighbor read it to her over the phone"
 						},
 						{
-							"from": "lydia_g",
-							"text": "A friendly reminder for tomorrow night! Curtains closed (4.2), lights off after 11 (4.7), and please stay indoors. It's for your safety. Happy Halloween, everyone!"
+							"from": "y2k_ron",
+							"text": "taped to my door at 6. \"Halloween Reminders: Curtains closed (Sec. 4.2). No visible light after 11 PM (Sec. 4.7). Residents are asked to remain indoors. This is for your safety.\" typed. no name."
 						},
 						{
 							"from": "tvoss_productions",
 							"text": "my livestream disagrees"
 						},
 						{
-							"from": "lydia_g",
+							"from": "*",
+							"text": "guest4127 has joined #millbrook"
+						},
+						{
+							"from": "guest4127",
 							"whisper": true,
-							"text": "Neighbor, Naomi will be at the church tomorrow night, in the lower hall, with her stamp. It would mean so much to the Association to have 411 settled before the 1st. Bring a pen."
+							"text": "Naomi will be in the lower hall tomorrow night with her stamp. 411 should be settled before the 1st. Bring a pen."
 						},
 						{
 							"prompt": [
 								{
-									"text": "I won't be signing anything, Lydia.",
-									"whisper_to": "lydia_g",
+									"text": "I won't be signing anything.",
+									"whisper_to": "guest4127",
 									"set": [
 										"refused_forms"
 									],
 									"reply": [
 										{
-											"from": "lydia_g",
+											"from": "guest4127",
 											"whisper": true,
-											"text": "Well. Walt will be so disappointed."
+											"text": "Everyone signs."
 										}
 									]
 								},
 								{
-									"text": "What happened to Paul?",
-									"whisper_to": "lydia_g",
+									"text": "Who is this?",
+									"whisper_to": "guest4127",
 									"reply": [
 										{
-											"from": "lydia_g",
+											"from": "guest4127",
 											"whisper": true,
-											"text": "I'm sure I don't know, dear. Good night."
+											"text": "A neighbor."
+										}
+									]
+								},
+								{
+									"text": "Where's Paul?",
+									"whisper_to": "guest4127",
+									"reply": [
+										{
+											"from": "guest4127",
+											"whisper": true,
+											"text": "Bring a pen."
 										}
 									]
 								},
 								{
 									"text": "(don't answer)",
 									"silent": true,
-									"reply": [
-										{
-											"from": "lydia_g",
-											"whisper": true,
-											"text": "We'll leave a light on for you. Just kidding! Section 4.7."
-										}
-									]
+									"reply": []
 								}
 							]
 						},
 						{
 							"from": "*",
-							"text": "lydia_g has left #millbrook"
+							"text": "guest4127 has left #millbrook"
+						},
+						{
+							"from": "rick_ke7rhm",
+							"text": "fyi, \"guest\" accounts on here show the connecting host to anyone who looks. that one connected from the same server the church web site runs on. evangelicalsintl.org. not exactly subtle."
 						},
 						{
 							"from": "rick_ke7rhm",
